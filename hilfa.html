@@ -101,8 +101,8 @@ html,body{margin:0;background:var(--color-bg);color:var(--color-fg);font-family:
 
   <!-- #region trend -->
   <section class="sw-card" id="trend">
-    <h2>Sessioner per kanal och månad</h2>
-    <p class="sw-note">Innevarande månad är inte komplett. Bottrafik är borttagen. Diagrammet visar alltid de senaste 15 månaderna och påverkas inte av datumfiltret.</p>
+    <h2>Sessioner per kanal</h2>
+    <p class="sw-note">Följer datumfiltret: per dag upp till 31 dagar, per vecka upp till 120 dagar, annars per månad. Bottrafik är borttagen.</p>
     <div class="sw-legend" id="sw-trend-legend" data-source="monthly_clean"></div>
     <div class="sw-chart dash-skeleton" id="sw-trend" data-source="monthly_clean"></div>
   </section>
@@ -439,21 +439,11 @@ window.sw = {
 // #region monthly-calc
 dash.calc('monthly_clean', {
   inputs: ['ga_channels'],
-  title: 'Sessioner per kanal och månad',
-  description: 'Dagliga sessioner och konverteringar per kanal summerade per månad, utan bottrafik (en kanal en dag med minst 50 sessioner och under 10 % engagerade).',
-  fn: (ga_channels) => {
-    const m = new Map();
-    for (const r of ga_channels) {
-      const s = Number(r.sessions) || 0, e = Number(r.engaged_sessions) || 0;
-      if (s >= 50 && e / s < 0.1) continue;
-      const ym = String(r.date).slice(0, 7);
-      const k = ym + '|' + r.channel;
-      const g = m.get(k) || { yearMonth: ym, sessionDefaultChannelGrouping: r.channel, sessions: 0, conversions: 0 };
-      g.sessions += s; g.conversions += Number(r.conversions) || 0;
-      m.set(k, g);
-    }
-    return [...m.values()];
-  },
+  title: 'Sessioner per kanal och dag',
+  description: 'Dagliga sessioner och konverteringar per kanal, utan bottrafik (en kanal en dag med minst 50 sessioner och under 10 % engagerade).',
+  fn: (ga_channels) => ga_channels
+    .filter((r) => { const s = Number(r.sessions) || 0; return !(s >= 50 && (Number(r.engaged_sessions) || 0) / s < 0.1); })
+    .map((r) => ({ date: String(r.date).slice(0, 10), channel: r.channel, sessions: Number(r.sessions) || 0, conversions: Number(r.conversions) || 0 })),
 });
 // #endregion monthly-calc
 
@@ -477,9 +467,23 @@ dash.calc('monthly_clean', {
       if (window.sw.isFail(d.status)) window.sw.failLine(box); else box.replaceChildren();
       return;
     }
-    const keep = new Set(Array.from(new Set(d.data.map((r) => r.yearMonth).filter(Boolean))).sort().slice(-15));
-    const rows = d.data.filter((r) => keep.has(r.yearMonth) && order.includes(r.sessionDefaultChannelGrouping));
-    const months = Array.from(new Set(d.data.map((r) => r.yearMonth).filter(Boolean))).sort().slice(-15).map((m) => ({ key: m, date: new Date(m + '-01T00:00:00Z') }));
+    const p = dash.params();
+    const nDays = p.start && p.end ? Math.round((new Date(p.end) - new Date(p.start)) / 864e5) + 1 : 0;
+    const gran = nDays > 120 ? 'month' : nDays > 31 ? 'week' : 'day';
+    const bucket = (s) => { if (gran === 'month') return s.slice(0, 7) + '-01'; if (gran !== 'week') return s; const t = new Date(s + 'T00:00:00Z'); return new Date(t - ((t.getUTCDay() + 6) % 7) * 864e5).toISOString().slice(0, 10); };
+    const agg = new Map();
+    for (const r of d.data) {
+      if (!nDays || r.date < p.start || r.date > p.end) continue;
+      const b = bucket(r.date), k = b + '|' + r.channel;
+      const g = agg.get(k) || { yearMonth: b, sessionDefaultChannelGrouping: r.channel, sessions: 0 };
+      g.sessions += r.sessions; agg.set(k, g);
+    }
+    const allRows = [...agg.values()];
+    const months = Array.from(new Set(allRows.map((r) => r.yearMonth))).sort().map((m) => ({ key: m, date: new Date(m + 'T00:00:00Z') }));
+    const rows = allRows.filter((r) => order.includes(r.sessionDefaultChannelGrouping));
+    const tickFmt = (dt) => dt.toLocaleDateString('sv-SE', gran === 'month' ? { month: 'short', year: '2-digit', timeZone: 'UTC' } : { day: 'numeric', month: 'short', timeZone: 'UTC' });
+    const tipFmt = (dt) => (gran === 'month' ? longFmt(dt) : (gran === 'week' ? 'Veckan från ' : '') + dt.toLocaleDateString('sv-SE', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }));
+    if (!months.length) { legend.replaceChildren(); box.replaceChildren(); return; }
     const present = order.filter((c) => rows.some((r) => r.sessionDefaultChannelGrouping === c));
     const colorOf = (c) => dash.colors[order.indexOf(c) % dash.colors.length];
     const lookup = new Map(rows.map((r) => [r.yearMonth + '|' + r.sessionDefaultChannelGrouping, r.sessions || 0]));
@@ -523,7 +527,7 @@ dash.calc('monthly_clean', {
     svg.append('g').selectAll('text').data(months.filter((m, i) => (i % every === 0 && months.length - 1 - i >= every) || i === months.length - 1)).join('text')
       .attr('x', (m) => x(m.date)).attr('y', H - 8).attr('text-anchor', (m, i, all) => (i === 0 ? 'start' : i === all.length - 1 ? 'end' : 'middle'))
       .attr('font-size', 12).attr('fill', 'var(--color-fg-muted)').style('font-family', 'var(--font-anthropic-sans)')
-      .text((m) => monthFmt(m.date));
+      .text((m) => tickFmt(m.date));
     svg.append('line').attr('x1', left).attr('x2', W - right).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', 'var(--cds-chart-axis)');
 
 
@@ -552,7 +556,7 @@ dash.calc('monthly_clean', {
       dots.attr('cx', px).attr('cy', (s) => y(s.values[i].v)).style('display', null);
       const head = document.createElement('div');
       head.className = 'sw-tip-date';
-      head.textContent = longFmt(m.date);
+      head.textContent = tipFmt(m.date);
       tip.replaceChildren(head, ...series.slice().sort((a, b) => b.values[i].v - a.values[i].v).map((s) => {
         const r = document.createElement('div');
         r.className = 'sw-tip-row';
