@@ -178,7 +178,7 @@ html,body{margin:0;background:var(--color-bg);color:var(--color-fg);font-family:
   let pending = false;
   const run = () => { pending = false; cbs.forEach((f) => { try { f(); } catch (e) { console.error(e); } }); };
   const schedule = () => { if (!pending) { pending = true; setTimeout(run, 0); } };
-  Object.keys(files).forEach((id) => { store[id] = { status: 'loading', data: [], meta: [] }; d3.csv(base + files[id]).then((rows) => { store[id] = { status: 'ok', data: rows, columns: rows.columns, meta: [] }; schedule(); }).catch(() => { store[id] = { status: 'error', data: [], meta: [] }; schedule(); }); });
+  Object.keys(files).forEach((id) => { store[id] = { status: 'loading', data: [], meta: [] }; d3.csv(base + files[id] + '?d=' + new Date().toISOString().slice(0, 13)).then((rows) => { store[id] = { status: 'ok', data: rows, columns: rows.columns, meta: [] }; schedule(); }).catch(() => { store[id] = { status: 'error', data: [], meta: [] }; schedule(); }); });
   let lastW = window.innerWidth;
   window.addEventListener('resize', () => { if (window.innerWidth !== lastW) { lastW = window.innerWidth; schedule(); } });
   window.dash = { data: res, onData: (f) => { cbs.push(f); try { f(); } catch (e) { console.error(e); } }, calc: (id, c) => { calcs[id] = c; }, loader: () => {}, colors,

@@ -30,7 +30,7 @@ footer{margin-top:8px;font-size:12px;color:var(--color-fg-muted)}
       <button role="tab" data-tab="hilfa" aria-selected="false">Hilfa</button>
     </div>
   </div>
-  <iframe id="frame" title="Webbstatistik" src="swede-wheel.html"></iframe>
+  <iframe id="frame" title="Webbstatistik"></iframe>
   <footer>Källa: Google Analytics 4 via Windsor.ai. Bottrafik (en kanal en dag med minst 50 sessioner och under 10 % engagerade) är borträknad.</footer>
 </div>
 <script>
@@ -45,7 +45,7 @@ footer{margin-top:8px;font-size:12px;color:var(--color-fg-muted)}
     if (!names[t]) t = 'swede-wheel';
     tabs.forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === t)));
     document.getElementById('title').textContent = names[t];
-    if (!frame.src.endsWith(t + '.html')) frame.src = t + '.html';
+    if (frame.dataset.tab !== t) { frame.dataset.tab = t; frame.src = t + '.html?v=' + Date.now(); }
     if (location.hash.slice(1) !== t) history.replaceState(null, '', '#' + t);
   };
   tabs.forEach((b) => b.addEventListener('click', () => show(b.dataset.tab)));
