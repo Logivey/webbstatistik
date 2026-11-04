@@ -1,0 +1,588 @@
+<!doctype html>
+<html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow">
+<title>Hilfa – webbstatistik</title>
+<style>:root{--color-fg:#1d1d1b;--color-fg-muted:#6b6a65;--color-bg:#faf9f5;--color-panel:#fff;--color-border-line:#e6e3da;--color-ok:#1f7a4d;--color-warn:#b26b00;--color-bad:#c0392b;
+--font-anthropic-sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--font-anthropic-serif:Georgia,"Times New Roman",serif;
+--cds-gap-xs:4px;--cds-gap-sm:8px;--cds-gap-md:16px;--cds-gap-lg:24px;--cds-pad-xs:4px;--cds-pad-sm:8px;--cds-pad-lg:20px;--cds-radius:10px;
+--cds-font-size-caption:12px;--cds-font-size-body:14px;--cds-font-size-heading:16px;--cds-font-size-title:30px;--cds-font-weight-medium:600;
+--cds-chart-grid:#eeece5;--cds-chart-axis:#cfccc2;--cds-chart-reference:#9a978d;--cds-surface-popover:#fff;--cds-border:#e6e3da;--cds-shadow-popover:0 2px 8px rgba(0,0,0,.1);--cds-text-secondary:#6b6a65;--cds-dur-slow:.3s}
+@media (prefers-color-scheme: dark){:root{--color-fg:#ecebe6;--color-fg-muted:#a3a29b;--color-bg:#1c1c1a;--color-panel:#262624;--color-border-line:#3a3936;--color-ok:#5fc48e;--color-warn:#e0a24a;--color-bad:#ef7a6c;
+--cds-chart-grid:#33322f;--cds-chart-axis:#4a4945;--cds-chart-reference:#7a7972;--cds-surface-popover:#2f2e2b;--cds-border:#3a3936;--cds-text-secondary:#a3a29b}}
+html,body{margin:0;background:var(--color-bg);color:var(--color-fg);font-family:var(--font-anthropic-sans)}
+#dash-root{padding:0 0 24px}
+.dash-skeleton{color:transparent;background:linear-gradient(90deg,var(--color-border-line),var(--color-panel),var(--color-border-line));background-size:200% 100%;border-radius:6px;animation:sk 1.4s infinite}
+@keyframes sk{to{background-position:-200% 0}}
+
+#dash-root .sw { font-family: var(--font-anthropic-sans); display: flex; flex-direction: column; gap: var(--cds-gap-lg); }
+.sw-head h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; }
+.sw-take { color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 0; font-size: var(--cds-font-size-body); }
+.sw-take b, .sw .sw-take b { font-weight: var(--cds-font-weight-medium); color: var(--color-fg); }
+.sw-kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); gap: var(--cds-gap-md); }
+.sw-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); min-width: 0; }
+.sw-kpi-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.sw-kpi-val { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; margin: var(--cds-gap-xs) 0; }
+.sw-chg { font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.sw-up { color: var(--color-ok); }
+.sw-down { color: var(--color-bad); }
+.sw-flat { color: var(--color-fg-muted); }
+.sw-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: var(--cds-gap-md); }
+.sw-card h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.sw-note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 var(--cds-gap-md); }
+.sw-chart { position: relative; min-height: 300px; }
+.sw-chart svg { display: block; }
+.sw-tip { position: absolute; top: 0; left: 0; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; white-space: nowrap; z-index: 2; }
+.sw-tip-date { color: var(--cds-text-secondary); margin-bottom: 2px; }
+.sw-tip-row { display: flex; align-items: center; gap: var(--cds-gap-xs); }
+.sw-tip-row span:last-child { margin-left: auto; padding-left: var(--cds-pad-sm); }
+.sw-sw { width: 8px; height: 8px; border-radius: 2px; flex: none; }
+.sw-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-bottom: var(--cds-gap-sm); min-height: 1.2em; }
+.sw-legend span { display: inline-flex; align-items: center; gap: var(--cds-gap-xs); }
+.sw-scroll { overflow-x: auto; }
+.sw-table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-body); font-variant-numeric: tabular-nums; }
+.sw-table th { text-align: right; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.sw-table td { text-align: right; padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.sw-table th:first-child, .sw-table td:first-child { text-align: left; padding-left: 0; }
+.sw-table td:first-child { white-space: normal; overflow-wrap: anywhere; }
+.sw-wide { grid-column: 1 / -1; }
+.sw-filter { display: flex; flex-wrap: wrap; align-items: center; gap: var(--cds-gap-sm); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.sw-filter label { display: inline-flex; align-items: center; gap: var(--cds-gap-xs); }
+.sw-filter input[type=date] { font: inherit; color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-xs) var(--cds-pad-sm); }
+.sw-presets { display: inline-flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
+.sw-filter button { font: inherit; color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.sw-filter button[aria-pressed=true] { border-color: var(--color-fg); }
+.sw-period { flex-basis: 100%; }
+.sw-fresh { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 0; }
+.sw-bots { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 0; }
+#sw-channels td:first-child { white-space: nowrap; overflow-wrap: normal; }
+#sw-products td:first-child { white-space: nowrap; overflow-wrap: normal; }
+#sw-products td:nth-child(2) { text-align: left; white-space: normal; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+#sw-products th:nth-child(2) { text-align: left; }
+.sw-status { min-height: 0; }
+.sw-status.dash-skeleton { min-height: 6rem; }
+.sw-fail { display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); min-height: 6rem; }
+.sw-chart .sw-fail { min-height: 300px; }
+.sw-fail::before { content: ''; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+[data-dash-source-state=empty] { color: transparent; }
+</style></head>
+<body data-data="data/hilfa/" data-files='{"ga_channels":"ga_channels_daily.csv","ga_devices":"ga_devices_daily.csv","ga_events":"ga_events_daily.csv","ga_articles":"ga_product_views_daily.csv","ga_active_users":"ga_active_users.csv"}'>
+<div id="dash-root">
+
+<div class="sw">
+  <!-- #region header -->
+  <header class="sw-head" id="oversikt">
+    
+    <div class="sw-filter" id="datumfilter">
+      <label>Från <input type="date" class="sw-start" min="2020-01-01" max="2099-12-31" aria-label="Från datum"></label>
+      <label>Till <input type="date" class="sw-end" min="2020-01-01" max="2099-12-31" aria-label="Till datum"></label>
+      <span class="sw-presets">
+        <button type="button" data-days="7">7 dagar</button>
+        <button type="button" data-days="30">30 dagar</button>
+        <button type="button" data-days="90">90 dagar</button>
+        <button type="button" data-days="365">12 månader</button>
+      </span>
+      <span class="sw-period" id="sw-period"></span>
+    </div>
+    <p class="sw-take" id="sw-take" data-source="ga_channels">Vald period: <b class="sw-k dash-skeleton" data-k="conversions">—</b> konverteringar (<span class="sw-k dash-skeleton" data-k="conversions_change">—</span> mot föregående lika långa period) på <b class="sw-k dash-skeleton" data-k="sessions">—</b> sessioner.</p>
+    <p class="sw-bots" id="sw-bots" data-source="ga_channels" hidden>Bottrafik borttagen: <span class="sw-b" data-b="cur_sessions">—</span> sessioner (<span class="sw-b" data-b="cur_days">—</span> dagar) i vald period och <span class="sw-b" data-b="prev_sessions">—</span> sessioner (<span class="sw-b" data-b="prev_days">—</span> dagar) i jämförelseperioden. En kanal räknas som bot en dag när den har minst 50 sessioner och under 10 % engagerade.</p>
+    <p class="sw-fresh" id="sw-fresh" data-source="ga_channels"></p>
+  </header>
+  <!-- #endregion header -->
+
+  <!-- #region kpis -->
+  <section class="sw-kpis" id="nyckeltal" aria-label="Nyckeltal för vald period">
+    <div class="sw-card" data-source="ga_channels"><div class="sw-kpi-label">Konverteringar</div><div class="sw-kpi-val sw-k dash-skeleton" data-k="conversions">—</div><div class="sw-chg sw-k dash-skeleton" data-k="conversions_change">—</div></div>
+    <div class="sw-card" data-source="ga_channels"><div class="sw-kpi-label">Sessioner</div><div class="sw-kpi-val sw-k dash-skeleton" data-k="sessions">—</div><div class="sw-chg sw-k dash-skeleton" data-k="sessions_change">—</div></div>
+    <div class="sw-card" data-source="ga_active_users"><div class="sw-kpi-label">Aktiva användare</div><div class="sw-kpi-val sw-k dash-skeleton" data-k="activeUsers">—</div><div class="sw-chg sw-k dash-skeleton" data-k="activeUsers_change">—</div></div>
+    <div class="sw-card" data-source="ga_channels"><div class="sw-kpi-label">Nya användare</div><div class="sw-kpi-val sw-k dash-skeleton" data-k="newUsers">—</div><div class="sw-chg sw-k dash-skeleton" data-k="newUsers_change">—</div></div>
+    <div class="sw-card" data-source="ga_channels"><div class="sw-kpi-label">Engagemangsgrad</div><div class="sw-kpi-val sw-k dash-skeleton" data-k="engagementRate">—</div><div class="sw-chg sw-k dash-skeleton" data-k="engagementRate_change">—</div></div>
+  </section>
+  <!-- #endregion kpis -->
+
+  <!-- #region trend -->
+  <section class="sw-card" id="trend">
+    <h2>Sessioner per kanal och månad</h2>
+    <p class="sw-note">Innevarande månad är inte komplett. Bottrafik är borttagen. Diagrammet visar alltid de senaste 15 månaderna och påverkas inte av datumfiltret.</p>
+    <div class="sw-legend" id="sw-trend-legend" data-source="monthly_clean"></div>
+    <div class="sw-chart dash-skeleton" id="sw-trend" data-source="monthly_clean"></div>
+  </section>
+  <!-- #endregion trend -->
+
+  <!-- #region tables -->
+  <div class="sw-grid">
+    <section class="sw-card sw-wide" id="kanaler">
+      <h2>Kanaler</h2>
+      <p class="sw-note">Vald period, förändring mot föregående lika långa period. Bottrafik borttagen.</p>
+      <div class="sw-scroll" data-source="ga_channels"><table class="sw-table" id="sw-channels">
+        <thead><tr><th>Kanal</th><th>Sessioner</th><th>Förändr.</th><th>Engagemang</th><th>Konv.</th><th>Förändr.</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+      <div class="sw-status dash-skeleton"></div>
+    </section>
+
+    <section class="sw-card" id="konverteringar">
+      <h2>Konverteringar per typ</h2>
+      <p class="sw-note">Vald period, förändring mot föregående lika långa period.</p>
+      <div class="sw-scroll" data-source="ga_events"><table class="sw-table" id="sw-events">
+        <thead><tr><th>Händelse</th><th>Antal</th><th>Förändr.</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+      <div class="sw-status dash-skeleton"></div>
+    </section>
+
+    <section class="sw-card" id="produkter">
+      <h2>Topp 10 produkter</h2>
+      <p class="sw-note">Sidvisningar per produktsida under vald period, alla språkversioner sammanlagda (sv, en, uk, de). Finns för de senaste 12 månaderna.</p>
+      <div class="sw-scroll" data-source="ga_articles"><table class="sw-table" id="sw-products">
+        <thead><tr><th>Produkt</th><th>Kategori</th><th>Visningar</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+      <div class="sw-status dash-skeleton"></div>
+    </section>
+
+    <section class="sw-card" id="enheter">
+      <h2>Enheter</h2>
+      <p class="sw-note">Vald period, förändring mot föregående lika långa period. Bottrafik borttagen.</p>
+      <div class="sw-scroll" data-source="ga_devices"><table class="sw-table" id="sw-devices">
+        <thead><tr><th>Enhet</th><th>Sessioner</th><th>Förändr.</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+      <div class="sw-status dash-skeleton"></div>
+    </section>
+  </div>
+  <!-- #endregion tables -->
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+<script src="assets/d3.min.js"></script>
+<script>(function(){
+  const base = document.body.dataset.data;
+  const files = JSON.parse(document.body.dataset.files);
+  const store = {}; const cbs = [], calcs = {}; let params = {};
+  const css = getComputedStyle(document.documentElement);
+  const colors = ['#2f6fde','#d9822b','#1f9d7a','#a855c9','#d64561','#7a8a99','#c2a020','#4aa3c9'];
+  const res = (id) => {
+    if (store[id]) return store[id];
+    if (calcs[id]) { const c = calcs[id]; const ins = c.inputs.map((i) => res(i)); if (ins.some((x) => x.status !== 'ok')) return { status: ins.find((x) => x.status !== 'ok').status, data: [], meta: [] }; return { status: 'ok', data: c.fn(...ins.map((x) => x.data)), meta: [] }; }
+    return { status: 'missing', data: [], meta: [] };
+  };
+  let pending = false;
+  const run = () => { pending = false; cbs.forEach((f) => { try { f(); } catch (e) { console.error(e); } }); };
+  const schedule = () => { if (!pending) { pending = true; setTimeout(run, 0); } };
+  Object.keys(files).forEach((id) => { store[id] = { status: 'loading', data: [], meta: [] }; d3.csv(base + files[id]).then((rows) => { store[id] = { status: 'ok', data: rows, columns: rows.columns, meta: [] }; schedule(); }).catch(() => { store[id] = { status: 'error', data: [], meta: [] }; schedule(); }); });
+  let lastW = window.innerWidth;
+  window.addEventListener('resize', () => { if (window.innerWidth !== lastW) { lastW = window.innerWidth; schedule(); } });
+  window.dash = { data: res, onData: (f) => { cbs.push(f); try { f(); } catch (e) { console.error(e); } }, calc: (id, c) => { calcs[id] = c; }, loader: () => {}, colors,
+    params: () => ({ ...params }), setParams: (p) => { params = { ...params, ...p }; schedule(); }, resetParams: () => { params = {}; schedule(); }, setLink: () => {}, refresh: () => {} };
+})();</script>
+<script>(function(){
+
+// #region helpers
+window.sw = {
+  nf: new Intl.NumberFormat('sv-SE'),
+  pf: new Intl.NumberFormat('sv-SE', { style: 'percent', maximumFractionDigits: 1 }),
+  df: new Intl.NumberFormat('sv-SE', { maximumFractionDigits: 1 }),
+  isFail: (st) => st === 'error' || st === 'connect' || st === 'declined',
+  chg(el, v) {
+    el.classList.remove('sw-up', 'sw-down', 'sw-flat');
+    if (v == null || isNaN(v)) { el.textContent = '—'; return; }
+    const sign = v > 0 ? '+' : v < 0 ? '−' : '±';
+    el.textContent = sign + window.sw.df.format(Math.abs(v)) + ' %';
+    el.classList.add(v > 0.5 ? 'sw-up' : v < -0.5 ? 'sw-down' : 'sw-flat');
+  },
+  failLine(el) {
+    const f = document.createElement('div');
+    f.className = 'sw-fail';
+    f.textContent = 'Failed to load';
+    el.replaceChildren(f);
+  },
+  table(id, ds, cols) {
+    const t = document.getElementById(id);
+    const tb = t.tBodies[0];
+    const status = t.closest('.sw-card').querySelector('.sw-status');
+    const d = dash.data(ds);
+    status.classList.toggle('dash-skeleton', d.status === 'loading');
+    if (d.status !== 'ok') {
+      tb.replaceChildren();
+      if (window.sw.isFail(d.status)) window.sw.failLine(status); else status.replaceChildren();
+      return;
+    }
+    status.replaceChildren();
+    tb.replaceChildren(...d.data.map((r) => {
+      const tr = document.createElement('tr');
+      cols.forEach((c) => {
+        const td = document.createElement('td');
+        const v = r[c.f];
+        if (c.fmt === 'chg') window.sw.chg(td, v);
+        else if (c.fmt === 'pct') td.textContent = v == null ? '—' : window.sw.pf.format(v);
+        else if (c.fmt === 'num') td.textContent = v == null ? '—' : window.sw.nf.format(v);
+        else td.textContent = v == null ? '—' : String(v);
+        tr.appendChild(td);
+      });
+      return tr;
+    }));
+  },
+};
+// #endregion helpers
+
+})();
+(function(){
+
+// #region period
+(() => {
+  const DAY = 864e5;
+  const iso = (t) => new Date(t).toISOString().slice(0, 10);
+  const ms = (s) => new Date(s + 'T00:00:00Z').getTime();
+  const periodFor = (s, e) => {
+    const n = Math.round((ms(e) - ms(s)) / DAY) + 1;
+    const pend = iso(ms(s) - DAY);
+    return { start: s, end: e, pend, pstart: iso(ms(pend) - (n - 1) * DAY) };
+  };
+  const lastDay = () => {
+    const d = dash.data('ga_channels');
+    if (d.status !== 'ok' || !d.data.length) return null;
+    return d.data.reduce((m, r) => (r.date > m ? r.date : m), '');
+  };
+  const lastDays = (n) => { const e = lastDay(); return e ? periodFor(iso(ms(e) - (n - 1) * DAY), e) : null; };
+  window.swP = { iso, ms, periodFor, lastDays, lastDay, DAY };
+
+  const startEl = document.querySelector('.sw-start');
+  const endEl = document.querySelector('.sw-end');
+  const periodEl = document.getElementById('sw-period');
+  const presets = [...document.querySelectorAll('.sw-presets button')];
+  const fmt = (s) => new Date(s + 'T00:00:00Z').toLocaleDateString('sv-SE', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+  let initialized = false;
+  const apply = () => {
+    const s = startEl.value, e = endEl.value;
+    if (!s || !e || !startEl.validity.valid || !endEl.validity.valid || s > e) return;
+    dash.setParams(periodFor(s, e));
+  };
+  startEl.addEventListener('change', apply);
+  endEl.addEventListener('change', apply);
+  presets.forEach((b) => b.addEventListener('click', () => { const p = lastDays(Number(b.dataset.days)); if (p) dash.setParams(p); }));
+  const show = () => {
+    const p = dash.params();
+    if (startEl !== document.activeElement) startEl.value = p.start || '';
+    if (endEl !== document.activeElement) endEl.value = p.end || '';
+    presets.forEach((b) => { const w = lastDays(Number(b.dataset.days)); b.setAttribute('aria-pressed', String(!!w && p.start === w.start && p.end === w.end)); });
+    const n = p.start && p.end ? Math.round((ms(p.end) - ms(p.start)) / DAY) + 1 : null;
+    periodEl.textContent = n ? fmt(p.start) + ' – ' + fmt(p.end) + ' (' + n + ' dagar), jämförs med ' + fmt(p.pstart) + ' – ' + fmt(p.pend) : '';
+    const last = lastDay();
+    document.getElementById('sw-fresh').textContent = last ? 'Data till och med ' + fmt(last) + '. Uppdateras varje morgon.' : '';
+  };
+  startEl.addEventListener('blur', show);
+  endEl.addEventListener('blur', show);
+  dash.onData(() => {
+    if (!initialized && lastDay()) {
+      initialized = true;
+      const p = dash.params();
+      if (!p.start || !p.end) { dash.setParams(lastDays(30)); return; }
+    }
+    show();
+  });
+})();
+// #endregion period
+
+})();
+(function(){
+
+// #region compute
+(() => {
+  const isBot = (r) => { const s = Number(r.sessions) || 0; return s >= 50 && (Number(r.engaged_sessions) || 0) / s < 0.1; };
+  const inP = (r, a, b) => r.date >= a && r.date <= b;
+  const chg = (c, p) => (p ? (c - p) / p * 100 : null);
+  const by = (rows, key, fields) => {
+    const m = new Map();
+    for (const r of rows) {
+      const g = m.get(r[key]) || Object.fromEntries(fields.map((f) => [f, 0]));
+      fields.forEach((f) => { g[f] += Number(r[f]) || 0; });
+      m.set(r[key], g);
+    }
+    return m;
+  };
+  const ok = (id) => dash.data(id).status === 'ok';
+  const st = (id) => dash.data(id).status;
+
+  const setK = (vals, statusOf) => {
+    document.querySelectorAll('.sw-k').forEach((el) => {
+      const k = el.dataset.k;
+      const s = statusOf(k);
+      el.classList.toggle('dash-skeleton', s === 'loading');
+      if (s !== 'ok' || !vals) { el.textContent = window.sw.isFail(s) ? '' : '—'; el.classList.remove('sw-up', 'sw-down', 'sw-flat'); return; }
+      const v = vals[k];
+      if (k.endsWith('_change')) window.sw.chg(el, v);
+      else if (k === 'engagementRate') el.textContent = v == null ? '—' : window.sw.pf.format(v);
+      else el.textContent = v == null ? '—' : window.sw.nf.format(v);
+    });
+  };
+
+  const fill = (id, ds, rows, cols) => {
+    const t = document.getElementById(id);
+    const tb = t.tBodies[0];
+    const status = t.closest('.sw-card').querySelector('.sw-status');
+    const s = st(ds);
+    status.classList.toggle('dash-skeleton', s === 'loading');
+    if (s !== 'ok' || !rows) { tb.replaceChildren(); if (window.sw.isFail(s)) window.sw.failLine(status); else status.replaceChildren(); return; }
+    status.replaceChildren();
+    tb.replaceChildren(...rows.map((r) => {
+      const tr = document.createElement('tr');
+      cols.forEach((c) => {
+        const td = document.createElement('td');
+        const v = r[c.f];
+        if (c.fmt === 'chg') window.sw.chg(td, v);
+        else if (c.fmt === 'pct') td.textContent = v == null ? '—' : window.sw.pf.format(v);
+        else if (c.fmt === 'num') td.textContent = v == null ? '—' : window.sw.nf.format(v);
+        else td.textContent = v == null ? '—' : String(v);
+        tr.appendChild(td);
+      });
+      return tr;
+    }));
+  };
+
+  dash.onData(() => {
+    const p = dash.params();
+    const has = p.start && p.end;
+    const vals = {};
+    let chRows = null, evRows = null, devRows = null, artRows = null;
+
+    if (ok('ga_channels') && has) {
+      const all = dash.data('ga_channels').data;
+      const cur = all.filter((r) => inP(r, p.start, p.end)), prev = all.filter((r) => inP(r, p.pstart, p.pend));
+      const botStats = (rows) => { const b = rows.filter(isBot); return { d: new Set(b.map((r) => r.date)).size, s: b.reduce((x, r) => x + (Number(r.sessions) || 0), 0) }; };
+      const bc = botStats(cur), bp = botStats(prev);
+      const botsEl = document.getElementById('sw-bots');
+      botsEl.hidden = bc.s + bp.s === 0;
+      const bv = { cur_sessions: bc.s, cur_days: bc.d, prev_sessions: bp.s, prev_days: bp.d };
+      botsEl.querySelectorAll('.sw-b').forEach((el) => { el.textContent = window.sw.nf.format(bv[el.dataset.b]); });
+      const F = ['sessions', 'engaged_sessions', 'conversions', 'new_users'];
+      const gc = by(cur.filter((r) => !isBot(r)), 'channel', F), gp = by(prev.filter((r) => !isBot(r)), 'channel', F);
+      const tot = (g) => { const t = Object.fromEntries(F.map((f) => [f, 0])); g.forEach((x) => F.forEach((f) => { t[f] += x[f]; })); return t; };
+      const a = tot(gc), b = tot(gp);
+      const er = (x) => (x.sessions ? x.engaged_sessions / x.sessions : null);
+      Object.assign(vals, {
+        sessions: a.sessions, sessions_change: chg(a.sessions, b.sessions),
+        conversions: a.conversions, conversions_change: chg(a.conversions, b.conversions),
+        newUsers: a.new_users, newUsers_change: chg(a.new_users, b.new_users),
+        engagementRate: er(a), engagementRate_change: chg(er(a), er(b)),
+      });
+      chRows = [...gc.entries()].filter(([, g]) => g.sessions > 0).map(([k, g]) => {
+        const q = gp.get(k) || {};
+        return { channel: k, sessions: g.sessions, sessions_change: chg(g.sessions, q.sessions), engagementRate: g.engaged_sessions / g.sessions, conversions: g.conversions, conversions_change: chg(g.conversions, q.conversions) };
+      }).sort((x, y) => y.sessions - x.sessions);
+    } else {
+      document.getElementById('sw-bots').hidden = true;
+    }
+
+    let auNote = false;
+    if (ok('ga_active_users') && has) {
+      const au = dash.data('ga_active_users').data;
+      const c = au.find((r) => r.period === 'cur' && r.start === p.start && r.end === p.end);
+      const q = au.find((r) => r.period === 'prev' && r.start === p.pstart && r.end === p.pend);
+      vals.activeUsers = c ? Number(c.active_users) : null;
+      vals.activeUsers_change = c && q ? chg(Number(c.active_users), Number(q.active_users)) : null;
+      auNote = !c;
+    }
+    const auCard = document.querySelector('[data-k="activeUsers_change"]');
+
+    if (ok('ga_events') && has) {
+      const all = dash.data('ga_events').data;
+      const gc = by(all.filter((r) => inP(r, p.start, p.end)), 'event', ['conversions']), gp = by(all.filter((r) => inP(r, p.pstart, p.pend)), 'event', ['conversions']);
+      evRows = [...gc.entries()].filter(([, g]) => g.conversions > 0).map(([k, g]) => ({ event: k, conversions: g.conversions, conversions_change: chg(g.conversions, (gp.get(k) || {}).conversions) })).sort((x, y) => y.conversions - x.conversions);
+    }
+    if (ok('ga_devices') && has) {
+      const all = dash.data('ga_devices').data.filter((r) => !isBot(r));
+      const gc = by(all.filter((r) => inP(r, p.start, p.end)), 'device', ['sessions']), gp = by(all.filter((r) => inP(r, p.pstart, p.pend)), 'device', ['sessions']);
+      devRows = [...gc.entries()].filter(([, g]) => g.sessions > 0).map(([k, g]) => ({ device: k, sessions: g.sessions, sessions_change: chg(g.sessions, (gp.get(k) || {}).sessions) })).sort((x, y) => y.sessions - x.sessions);
+    }
+    if (ok('ga_articles') && has) {
+      const m = new Map();
+      for (const r of dash.data('ga_articles').data) {
+        if (!inP(r, p.start, p.end)) continue;
+        const parts = String(r.page_path || '').split('/').filter(Boolean);
+        const seg = parts[parts.length - 1] || '';
+        const mm = seg.match(/^([a-z]{1,4}[0-9]{1,5}[a-z]?)(-.*)?$/i);
+        if (!mm) continue;
+        const art = seg.toUpperCase().replace(/-/g, ' '), isSv = parts[0] === 'sv';
+        const cat = parts.length > 3 ? parts[parts.length - 2].replace(/-/g, ' ') : parts[2] ? parts[2].replace(/-/g, ' ') : '';
+        const g = m.get(art) || { artikel: art, produkt: '', visningar: 0, sv: false };
+        g.visningar += Number(r.views) || 0;
+        if (!g.produkt || (isSv && !g.sv)) { g.produkt = cat; g.sv = isSv; }
+        m.set(art, g);
+      }
+      artRows = [...m.values()].sort((x, y) => y.visningar - x.visningar).slice(0, 10);
+    }
+
+    const kSource = (k) => (k.startsWith('activeUsers') ? st('ga_active_users') : st('ga_channels'));
+    setK(Object.keys(vals).length ? vals : null, kSource);
+    if (auNote && auCard) { auCard.classList.remove('sw-up', 'sw-down', 'sw-flat'); auCard.textContent = 'Bara för snabbvalen'; }
+
+    fill('sw-channels', 'ga_channels', chRows, [{ f: 'channel' }, { f: 'sessions', fmt: 'num' }, { f: 'sessions_change', fmt: 'chg' }, { f: 'engagementRate', fmt: 'pct' }, { f: 'conversions', fmt: 'num' }, { f: 'conversions_change', fmt: 'chg' }]);
+    fill('sw-events', 'ga_events', evRows, [{ f: 'event' }, { f: 'conversions', fmt: 'num' }, { f: 'conversions_change', fmt: 'chg' }]);
+    fill('sw-products', 'ga_articles', artRows, [{ f: 'artikel' }, { f: 'produkt' }, { f: 'visningar', fmt: 'num' }]);
+    fill('sw-devices', 'ga_devices', devRows, [{ f: 'device' }, { f: 'sessions', fmt: 'num' }, { f: 'sessions_change', fmt: 'chg' }]);
+  });
+})();
+// #endregion compute
+
+})();
+(function(){
+
+// #region monthly-calc
+dash.calc('monthly_clean', {
+  inputs: ['ga_channels'],
+  title: 'Sessioner per kanal och månad',
+  description: 'Dagliga sessioner och konverteringar per kanal summerade per månad, utan bottrafik (en kanal en dag med minst 50 sessioner och under 10 % engagerade).',
+  fn: (ga_channels) => {
+    const m = new Map();
+    for (const r of ga_channels) {
+      const s = Number(r.sessions) || 0, e = Number(r.engaged_sessions) || 0;
+      if (s >= 50 && e / s < 0.1) continue;
+      const ym = String(r.date).slice(0, 7);
+      const k = ym + '|' + r.channel;
+      const g = m.get(k) || { yearMonth: ym, sessionDefaultChannelGrouping: r.channel, sessions: 0, conversions: 0 };
+      g.sessions += s; g.conversions += Number(r.conversions) || 0;
+      m.set(k, g);
+    }
+    return [...m.values()];
+  },
+});
+// #endregion monthly-calc
+
+})();
+(function(){
+
+// #region trend-chart
+(() => {
+  const box = document.getElementById('sw-trend');
+  const legend = document.getElementById('sw-trend-legend');
+  const order = ['Organic Search', 'Direct', 'Referral', 'Organic Social', 'AI Assistant', 'Paid Search'];
+  const label = { 'Organic Search': 'Organisk sök', 'Direct': 'Direkt', 'Referral': 'Referral', 'Organic Social': 'Organisk social', 'AI Assistant': 'AI-assistent', 'Paid Search': 'Betald sök' };
+  const monthFmt = (dt) => dt.toLocaleDateString('sv-SE', { month: 'short', year: '2-digit', timeZone: 'UTC' });
+  const longFmt = (dt) => dt.toLocaleDateString('sv-SE', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+
+  dash.onData(() => {
+    const d = dash.data('monthly_clean');
+    box.classList.toggle('dash-skeleton', d.status === 'loading');
+    if (d.status !== 'ok') {
+      legend.replaceChildren();
+      if (window.sw.isFail(d.status)) window.sw.failLine(box); else box.replaceChildren();
+      return;
+    }
+    const keep = new Set(Array.from(new Set(d.data.map((r) => r.yearMonth).filter(Boolean))).sort().slice(-15));
+    const rows = d.data.filter((r) => keep.has(r.yearMonth) && order.includes(r.sessionDefaultChannelGrouping));
+    const months = Array.from(new Set(d.data.map((r) => r.yearMonth).filter(Boolean))).sort().slice(-15).map((m) => ({ key: m, date: new Date(m + '-01T00:00:00Z') }));
+    const present = order.filter((c) => rows.some((r) => r.sessionDefaultChannelGrouping === c));
+    const colorOf = (c) => dash.colors[order.indexOf(c) % dash.colors.length];
+    const lookup = new Map(rows.map((r) => [r.yearMonth + '|' + r.sessionDefaultChannelGrouping, r.sessions || 0]));
+    const series = present.map((c) => ({ c, values: months.map((m) => ({ m, v: lookup.get(m.key + '|' + c) || 0 })) }));
+
+    legend.replaceChildren(...present.map((c) => {
+      const s = document.createElement('span');
+      const sw = document.createElement('i');
+      sw.className = 'sw-sw';
+      sw.style.background = colorOf(c);
+      s.append(sw, document.createTextNode(label[c] || c));
+      return s;
+    }));
+
+    const W = Math.max(280, box.clientWidth || 600);
+    const H = 300;
+    const maxV = d3.max(series, (s) => d3.max(s.values, (p) => p.v)) || 1;
+    const y = d3.scaleLinear([0, maxV], [H - 28, 12]).nice();
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Sessioner per kanal och månad');
+
+    const probe = svg.append('text').attr('font-size', 12).style('font-family', 'var(--font-anthropic-sans)');
+    const yTicks = y.ticks(5);
+    let ml = 0;
+    document.body.appendChild(svg.node());
+    yTicks.forEach((t) => { probe.text(window.sw.nf.format(t)); ml = Math.max(ml, probe.node().getComputedTextLength()); });
+    probe.remove();
+    svg.node().remove();
+    const left = Math.ceil(ml) + 10;
+    const right = 12;
+    const x = d3.scaleUtc([months[0].date, months[months.length - 1].date], [left, W - right]);
+
+    svg.append('g').selectAll('line').data(yTicks).join('line')
+      .attr('x1', left).attr('x2', W - right).attr('y1', (t) => y(t)).attr('y2', (t) => y(t))
+      .attr('stroke', 'var(--cds-chart-grid)').attr('stroke-width', 1);
+    svg.append('g').selectAll('text').data(yTicks).join('text')
+      .attr('x', left - 8).attr('y', (t) => y(t)).attr('dy', '0.32em').attr('text-anchor', 'end')
+      .attr('font-size', 12).attr('fill', 'var(--color-fg-muted)').style('font-family', 'var(--font-anthropic-sans)')
+      .text((t) => window.sw.nf.format(t));
+
+    const every = Math.max(1, Math.ceil(months.length / Math.max(2, Math.floor((W - left) / 64))));
+    svg.append('g').selectAll('text').data(months.filter((m, i) => (i % every === 0 && months.length - 1 - i >= every) || i === months.length - 1)).join('text')
+      .attr('x', (m) => x(m.date)).attr('y', H - 8).attr('text-anchor', (m, i, all) => (i === 0 ? 'start' : i === all.length - 1 ? 'end' : 'middle'))
+      .attr('font-size', 12).attr('fill', 'var(--color-fg-muted)').style('font-family', 'var(--font-anthropic-sans)')
+      .text((m) => monthFmt(m.date));
+    svg.append('line').attr('x1', left).attr('x2', W - right).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', 'var(--cds-chart-axis)');
+
+
+    const line = d3.line().x((p) => x(p.m.date)).y((p) => y(p.v));
+    svg.append('g').selectAll('path').data(series).join('path')
+      .attr('fill', 'none').attr('stroke', (s) => colorOf(s.c)).attr('stroke-width', 2)
+      .attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round').attr('d', (s) => line(s.values));
+
+    const rule = svg.append('line').attr('y1', 12).attr('y2', y(0)).attr('stroke', 'var(--cds-chart-axis)').style('display', 'none');
+    const dots = svg.append('g').selectAll('circle').data(series).join('circle').attr('r', 3.5)
+      .attr('fill', (s) => colorOf(s.c)).style('display', 'none');
+
+    const tip = document.createElement('div');
+    tip.className = 'sw-tip';
+    tip.hidden = true;
+
+    const show = (event) => {
+      const [mx] = d3.pointer(event, svg.node());
+      const scaleX = W / (box.clientWidth || W);
+      const sx = mx;
+      const i = d3.minIndex(months, (m) => Math.abs(x(m.date) - sx));
+      if (i < 0) return;
+      const m = months[i];
+      const px = x(m.date);
+      rule.attr('x1', px).attr('x2', px).style('display', null);
+      dots.attr('cx', px).attr('cy', (s) => y(s.values[i].v)).style('display', null);
+      const head = document.createElement('div');
+      head.className = 'sw-tip-date';
+      head.textContent = longFmt(m.date);
+      tip.replaceChildren(head, ...series.slice().sort((a, b) => b.values[i].v - a.values[i].v).map((s) => {
+        const r = document.createElement('div');
+        r.className = 'sw-tip-row';
+        const sw = document.createElement('i');
+        sw.className = 'sw-sw';
+        sw.style.background = colorOf(s.c);
+        const n = document.createElement('span');
+        n.textContent = label[s.c] || s.c;
+        const v = document.createElement('span');
+        v.textContent = window.sw.nf.format(s.values[i].v);
+        r.append(sw, n, v);
+        return r;
+      }));
+      tip.hidden = false;
+      const cssX = px / scaleX;
+      const tw = tip.offsetWidth;
+      const bw = box.clientWidth;
+      let lx = cssX + 12;
+      if (lx + tw > bw) lx = cssX - tw - 12;
+      tip.style.left = Math.max(0, lx) + 'px';
+      tip.style.top = '8px';
+    };
+    const hide = () => { tip.hidden = true; rule.style('display', 'none'); dots.style('display', 'none'); };
+    svg.append('rect').attr('x', left).attr('y', 0).attr('width', W - left - right).attr('height', H)
+      .attr('fill', 'transparent').on('pointermove', show).on('pointerleave', hide);
+
+    box.replaceChildren(svg.node(), tip);
+  });
+})();
+// #endregion trend-chart
+
+})();</script>
+</body></html>

@@ -1,0 +1,4226 @@
+date,channel,sessions,engaged_sessions,conversions,new_users
+2024-10-20,Cross-network,28,28,6,28
+2024-10-20,Direct,3,1,0,1
+2024-10-20,Organic Search,21,17,0,15
+2024-10-20,Organic Social,2,1,0,0
+2024-10-20,Paid Search,4,4,0,3
+2024-10-20,Unassigned,1,0,0,0
+2024-10-21,Cross-network,25,25,8,25
+2024-10-21,Direct,30,23,0,11
+2024-10-21,Organic Search,88,59,8,32
+2024-10-21,Organic Social,2,2,0,2
+2024-10-21,Paid Search,27,21,0,14
+2024-10-21,Referral,4,1,0,1
+2024-10-21,Unassigned,2,0,0,0
+2024-10-22,Cross-network,28,28,7,28
+2024-10-22,Direct,40,27,0,14
+2024-10-22,Display,1,1,0,0
+2024-10-22,Organic Search,93,65,7,37
+2024-10-22,Organic Social,1,1,0,1
+2024-10-22,Paid Search,26,17,2,19
+2024-10-22,Referral,2,0,0,0
+2024-10-22,Unassigned,1,0,0,0
+2024-10-23,Cross-network,4,4,0,4
+2024-10-23,Direct,33,22,3,15
+2024-10-23,Organic Search,92,66,4,36
+2024-10-23,Organic Video,3,2,0,1
+2024-10-23,Paid Search,13,9,4,8
+2024-10-23,Referral,3,3,2,1
+2024-10-23,Unassigned,1,0,0,0
+2024-10-24,Direct,50,38,1,18
+2024-10-24,Organic Search,96,61,7,41
+2024-10-24,Organic Video,1,0,0,0
+2024-10-24,Paid Search,4,2,0,0
+2024-10-24,Referral,10,4,0,3
+2024-10-24,Unassigned,1,0,0,0
+2024-10-25,Direct,24,17,0,10
+2024-10-25,Organic Search,78,56,1,31
+2024-10-25,Paid Search,2,1,0,0
+2024-10-25,Referral,3,3,0,2
+2024-10-25,Unassigned,1,0,0,0
+2024-10-26,Direct,6,4,0,3
+2024-10-26,Organic Search,22,15,1,19
+2024-10-26,Paid Search,3,0,0,0
+2024-10-26,Referral,2,1,0,0
+2024-10-27,Direct,5,4,0,4
+2024-10-27,Organic Search,21,16,1,19
+2024-10-27,Organic Social,3,2,0,3
+2024-10-28,Cross-network,22,20,8,22
+2024-10-28,Direct,24,17,0,13
+2024-10-28,Organic Search,79,63,2,37
+2024-10-28,Organic Social,40,14,0,38
+2024-10-28,Paid Search,2,2,0,1
+2024-10-28,Referral,10,8,0,2
+2024-10-28,Unassigned,1,0,0,0
+2024-10-29,Cross-network,22,21,5,22
+2024-10-29,Direct,31,23,1,16
+2024-10-29,Organic Search,88,67,3,36
+2024-10-29,Organic Social,6,3,0,5
+2024-10-29,Paid Search,6,6,0,3
+2024-10-29,Referral,9,7,0,2
+2024-10-30,Cross-network,8,7,0,8
+2024-10-30,Direct,44,32,1,20
+2024-10-30,Organic Search,108,72,10,45
+2024-10-30,Organic Social,3,3,0,3
+2024-10-30,Paid Search,6,3,0,3
+2024-10-30,Referral,7,4,0,1
+2024-10-30,Unassigned,3,0,0,0
+2024-10-31,Cross-network,16,13,2,16
+2024-10-31,Direct,34,26,0,13
+2024-10-31,Organic Search,81,59,1,37
+2024-10-31,Organic Social,1,1,1,1
+2024-10-31,Paid Search,9,4,1,3
+2024-10-31,Referral,6,4,0,1
+2024-10-31,Unassigned,4,0,0,0
+2024-11-01,Cross-network,8,7,0,8
+2024-11-01,Direct,25,21,0,5
+2024-11-01,Display,1,1,0,0
+2024-11-01,Organic Search,69,46,2,31
+2024-11-01,Organic Social,1,1,0,0
+2024-11-01,Paid Search,13,11,0,2
+2024-11-01,Referral,3,3,0,2
+2024-11-02,Cross-network,8,7,0,8
+2024-11-02,Direct,6,6,1,5
+2024-11-02,Organic Search,21,13,0,13
+2024-11-02,Organic Social,3,2,0,2
+2024-11-02,Paid Search,2,2,0,2
+2024-11-02,Referral,4,3,0,0
+2024-11-03,Cross-network,2,2,0,2
+2024-11-03,Direct,14,8,0,4
+2024-11-03,Organic Search,27,18,1,18
+2024-11-03,Organic Social,1,1,0,1
+2024-11-03,Paid Search,11,8,0,11
+2024-11-03,Referral,8,6,0,1
+2024-11-03,Unassigned,1,0,0,0
+2024-11-04,Cross-network,6,3,1,5
+2024-11-04,Direct,34,27,2,12
+2024-11-04,Organic Search,90,64,8,37
+2024-11-04,Organic Social,3,2,0,2
+2024-11-04,Paid Search,39,28,2,30
+2024-11-04,Referral,13,7,2,4
+2024-11-04,Unassigned,1,0,0,0
+2024-11-05,Cross-network,5,4,0,5
+2024-11-05,Direct,47,31,1,14
+2024-11-05,Organic Search,129,92,7,58
+2024-11-05,Organic Social,3,2,0,0
+2024-11-05,Paid Search,42,29,0,30
+2024-11-05,Referral,11,5,0,3
+2024-11-05,Unassigned,2,0,0,0
+2024-11-06,Direct,60,36,1,19
+2024-11-06,Display,1,1,0,0
+2024-11-06,Organic Search,140,85,9,44
+2024-11-06,Organic Social,2,1,0,1
+2024-11-06,Paid Search,34,25,1,20
+2024-11-06,Referral,12,9,0,3
+2024-11-07,Cross-network,4,2,0,4
+2024-11-07,Direct,41,24,1,9
+2024-11-07,Organic Search,111,79,7,39
+2024-11-07,Organic Social,4,2,0,1
+2024-11-07,Paid Search,36,22,1,22
+2024-11-07,Referral,7,6,0,1
+2024-11-07,Unassigned,1,0,0,0
+2024-11-08,Cross-network,8,5,0,8
+2024-11-08,Direct,30,17,1,12
+2024-11-08,Organic Search,67,48,1,29
+2024-11-08,Organic Social,2,1,0,1
+2024-11-08,Paid Search,30,26,1,19
+2024-11-08,Referral,4,2,1,1
+2024-11-08,Unassigned,1,0,0,0
+2024-11-09,Cross-network,14,11,0,14
+2024-11-09,Direct,13,8,0,7
+2024-11-09,Organic Search,19,12,0,14
+2024-11-09,Organic Social,1,0,0,1
+2024-11-09,Paid Search,34,22,0,31
+2024-11-09,Unassigned,1,0,0,0
+2024-11-10,Cross-network,7,5,0,6
+2024-11-10,Direct,8,5,0,2
+2024-11-10,Organic Search,15,7,0,8
+2024-11-10,Paid Search,9,8,0,9
+2024-11-10,Referral,1,0,0,1
+2024-11-11,Cross-network,3,3,0,3
+2024-11-11,Direct,42,29,3,16
+2024-11-11,Organic Search,103,70,6,39
+2024-11-11,Organic Social,3,2,0,3
+2024-11-11,Paid Search,20,17,0,17
+2024-11-11,Referral,8,6,0,3
+2024-11-12,Cross-network,2,1,6,2
+2024-11-12,Direct,51,32,1,17
+2024-11-12,Organic Search,107,70,9,54
+2024-11-12,Organic Social,1,1,0,1
+2024-11-12,Paid Search,20,18,0,16
+2024-11-12,Referral,37,29,0,27
+2024-11-12,Unassigned,2,0,0,0
+2024-11-13,Cross-network,2,2,0,2
+2024-11-13,Direct,34,22,3,14
+2024-11-13,Organic Search,96,70,4,45
+2024-11-13,Organic Social,5,2,0,4
+2024-11-13,Paid Search,24,18,6,18
+2024-11-13,Referral,9,8,0,5
+2024-11-13,Unassigned,3,0,0,0
+2024-11-14,Cross-network,5,5,0,5
+2024-11-14,Direct,52,37,0,20
+2024-11-14,Organic Search,114,76,5,51
+2024-11-14,Organic Social,2,0,0,1
+2024-11-14,Paid Search,25,13,0,24
+2024-11-14,Referral,5,3,0,2
+2024-11-14,Unassigned,2,0,0,1
+2024-11-15,Cross-network,8,6,0,8
+2024-11-15,Direct,37,25,0,15
+2024-11-15,Display,1,1,0,0
+2024-11-15,Organic Search,91,60,3,30
+2024-11-15,Organic Social,3,2,0,2
+2024-11-15,Paid Search,28,19,5,21
+2024-11-15,Referral,6,3,0,2
+2024-11-15,Unassigned,1,0,0,0
+2024-11-16,Cross-network,10,10,0,10
+2024-11-16,Direct,6,3,0,3
+2024-11-16,Organic Search,14,9,0,6
+2024-11-16,Paid Search,19,17,0,18
+2024-11-16,Unassigned,3,0,0,0
+2024-11-17,Cross-network,10,7,0,10
+2024-11-17,Direct,6,3,0,2
+2024-11-17,Organic Search,29,17,0,12
+2024-11-17,Paid Search,9,5,0,8
+2024-11-18,Cross-network,14,12,5,13
+2024-11-18,Direct,40,32,2,15
+2024-11-18,Organic Search,94,60,6,40
+2024-11-18,Organic Social,1,1,0,1
+2024-11-18,Paid Search,26,14,1,20
+2024-11-18,Referral,9,7,0,0
+2024-11-18,Unassigned,2,0,0,0
+2024-11-19,Cross-network,12,12,5,12
+2024-11-19,Direct,22,18,3,11
+2024-11-19,Organic Search,111,71,12,39
+2024-11-19,Paid Search,27,19,1,17
+2024-11-19,Referral,10,9,0,3
+2024-11-19,Unassigned,1,0,0,0
+2024-11-20,Cross-network,2,2,0,2
+2024-11-20,Direct,44,29,2,19
+2024-11-20,Organic Search,110,80,2,36
+2024-11-20,Paid Search,23,18,0,18
+2024-11-20,Referral,10,9,1,4
+2024-11-20,Unassigned,2,0,0,0
+2024-11-21,Direct,51,37,3,24
+2024-11-21,Organic Search,108,71,4,44
+2024-11-21,Organic Social,1,1,0,1
+2024-11-21,Paid Search,27,18,2,17
+2024-11-21,Referral,18,9,0,6
+2024-11-21,Unassigned,3,0,0,0
+2024-11-22,Cross-network,1,1,0,1
+2024-11-22,Direct,29,19,0,8
+2024-11-22,Organic Search,96,65,12,39
+2024-11-22,Paid Search,25,19,0,17
+2024-11-22,Referral,8,4,0,2
+2024-11-22,Unassigned,1,0,0,0
+2024-11-23,Cross-network,13,10,0,13
+2024-11-23,Direct,2,1,0,1
+2024-11-23,Organic Search,11,7,0,7
+2024-11-23,Organic Social,1,1,0,1
+2024-11-23,Paid Search,3,2,0,3
+2024-11-24,Cross-network,11,9,0,11
+2024-11-24,Direct,3,3,0,3
+2024-11-24,Organic Search,9,7,0,6
+2024-11-24,Organic Social,2,2,0,2
+2024-11-24,Paid Search,8,3,0,8
+2024-11-24,Referral,1,1,0,0
+2024-11-25,Cross-network,3,3,0,3
+2024-11-25,Direct,34,17,1,10
+2024-11-25,Organic Search,83,60,2,35
+2024-11-25,Paid Search,39,27,0,30
+2024-11-25,Referral,11,10,0,0
+2024-11-26,Cross-network,5,3,0,5
+2024-11-26,Direct,35,26,2,13
+2024-11-26,Display,2,1,0,0
+2024-11-26,Organic Search,93,63,4,46
+2024-11-26,Paid Search,16,11,4,12
+2024-11-26,Referral,10,7,0,2
+2024-11-26,Unassigned,1,0,0,0
+2024-11-27,Cross-network,5,4,0,4
+2024-11-27,Direct,54,36,0,17
+2024-11-27,Organic Search,114,75,4,44
+2024-11-27,Organic Social,3,1,0,1
+2024-11-27,Paid Search,19,11,0,16
+2024-11-27,Referral,12,9,0,2
+2024-11-27,Unassigned,1,0,0,0
+2024-11-28,Cross-network,4,3,0,3
+2024-11-28,Direct,33,25,0,13
+2024-11-28,Organic Search,92,60,6,36
+2024-11-28,Organic Social,1,1,0,1
+2024-11-28,Paid Search,21,12,1,14
+2024-11-28,Referral,6,4,0,3
+2024-11-28,Unassigned,3,0,0,0
+2024-11-29,Cross-network,7,6,0,7
+2024-11-29,Direct,35,27,1,12
+2024-11-29,Organic Search,95,69,10,33
+2024-11-29,Organic Social,1,0,0,1
+2024-11-29,Paid Search,13,9,1,4
+2024-11-29,Referral,6,5,0,1
+2024-11-29,Unassigned,1,0,0,0
+2024-11-30,Cross-network,2,2,0,1
+2024-11-30,Direct,7,5,0,4
+2024-11-30,Organic Search,19,14,0,14
+2024-11-30,Organic Social,1,1,0,1
+2024-11-30,Paid Search,6,4,0,5
+2024-11-30,Referral,5,3,0,1
+2024-11-30,Unassigned,1,0,0,0
+2024-12-01,Cross-network,5,2,0,5
+2024-12-01,Direct,4,4,2,2
+2024-12-01,Organic Search,18,12,0,14
+2024-12-01,Paid Search,4,3,0,4
+2024-12-01,Referral,3,1,0,1
+2024-12-02,Cross-network,3,3,0,3
+2024-12-02,Direct,27,19,1,14
+2024-12-02,Organic Search,112,78,6,46
+2024-12-02,Paid Search,21,15,0,14
+2024-12-02,Referral,4,3,0,0
+2024-12-02,Unassigned,1,0,0,0
+2024-12-03,Cross-network,2,2,0,2
+2024-12-03,Direct,42,32,0,12
+2024-12-03,Organic Search,119,90,6,43
+2024-12-03,Paid Search,18,14,0,15
+2024-12-03,Referral,11,8,0,3
+2024-12-03,Unassigned,3,0,4,76
+2024-12-04,Cross-network,3,2,0,2
+2024-12-04,Direct,40,33,8,15
+2024-12-04,Organic Search,85,63,13,39
+2024-12-04,Paid Search,21,17,0,17
+2024-12-04,Referral,5,5,0,5
+2024-12-04,Unassigned,2,0,0,0
+2024-12-05,Cross-network,2,2,0,1
+2024-12-05,Direct,32,29,6,16
+2024-12-05,Organic Search,105,71,6,47
+2024-12-05,Paid Search,20,15,5,12
+2024-12-05,Referral,4,3,1,1
+2024-12-05,Unassigned,2,0,0,0
+2024-12-06,Cross-network,1,0,0,1
+2024-12-06,Direct,30,22,4,11
+2024-12-06,Organic Search,69,48,6,23
+2024-12-06,Paid Search,12,8,1,9
+2024-12-06,Referral,6,3,0,3
+2024-12-06,Unassigned,3,0,0,0
+2024-12-07,Cross-network,3,3,0,2
+2024-12-07,Direct,2,2,0,1
+2024-12-07,Organic Search,16,11,0,10
+2024-12-07,Paid Search,3,3,1,3
+2024-12-07,Referral,1,1,0,1
+2024-12-08,Cross-network,6,4,0,5
+2024-12-08,Organic Search,12,10,0,7
+2024-12-08,Organic Social,2,1,0,2
+2024-12-08,Paid Search,15,12,3,13
+2024-12-09,Cross-network,12,3,0,10
+2024-12-09,Direct,30,21,1,10
+2024-12-09,Organic Search,91,60,5,40
+2024-12-09,Organic Social,1,1,0,1
+2024-12-09,Paid Search,20,12,0,16
+2024-12-09,Referral,3,3,0,0
+2024-12-09,Unassigned,2,0,0,0
+2024-12-10,Cross-network,1,1,0,1
+2024-12-10,Direct,47,38,1,21
+2024-12-10,Organic Search,97,71,5,41
+2024-12-10,Organic Social,1,0,0,1
+2024-12-10,Paid Other,2,2,0,2
+2024-12-10,Paid Search,14,8,0,10
+2024-12-10,Referral,4,2,0,2
+2024-12-11,Cross-network,1,1,0,1
+2024-12-11,Direct,25,19,0,5
+2024-12-11,Organic Search,86,60,2,39
+2024-12-11,Organic Social,4,2,0,3
+2024-12-11,Paid Search,17,14,0,11
+2024-12-11,Referral,3,0,0,1
+2024-12-11,Unassigned,1,0,0,0
+2024-12-12,Cross-network,2,2,0,2
+2024-12-12,Direct,34,27,1,12
+2024-12-12,Organic Search,88,59,5,29
+2024-12-12,Organic Social,23,14,0,17
+2024-12-12,Paid Search,9,7,0,5
+2024-12-12,Referral,6,4,0,2
+2024-12-12,Unassigned,2,0,0,0
+2024-12-13,Cross-network,3,3,1,3
+2024-12-13,Direct,26,15,0,12
+2024-12-13,Organic Search,70,46,7,34
+2024-12-13,Organic Social,2,1,0,1
+2024-12-13,Paid Search,14,10,0,12
+2024-12-13,Referral,3,2,0,2
+2024-12-14,Cross-network,7,5,0,7
+2024-12-14,Direct,3,3,0,3
+2024-12-14,Display,1,1,0,0
+2024-12-14,Organic Search,16,10,0,11
+2024-12-14,Organic Social,3,1,0,2
+2024-12-14,Paid Search,6,4,0,4
+2024-12-15,Cross-network,1,1,0,1
+2024-12-15,Direct,4,3,0,4
+2024-12-15,Organic Search,13,9,1,11
+2024-12-15,Organic Social,3,1,0,1
+2024-12-15,Paid Search,5,4,0,5
+2024-12-15,Unassigned,0,0,0,92
+2024-12-16,Cross-network,4,2,0,3
+2024-12-16,Direct,26,19,1,16
+2024-12-16,Display,1,1,0,1
+2024-12-16,Organic Search,53,38,5,27
+2024-12-16,Organic Social,1,1,0,0
+2024-12-16,Paid Search,13,9,0,7
+2024-12-16,Unassigned,2,0,0,0
+2024-12-17,Direct,36,26,3,20
+2024-12-17,Organic Search,89,63,3,40
+2024-12-17,Organic Social,1,1,0,0
+2024-12-17,Paid Search,17,15,0,13
+2024-12-17,Referral,2,1,0,2
+2024-12-18,Cross-network,2,2,0,2
+2024-12-18,Direct,23,16,2,10
+2024-12-18,Organic Search,89,50,10,37
+2024-12-18,Organic Social,2,2,0,2
+2024-12-18,Paid Search,23,17,0,19
+2024-12-18,Referral,1,1,0,1
+2024-12-18,Unassigned,2,0,0,0
+2024-12-19,Cross-network,7,4,0,6
+2024-12-19,Direct,30,23,4,18
+2024-12-19,Organic Search,81,56,9,27
+2024-12-19,Paid Search,21,14,0,17
+2024-12-19,Referral,2,2,0,0
+2024-12-19,Unassigned,2,0,0,0
+2024-12-20,Cross-network,6,5,0,5
+2024-12-20,Direct,28,17,2,11
+2024-12-20,Organic Search,67,45,2,23
+2024-12-20,Organic Social,2,2,0,2
+2024-12-20,Paid Search,16,11,0,10
+2024-12-20,Referral,6,4,0,2
+2024-12-20,Unassigned,1,0,0,0
+2024-12-21,Direct,5,3,0,3
+2024-12-21,Organic Search,32,22,0,21
+2024-12-21,Paid Search,3,3,0,3
+2024-12-22,Cross-network,1,0,0,0
+2024-12-22,Direct,8,5,0,5
+2024-12-22,Organic Search,15,13,0,12
+2024-12-22,Organic Social,1,0,0,1
+2024-12-22,Paid Search,8,6,0,7
+2024-12-23,Cross-network,1,0,0,0
+2024-12-23,Direct,16,12,0,8
+2024-12-23,Organic Search,29,20,2,15
+2024-12-23,Paid Search,8,5,0,7
+2024-12-23,Referral,1,1,0,0
+2024-12-23,Unassigned,1,0,0,0
+2024-12-24,Cross-network,5,2,0,3
+2024-12-24,Direct,5,4,0,3
+2024-12-24,Organic Search,16,9,0,6
+2024-12-24,Organic Social,1,0,0,1
+2024-12-24,Paid Search,12,7,0,12
+2024-12-25,Direct,11,9,0,7
+2024-12-25,Organic Search,17,11,1,11
+2024-12-25,Organic Social,1,1,0,1
+2024-12-25,Paid Search,6,5,0,6
+2024-12-26,Cross-network,6,6,0,6
+2024-12-26,Direct,3,3,0,2
+2024-12-26,Organic Search,15,14,0,12
+2024-12-26,Paid Search,12,10,0,11
+2024-12-26,Referral,2,2,0,1
+2024-12-27,Cross-network,16,13,0,13
+2024-12-27,Direct,11,7,0,5
+2024-12-27,Organic Search,28,22,1,15
+2024-12-27,Organic Social,4,2,0,3
+2024-12-27,Paid Search,8,6,0,7
+2024-12-27,Referral,4,2,0,1
+2024-12-28,Cross-network,5,4,0,5
+2024-12-28,Direct,7,6,1,6
+2024-12-28,Organic Search,17,13,0,17
+2024-12-28,Paid Search,7,5,0,7
+2024-12-29,Cross-network,9,5,0,6
+2024-12-29,Direct,3,2,0,3
+2024-12-29,Organic Search,15,12,0,13
+2024-12-29,Paid Search,8,8,1,7
+2024-12-29,Referral,3,1,0,1
+2024-12-30,Cross-network,14,12,0,12
+2024-12-30,Direct,12,10,1,5
+2024-12-30,Organic Search,22,19,0,15
+2024-12-30,Organic Social,1,1,0,0
+2024-12-30,Paid Search,20,14,1,19
+2024-12-30,Referral,3,1,0,1
+2024-12-31,Cross-network,5,3,0,2
+2024-12-31,Direct,9,6,0,5
+2024-12-31,Organic Search,9,6,0,6
+2024-12-31,Organic Social,1,1,0,1
+2024-12-31,Paid Search,10,9,0,10
+2024-12-31,Referral,1,1,0,1
+2025-01-01,Cross-network,5,3,0,4
+2025-01-01,Direct,3,2,0,2
+2025-01-01,Organic Search,16,11,1,14
+2025-01-01,Paid Search,21,17,0,19
+2025-01-02,Cross-network,3,2,0,3
+2025-01-02,Direct,11,8,1,4
+2025-01-02,Organic Search,52,32,1,25
+2025-01-02,Paid Search,6,4,0,6
+2025-01-02,Referral,1,1,0,0
+2025-01-03,Cross-network,3,1,0,3
+2025-01-03,Direct,15,9,2,8
+2025-01-03,Organic Search,52,32,0,19
+2025-01-03,Organic Social,1,1,0,1
+2025-01-03,Paid Search,12,7,0,10
+2025-01-03,Referral,1,1,0,1
+2025-01-03,Unassigned,1,0,0,0
+2025-01-04,Cross-network,12,6,0,10
+2025-01-04,Direct,5,4,0,4
+2025-01-04,Organic Search,25,20,0,16
+2025-01-04,Organic Social,1,1,0,1
+2025-01-04,Paid Search,7,6,0,7
+2025-01-05,Cross-network,8,5,0,5
+2025-01-05,Direct,3,2,0,3
+2025-01-05,Organic Search,27,16,0,16
+2025-01-05,Organic Social,1,1,0,1
+2025-01-05,Paid Search,6,5,0,6
+2025-01-05,Unassigned,1,0,0,0
+2025-01-06,Cross-network,3,1,0,3
+2025-01-06,Direct,18,13,0,6
+2025-01-06,Organic Search,34,25,4,22
+2025-01-06,Organic Social,1,0,0,0
+2025-01-06,Paid Search,11,9,5,9
+2025-01-06,Referral,1,1,0,1
+2025-01-07,Cross-network,4,3,0,3
+2025-01-07,Direct,35,17,2,15
+2025-01-07,Organic Search,80,54,5,36
+2025-01-07,Organic Social,1,1,0,1
+2025-01-07,Paid Search,16,11,2,11
+2025-01-07,Referral,3,3,0,2
+2025-01-07,Unassigned,3,0,0,0
+2025-01-08,Cross-network,2,2,0,2
+2025-01-08,Direct,33,26,2,12
+2025-01-08,Organic Search,91,65,3,37
+2025-01-08,Paid Search,21,15,1,10
+2025-01-08,Referral,6,5,0,2
+2025-01-08,Unassigned,1,0,0,0
+2025-01-09,Cross-network,4,4,0,4
+2025-01-09,Direct,42,25,0,18
+2025-01-09,Organic Search,69,46,7,36
+2025-01-09,Paid Search,20,14,1,12
+2025-01-09,Referral,8,6,0,1
+2025-01-09,Unassigned,1,0,0,0
+2025-01-10,Cross-network,4,2,0,4
+2025-01-10,Direct,20,14,0,8
+2025-01-10,Organic Search,57,42,6,33
+2025-01-10,Paid Search,8,4,0,6
+2025-01-10,Referral,6,3,0,1
+2025-01-11,Cross-network,4,4,0,4
+2025-01-11,Direct,1,0,0,0
+2025-01-11,Organic Search,14,11,0,8
+2025-01-11,Organic Social,2,2,0,2
+2025-01-11,Paid Search,9,7,0,9
+2025-01-12,Cross-network,2,2,0,2
+2025-01-12,Direct,6,2,0,6
+2025-01-12,Organic Search,22,11,0,10
+2025-01-12,Paid Search,16,12,0,16
+2025-01-13,Direct,31,26,0,14
+2025-01-13,Organic Search,77,60,7,32
+2025-01-13,Organic Social,1,1,0,0
+2025-01-13,Paid Search,25,14,2,14
+2025-01-13,Referral,7,3,0,3
+2025-01-13,Unassigned,1,0,0,0
+2025-01-14,Direct,30,23,0,6
+2025-01-14,Organic Search,95,59,12,46
+2025-01-14,Paid Search,25,17,2,19
+2025-01-14,Referral,3,2,0,0
+2025-01-14,Unassigned,2,0,1,0
+2025-01-15,Cross-network,4,4,0,4
+2025-01-15,Direct,64,34,4,21
+2025-01-15,Organic Search,85,55,5,32
+2025-01-15,Paid Search,35,22,1,25
+2025-01-15,Referral,2,0,0,1
+2025-01-15,Unassigned,1,0,0,0
+2025-01-16,Cross-network,3,2,0,3
+2025-01-16,Direct,41,29,0,15
+2025-01-16,Organic Search,80,57,1,31
+2025-01-16,Paid Search,18,8,0,11
+2025-01-16,Referral,2,0,0,0
+2025-01-16,Unassigned,1,0,0,0
+2025-01-17,Cross-network,1,1,0,1
+2025-01-17,Direct,38,22,0,20
+2025-01-17,Organic Search,79,50,2,35
+2025-01-17,Organic Social,117,28,0,102
+2025-01-17,Paid Search,20,16,0,16
+2025-01-17,Referral,12,8,0,7
+2025-01-17,Unassigned,2,0,0,0
+2025-01-18,Cross-network,3,3,0,3
+2025-01-18,Direct,5,4,0,3
+2025-01-18,Organic Search,22,14,2,13
+2025-01-18,Organic Social,28,5,0,28
+2025-01-18,Paid Search,11,8,0,11
+2025-01-18,Referral,1,0,0,0
+2025-01-19,Cross-network,9,5,0,9
+2025-01-19,Direct,6,4,0,3
+2025-01-19,Organic Search,17,16,1,13
+2025-01-19,Organic Social,17,3,0,14
+2025-01-19,Paid Search,6,1,0,6
+2025-01-19,Referral,2,1,0,0
+2025-01-20,Cross-network,1,1,0,1
+2025-01-20,Direct,56,38,2,23
+2025-01-20,Organic Search,106,69,4,41
+2025-01-20,Organic Social,9,5,0,8
+2025-01-20,Paid Search,26,17,1,22
+2025-01-20,Referral,7,5,0,4
+2025-01-20,Unassigned,2,0,0,2
+2025-01-21,Cross-network,4,2,0,4
+2025-01-21,Direct,41,26,0,14
+2025-01-21,Organic Search,94,67,1,33
+2025-01-21,Organic Social,3,0,0,2
+2025-01-21,Paid Search,21,15,0,15
+2025-01-21,Referral,10,8,1,6
+2025-01-21,Unassigned,2,0,0,0
+2025-01-22,Cross-network,4,4,0,4
+2025-01-22,Direct,22,15,1,7
+2025-01-22,Organic Search,99,75,7,45
+2025-01-22,Organic Social,7,2,0,6
+2025-01-22,Paid Search,26,18,1,20
+2025-01-22,Referral,1,1,0,0
+2025-01-23,Cross-network,3,2,0,3
+2025-01-23,Direct,30,21,0,10
+2025-01-23,Organic Search,98,77,5,51
+2025-01-23,Organic Social,9,3,0,6
+2025-01-23,Paid Search,25,21,0,16
+2025-01-23,Referral,5,4,0,2
+2025-01-24,Cross-network,1,1,0,1
+2025-01-24,Direct,46,32,1,20
+2025-01-24,Organic Search,76,48,3,30
+2025-01-24,Organic Social,6,5,0,3
+2025-01-24,Paid Search,15,12,3,10
+2025-01-24,Referral,1,0,0,0
+2025-01-24,Unassigned,1,0,0,0
+2025-01-25,Cross-network,5,4,0,5
+2025-01-25,Direct,7,3,0,4
+2025-01-25,Organic Search,15,11,0,11
+2025-01-25,Organic Social,1,1,0,1
+2025-01-25,Paid Search,4,4,0,2
+2025-01-25,Referral,2,2,0,1
+2025-01-26,Cross-network,1,1,0,1
+2025-01-26,Direct,5,3,0,3
+2025-01-26,Organic Search,16,11,0,13
+2025-01-26,Paid Search,8,8,0,5
+2025-01-26,Referral,3,3,0,2
+2025-01-27,Cross-network,1,0,0,1
+2025-01-27,Direct,30,22,0,3
+2025-01-27,Organic Search,95,70,10,41
+2025-01-27,Organic Social,2,1,0,1
+2025-01-27,Paid Search,16,13,0,13
+2025-01-27,Referral,9,7,0,3
+2025-01-27,Unassigned,3,0,0,0
+2025-01-28,Cross-network,4,3,0,4
+2025-01-28,Direct,45,31,2,13
+2025-01-28,Organic Search,123,85,8,47
+2025-01-28,Organic Social,2,1,0,2
+2025-01-28,Paid Search,21,15,0,12
+2025-01-28,Referral,9,5,0,0
+2025-01-28,Unassigned,1,0,0,0
+2025-01-29,Cross-network,4,4,0,4
+2025-01-29,Direct,39,27,5,10
+2025-01-29,Organic Search,105,57,9,40
+2025-01-29,Organic Social,2,0,0,1
+2025-01-29,Paid Search,27,20,0,20
+2025-01-29,Referral,4,1,0,2
+2025-01-29,Unassigned,2,0,0,0
+2025-01-30,Cross-network,2,1,0,2
+2025-01-30,Direct,46,31,0,13
+2025-01-30,Organic Search,87,66,6,41
+2025-01-30,Organic Social,2,0,0,2
+2025-01-30,Paid Search,18,17,0,14
+2025-01-30,Referral,4,3,0,1
+2025-01-30,Unassigned,1,0,0,0
+2025-01-31,Cross-network,1,1,0,1
+2025-01-31,Direct,42,24,0,13
+2025-01-31,Organic Search,86,58,5,27
+2025-01-31,Organic Social,1,0,0,0
+2025-01-31,Paid Other,1,1,0,1
+2025-01-31,Paid Search,19,12,0,13
+2025-01-31,Referral,3,2,0,1
+2025-02-01,Cross-network,2,2,0,2
+2025-02-01,Direct,3,1,0,1
+2025-02-01,Organic Search,20,14,0,14
+2025-02-01,Paid Other,1,0,0,1
+2025-02-01,Paid Search,2,2,0,2
+2025-02-02,Cross-network,15,6,0,15
+2025-02-02,Direct,4,3,0,3
+2025-02-02,Organic Search,9,7,1,6
+2025-02-02,Organic Social,7,3,0,5
+2025-02-02,Paid Search,12,9,0,11
+2025-02-02,Referral,2,0,0,0
+2025-02-03,Cross-network,5,2,0,4
+2025-02-03,Direct,33,23,0,13
+2025-02-03,Organic Search,67,45,10,23
+2025-02-03,Organic Social,4,2,0,4
+2025-02-03,Paid Search,14,12,0,12
+2025-02-03,Referral,5,2,0,1
+2025-02-03,Unassigned,3,0,0,0
+2025-02-04,Cross-network,5,3,0,5
+2025-02-04,Direct,51,34,1,15
+2025-02-04,Organic Search,73,57,3,34
+2025-02-04,Organic Social,2,0,0,2
+2025-02-04,Paid Search,20,14,0,14
+2025-02-04,Referral,9,5,0,3
+2025-02-05,Cross-network,4,3,0,3
+2025-02-05,Direct,40,27,2,12
+2025-02-05,Organic Search,83,57,7,20
+2025-02-05,Organic Social,2,1,0,1
+2025-02-05,Paid Search,23,15,0,16
+2025-02-05,Referral,13,10,4,4
+2025-02-05,Unassigned,1,0,0,0
+2025-02-06,Cross-network,6,4,2,4
+2025-02-06,Direct,26,15,1,10
+2025-02-06,Organic Search,118,76,6,39
+2025-02-06,Organic Social,3,1,0,3
+2025-02-06,Paid Search,29,22,0,19
+2025-02-06,Referral,2,1,0,0
+2025-02-07,Cross-network,1,0,0,1
+2025-02-07,Direct,27,15,0,8
+2025-02-07,Organic Search,63,40,5,20
+2025-02-07,Organic Social,2,2,0,2
+2025-02-07,Paid Search,17,11,0,11
+2025-02-07,Referral,3,2,0,0
+2025-02-08,Cross-network,7,2,0,7
+2025-02-08,Direct,15,6,0,7
+2025-02-08,Organic Search,22,18,0,14
+2025-02-08,Paid Search,7,4,0,7
+2025-02-08,Referral,1,1,0,1
+2025-02-08,Unassigned,2,2,0,1
+2025-02-09,Cross-network,2,1,0,2
+2025-02-09,Direct,7,5,0,3
+2025-02-09,Organic Search,12,8,0,7
+2025-02-09,Paid Search,9,8,0,7
+2025-02-09,Referral,1,1,0,1
+2025-02-10,Cross-network,3,2,0,3
+2025-02-10,Direct,34,28,1,13
+2025-02-10,Organic Search,92,68,5,38
+2025-02-10,Organic Social,4,3,0,0
+2025-02-10,Paid Search,20,12,0,15
+2025-02-10,Referral,4,3,0,1
+2025-02-11,Cross-network,1,1,0,1
+2025-02-11,Direct,38,23,0,15
+2025-02-11,Display,1,1,0,0
+2025-02-11,Organic Search,112,71,0,37
+2025-02-11,Organic Shopping,1,1,0,1
+2025-02-11,Organic Social,1,1,0,0
+2025-02-11,Paid Search,26,21,0,20
+2025-02-11,Referral,9,6,0,4
+2025-02-11,Unassigned,1,0,0,0
+2025-02-12,Cross-network,1,1,0,1
+2025-02-12,Direct,36,23,10,16
+2025-02-12,Organic Search,106,69,6,37
+2025-02-12,Organic Social,1,0,0,1
+2025-02-12,Paid Search,27,17,2,18
+2025-02-12,Referral,3,1,0,1
+2025-02-13,Cross-network,7,6,0,6
+2025-02-13,Direct,43,32,22,15
+2025-02-13,Organic Search,82,46,2,31
+2025-02-13,Organic Shopping,3,2,0,0
+2025-02-13,Organic Social,10,7,0,7
+2025-02-13,Paid Search,22,18,1,17
+2025-02-13,Referral,8,5,0,1
+2025-02-14,Cross-network,8,4,0,8
+2025-02-14,Direct,35,25,0,13
+2025-02-14,Organic Search,92,62,6,36
+2025-02-14,Organic Social,3,3,0,2
+2025-02-14,Paid Search,16,10,0,13
+2025-02-14,Referral,1,1,0,1
+2025-02-15,Cross-network,4,1,0,2
+2025-02-15,Direct,3,3,0,3
+2025-02-15,Organic Search,8,7,1,7
+2025-02-15,Paid Search,6,4,0,6
+2025-02-16,Cross-network,6,4,0,6
+2025-02-16,Direct,4,4,0,4
+2025-02-16,Organic Search,9,5,2,4
+2025-02-16,Organic Social,2,0,0,2
+2025-02-16,Paid Search,6,5,0,6
+2025-02-16,Referral,1,0,0,1
+2025-02-17,Cross-network,4,3,0,4
+2025-02-17,Direct,33,22,0,14
+2025-02-17,Organic Search,90,64,2,40
+2025-02-17,Organic Social,2,1,0,1
+2025-02-17,Paid Search,24,19,0,21
+2025-02-17,Referral,2,2,0,2
+2025-02-17,Unassigned,1,0,0,0
+2025-02-18,Cross-network,1,1,0,1
+2025-02-18,Direct,44,30,0,14
+2025-02-18,Organic Search,87,68,8,40
+2025-02-18,Organic Social,1,1,0,1
+2025-02-18,Paid Search,25,16,1,18
+2025-02-18,Referral,4,3,0,3
+2025-02-18,Unassigned,2,0,0,0
+2025-02-19,Cross-network,4,3,0,4
+2025-02-19,Direct,39,25,0,14
+2025-02-19,Organic Search,92,66,4,41
+2025-02-19,Organic Social,2,1,0,2
+2025-02-19,Paid Search,28,22,2,23
+2025-02-19,Referral,6,3,0,2
+2025-02-19,Unassigned,2,0,0,0
+2025-02-20,Direct,30,18,0,11
+2025-02-20,Organic Search,111,78,6,50
+2025-02-20,Organic Social,1,1,0,1
+2025-02-20,Paid Search,21,12,2,12
+2025-02-20,Referral,4,3,0,1
+2025-02-21,Cross-network,2,2,0,2
+2025-02-21,Direct,43,31,0,15
+2025-02-21,Organic Search,85,61,5,33
+2025-02-21,Organic Social,3,1,0,2
+2025-02-21,Paid Search,21,12,0,11
+2025-02-21,Referral,2,2,0,1
+2025-02-22,Cross-network,14,11,0,12
+2025-02-22,Direct,6,5,0,1
+2025-02-22,Organic Search,15,6,0,11
+2025-02-22,Organic Social,4,1,0,4
+2025-02-22,Paid Search,8,5,0,7
+2025-02-23,Cross-network,7,5,0,6
+2025-02-23,Direct,30,24,0,23
+2025-02-23,Organic Search,12,11,2,9
+2025-02-23,Organic Social,3,2,0,3
+2025-02-23,Paid Search,12,8,0,11
+2025-02-23,Referral,1,1,0,1
+2025-02-24,Cross-network,1,1,0,1
+2025-02-24,Direct,34,24,2,17
+2025-02-24,Organic Search,64,39,3,22
+2025-02-24,Organic Social,4,1,0,4
+2025-02-24,Paid Search,15,12,0,11
+2025-02-24,Referral,2,1,0,1
+2025-02-24,Unassigned,1,0,0,0
+2025-02-25,Cross-network,7,6,0,7
+2025-02-25,Direct,50,34,0,15
+2025-02-25,Organic Search,96,70,10,48
+2025-02-25,Organic Social,8,1,0,8
+2025-02-25,Paid Search,20,16,0,18
+2025-02-25,Referral,2,1,0,1
+2025-02-25,Unassigned,2,0,0,0
+2025-02-26,Cross-network,3,2,0,2
+2025-02-26,Direct,23,12,0,12
+2025-02-26,Organic Search,81,59,4,40
+2025-02-26,Organic Social,4,2,0,4
+2025-02-26,Paid Search,19,10,0,16
+2025-02-26,Referral,3,3,0,2
+2025-02-27,Cross-network,5,4,0,5
+2025-02-27,Direct,39,22,0,12
+2025-02-27,Organic Search,93,67,3,35
+2025-02-27,Organic Social,7,5,0,7
+2025-02-27,Paid Search,21,16,0,20
+2025-02-27,Referral,2,2,0,1
+2025-02-27,Unassigned,1,0,0,0
+2025-02-28,Cross-network,16,9,0,16
+2025-02-28,Direct,41,25,3,12
+2025-02-28,Organic Search,70,46,6,26
+2025-02-28,Organic Social,3,1,0,3
+2025-02-28,Paid Search,16,11,0,12
+2025-02-28,Referral,1,1,0,1
+2025-03-01,Cross-network,9,4,0,9
+2025-03-01,Direct,8,4,0,4
+2025-03-01,Organic Search,14,9,1,8
+2025-03-01,Organic Social,4,1,0,4
+2025-03-01,Paid Search,9,6,0,8
+2025-03-02,Cross-network,2,0,0,2
+2025-03-02,Direct,1,0,0,1
+2025-03-02,Organic Search,9,8,3,5
+2025-03-02,Organic Social,1,0,0,1
+2025-03-02,Paid Search,6,4,0,5
+2025-03-02,Referral,1,1,0,1
+2025-03-03,Cross-network,4,3,0,3
+2025-03-03,Direct,63,38,8,15
+2025-03-03,Organic Search,84,61,9,36
+2025-03-03,Organic Social,4,0,0,4
+2025-03-03,Organic Video,1,1,0,1
+2025-03-03,Paid Search,17,9,0,12
+2025-03-03,Referral,6,5,0,2
+2025-03-03,Unassigned,2,0,1,0
+2025-03-04,Direct,51,34,0,13
+2025-03-04,Organic Search,107,66,10,39
+2025-03-04,Organic Social,6,1,0,4
+2025-03-04,Paid Search,16,13,0,12
+2025-03-04,Referral,5,4,0,2
+2025-03-04,Unassigned,1,0,0,0
+2025-03-05,Cross-network,1,0,0,0
+2025-03-05,Direct,59,40,4,15
+2025-03-05,Organic Search,101,70,9,35
+2025-03-05,Organic Social,9,6,0,8
+2025-03-05,Paid Search,28,22,0,21
+2025-03-05,Referral,4,3,0,2
+2025-03-05,Unassigned,2,0,0,0
+2025-03-06,Cross-network,2,1,0,1
+2025-03-06,Direct,64,45,3,28
+2025-03-06,Organic Search,104,71,7,46
+2025-03-06,Organic Social,3,2,0,3
+2025-03-06,Paid Search,19,14,1,15
+2025-03-06,Referral,2,2,0,0
+2025-03-06,Unassigned,1,0,0,0
+2025-03-07,Cross-network,12,5,0,11
+2025-03-07,Direct,60,40,0,14
+2025-03-07,Organic Search,75,50,7,26
+2025-03-07,Organic Social,5,1,0,4
+2025-03-07,Paid Search,23,17,0,14
+2025-03-07,Referral,3,2,0,2
+2025-03-07,Unassigned,1,0,0,0
+2025-03-08,Cross-network,3,2,0,2
+2025-03-08,Direct,1,1,1,1
+2025-03-08,Organic Search,22,14,3,17
+2025-03-08,Organic Social,2,0,0,2
+2025-03-08,Paid Search,3,1,0,3
+2025-03-09,Cross-network,8,6,0,6
+2025-03-09,Direct,7,3,0,4
+2025-03-09,Organic Search,22,13,2,13
+2025-03-09,Paid Search,15,9,0,14
+2025-03-10,Cross-network,3,3,0,3
+2025-03-10,Direct,59,40,1,16
+2025-03-10,Organic Search,118,79,18,59
+2025-03-10,Paid Search,38,28,1,30
+2025-03-10,Referral,6,6,0,4
+2025-03-10,Unassigned,2,0,0,0
+2025-03-11,Cross-network,8,3,0,5
+2025-03-11,Direct,66,51,0,27
+2025-03-11,Organic Search,106,70,12,48
+2025-03-11,Organic Social,1,0,0,1
+2025-03-11,Paid Search,21,14,0,16
+2025-03-11,Referral,6,6,0,0
+2025-03-11,Unassigned,2,0,0,0
+2025-03-12,Cross-network,7,5,0,6
+2025-03-12,Direct,58,40,2,23
+2025-03-12,Organic Search,103,73,7,37
+2025-03-12,Paid Search,26,20,0,22
+2025-03-12,Referral,5,4,0,2
+2025-03-12,Unassigned,3,0,0,0
+2025-03-13,Cross-network,4,3,0,4
+2025-03-13,Direct,76,48,10,26
+2025-03-13,Email,8,4,0,5
+2025-03-13,Organic Search,104,68,8,48
+2025-03-13,Paid Search,26,20,0,21
+2025-03-13,Referral,12,9,0,3
+2025-03-13,Unassigned,1,0,0,0
+2025-03-14,Cross-network,5,5,0,5
+2025-03-14,Direct,48,31,1,18
+2025-03-14,Organic Search,115,76,7,49
+2025-03-14,Organic Social,3,1,0,2
+2025-03-14,Paid Search,21,19,1,18
+2025-03-14,Referral,5,5,0,2
+2025-03-15,Cross-network,5,2,0,3
+2025-03-15,Direct,6,4,1,4
+2025-03-15,Email,1,0,0,0
+2025-03-15,Organic Search,31,18,0,18
+2025-03-15,Paid Search,5,5,0,4
+2025-03-15,Referral,2,2,0,2
+2025-03-15,Unassigned,2,0,0,0
+2025-03-16,Cross-network,10,9,0,10
+2025-03-16,Direct,6,3,0,4
+2025-03-16,Organic Search,18,14,1,11
+2025-03-16,Organic Social,1,1,0,1
+2025-03-16,Paid Search,4,4,0,4
+2025-03-17,Cross-network,2,1,0,2
+2025-03-17,Direct,71,55,0,31
+2025-03-17,Organic Search,110,80,3,42
+2025-03-17,Organic Social,1,1,0,0
+2025-03-17,Paid Search,22,15,0,14
+2025-03-17,Referral,13,8,0,4
+2025-03-17,Unassigned,2,0,0,0
+2025-03-18,Cross-network,3,2,0,3
+2025-03-18,Direct,50,32,0,17
+2025-03-18,Organic Search,129,83,4,43
+2025-03-18,Organic Social,5,2,0,3
+2025-03-18,Paid Search,14,8,2,12
+2025-03-18,Referral,9,6,0,1
+2025-03-19,Cross-network,3,2,0,3
+2025-03-19,Direct,56,46,5,15
+2025-03-19,Organic Search,99,69,4,35
+2025-03-19,Organic Social,1,1,0,0
+2025-03-19,Paid Search,24,18,3,17
+2025-03-19,Referral,4,3,0,2
+2025-03-19,Unassigned,1,0,0,0
+2025-03-20,Cross-network,4,4,0,2
+2025-03-20,Direct,58,42,1,18
+2025-03-20,Organic Search,102,78,5,36
+2025-03-20,Organic Social,2,1,0,2
+2025-03-20,Paid Search,15,11,2,14
+2025-03-20,Referral,8,1,0,4
+2025-03-20,Unassigned,1,0,0,0
+2025-03-21,Cross-network,1,1,0,1
+2025-03-21,Direct,37,26,25,8
+2025-03-21,Organic Search,91,59,15,34
+2025-03-21,Organic Social,1,1,0,1
+2025-03-21,Paid Search,8,5,0,6
+2025-03-21,Referral,4,1,0,1
+2025-03-22,Cross-network,5,5,0,5
+2025-03-22,Direct,7,5,0,3
+2025-03-22,Organic Search,18,13,0,11
+2025-03-22,Paid Search,10,7,0,9
+2025-03-22,Referral,1,0,0,0
+2025-03-22,Unassigned,1,0,0,0
+2025-03-23,Cross-network,8,8,0,8
+2025-03-23,Direct,7,3,0,5
+2025-03-23,Organic Search,17,12,0,10
+2025-03-23,Paid Search,10,6,0,8
+2025-03-23,Referral,1,1,0,0
+2025-03-24,Cross-network,6,5,0,5
+2025-03-24,Direct,42,28,0,4
+2025-03-24,Organic Search,103,73,3,47
+2025-03-24,Paid Search,32,19,5,22
+2025-03-24,Referral,1,1,0,1
+2025-03-24,Unassigned,3,0,0,0
+2025-03-25,Cross-network,5,3,0,4
+2025-03-25,Direct,55,41,0,21
+2025-03-25,Email,1,1,0,0
+2025-03-25,Organic Search,112,73,0,44
+2025-03-25,Organic Video,1,1,0,1
+2025-03-25,Paid Search,20,11,0,16
+2025-03-25,Referral,6,5,0,1
+2025-03-25,Unassigned,2,0,0,0
+2025-03-26,Cross-network,1,1,0,1
+2025-03-26,Direct,58,35,2,10
+2025-03-26,Email,1,0,0,0
+2025-03-26,Organic Search,106,73,10,46
+2025-03-26,Organic Social,1,1,0,1
+2025-03-26,Paid Search,12,9,0,10
+2025-03-26,Referral,4,4,0,0
+2025-03-27,Cross-network,2,2,0,2
+2025-03-27,Direct,53,36,0,9
+2025-03-27,Email,4,2,0,0
+2025-03-27,Organic Search,129,80,7,46
+2025-03-27,Organic Shopping,5,4,0,0
+2025-03-27,Paid Search,16,14,0,11
+2025-03-27,Referral,10,7,0,3
+2025-03-27,Unassigned,1,0,0,0
+2025-03-28,Cross-network,4,3,0,3
+2025-03-28,Direct,45,29,4,6
+2025-03-28,Organic Search,100,64,8,41
+2025-03-28,Organic Social,1,1,0,1
+2025-03-28,Paid Search,14,9,0,12
+2025-03-28,Referral,2,1,0,0
+2025-03-29,Cross-network,3,2,0,3
+2025-03-29,Direct,5,3,0,3
+2025-03-29,Email,1,1,0,0
+2025-03-29,Organic Search,15,10,0,11
+2025-03-29,Paid Search,6,3,0,5
+2025-03-29,Unassigned,1,0,0,0
+2025-03-30,Direct,9,7,0,6
+2025-03-30,Organic Search,23,9,2,11
+2025-03-30,Paid Search,1,0,0,1
+2025-03-31,Cross-network,6,4,0,4
+2025-03-31,Direct,49,36,2,16
+2025-03-31,Organic Search,111,74,3,35
+2025-03-31,Paid Search,17,12,1,11
+2025-03-31,Referral,11,6,0,5
+2025-03-31,Unassigned,1,0,0,0
+2025-04-01,Cross-network,4,3,0,4
+2025-04-01,Direct,70,54,0,17
+2025-04-01,Organic Search,90,63,3,35
+2025-04-01,Organic Shopping,1,1,0,0
+2025-04-01,Organic Social,13,5,0,13
+2025-04-01,Paid Search,11,10,0,8
+2025-04-01,Referral,9,5,0,0
+2025-04-01,Unassigned,1,0,0,0
+2025-04-02,Cross-network,2,2,0,2
+2025-04-02,Direct,66,43,0,14
+2025-04-02,Organic Search,93,65,3,33
+2025-04-02,Organic Social,1,1,0,1
+2025-04-02,Paid Search,15,9,0,10
+2025-04-02,Referral,23,19,0,5
+2025-04-02,Unassigned,2,0,0,0
+2025-04-03,Cross-network,4,2,0,4
+2025-04-03,Direct,50,35,1,11
+2025-04-03,Organic Search,87,64,7,33
+2025-04-03,Organic Social,1,1,0,1
+2025-04-03,Paid Search,11,8,0,9
+2025-04-03,Referral,7,3,0,1
+2025-04-03,Unassigned,2,0,0,0
+2025-04-04,Cross-network,10,8,9,10
+2025-04-04,Direct,40,28,0,6
+2025-04-04,Organic Search,97,64,8,31
+2025-04-04,Organic Social,1,0,0,1
+2025-04-04,Paid Search,9,6,0,8
+2025-04-04,Referral,14,7,0,2
+2025-04-04,Unassigned,1,0,0,0
+2025-04-05,Cross-network,3,2,0,3
+2025-04-05,Direct,7,4,0,3
+2025-04-05,Organic Search,17,9,1,11
+2025-04-05,Organic Social,1,0,0,1
+2025-04-05,Paid Search,4,4,0,4
+2025-04-05,Referral,1,1,0,1
+2025-04-06,Cross-network,20,7,0,20
+2025-04-06,Direct,5,4,0,3
+2025-04-06,Organic Search,17,10,3,13
+2025-04-06,Organic Social,2,1,0,1
+2025-04-06,Paid Search,8,5,0,7
+2025-04-06,Referral,3,2,0,2
+2025-04-06,Unassigned,1,1,0,1
+2025-04-07,Cross-network,3,2,0,2
+2025-04-07,Direct,35,23,2,10
+2025-04-07,Organic Search,125,92,9,42
+2025-04-07,Paid Search,25,20,1,20
+2025-04-07,Referral,22,12,0,3
+2025-04-07,Unassigned,3,0,0,0
+2025-04-08,Cross-network,3,2,0,3
+2025-04-08,Direct,38,27,1,11
+2025-04-08,Organic Search,124,74,11,37
+2025-04-08,Paid Search,17,13,0,16
+2025-04-08,Referral,17,9,0,6
+2025-04-08,Unassigned,2,0,0,0
+2025-04-09,Direct,58,35,4,20
+2025-04-09,Organic Search,125,80,20,35
+2025-04-09,Organic Social,1,1,0,1
+2025-04-09,Paid Search,22,19,0,18
+2025-04-09,Referral,9,5,0,3
+2025-04-09,Unassigned,1,0,0,0
+2025-04-10,Cross-network,5,4,0,5
+2025-04-10,Direct,29,21,3,10
+2025-04-10,Organic Search,117,88,6,43
+2025-04-10,Organic Social,3,1,0,3
+2025-04-10,Paid Search,30,21,2,22
+2025-04-10,Referral,13,7,0,3
+2025-04-10,Unassigned,1,0,0,0
+2025-04-11,Cross-network,4,2,0,3
+2025-04-11,Direct,29,18,2,9
+2025-04-11,Organic Search,104,71,7,30
+2025-04-11,Paid Search,17,9,0,10
+2025-04-11,Referral,15,11,0,5
+2025-04-11,Unassigned,1,0,0,0
+2025-04-12,Cross-network,6,5,1,5
+2025-04-12,Direct,3,2,0,3
+2025-04-12,Organic Search,18,10,0,10
+2025-04-12,Paid Search,1,1,0,1
+2025-04-12,Referral,2,2,0,1
+2025-04-12,Unassigned,1,0,1,0
+2025-04-13,Cross-network,6,3,0,3
+2025-04-13,Direct,4,3,0,3
+2025-04-13,Organic Search,18,12,0,9
+2025-04-13,Paid Search,4,4,0,3
+2025-04-13,Referral,1,0,0,0
+2025-04-14,Cross-network,3,3,0,3
+2025-04-14,Direct,39,24,1,9
+2025-04-14,Organic Search,80,56,4,20
+2025-04-14,Organic Social,1,1,0,1
+2025-04-14,Paid Search,20,14,1,13
+2025-04-14,Referral,14,8,0,4
+2025-04-15,Cross-network,3,2,0,2
+2025-04-15,Direct,29,18,0,12
+2025-04-15,Organic Search,129,87,2,45
+2025-04-15,Paid Search,21,14,0,16
+2025-04-15,Referral,4,3,0,2
+2025-04-15,Unassigned,1,0,0,0
+2025-04-16,Cross-network,6,2,0,4
+2025-04-16,Direct,38,27,1,15
+2025-04-16,Organic Search,81,59,5,34
+2025-04-16,Paid Search,16,11,0,11
+2025-04-16,Referral,11,9,0,3
+2025-04-16,Unassigned,1,0,0,0
+2025-04-17,Cross-network,5,3,0,4
+2025-04-17,Direct,36,29,0,13
+2025-04-17,Organic Search,84,50,2,33
+2025-04-17,Organic Social,1,1,0,1
+2025-04-17,Paid Search,16,10,0,12
+2025-04-17,Referral,12,9,0,3
+2025-04-17,Unassigned,3,0,0,1
+2025-04-18,Cross-network,9,5,0,7
+2025-04-18,Direct,10,7,2,7
+2025-04-18,Organic Search,21,10,4,11
+2025-04-18,Paid Search,16,12,0,14
+2025-04-18,Referral,3,2,0,2
+2025-04-18,Unassigned,1,0,0,1
+2025-04-19,Cross-network,5,2,0,4
+2025-04-19,Direct,2,2,0,2
+2025-04-19,Organic Search,15,9,1,10
+2025-04-19,Paid Search,6,3,0,5
+2025-04-20,Cross-network,6,4,0,5
+2025-04-20,Direct,5,4,0,4
+2025-04-20,Organic Search,17,11,0,7
+2025-04-20,Paid Search,9,6,0,4
+2025-04-20,Unassigned,2,0,0,0
+2025-04-21,Cross-network,4,0,0,2
+2025-04-21,Direct,11,6,0,1
+2025-04-21,Organic Search,27,18,0,20
+2025-04-21,Organic Social,1,1,0,0
+2025-04-21,Paid Search,21,16,1,17
+2025-04-21,Referral,3,2,0,0
+2025-04-22,Cross-network,7,6,0,7
+2025-04-22,Direct,21,15,1,8
+2025-04-22,Organic Search,82,55,5,30
+2025-04-22,Paid Search,10,6,0,8
+2025-04-22,Referral,12,9,0,5
+2025-04-22,Unassigned,1,1,0,1
+2025-04-23,Cross-network,29,20,0,25
+2025-04-23,Direct,41,25,3,17
+2025-04-23,Organic Search,87,52,2,30
+2025-04-23,Organic Social,2,2,0,2
+2025-04-23,Paid Search,45,35,2,40
+2025-04-23,Referral,11,6,0,2
+2025-04-23,Unassigned,7,0,0,0
+2025-04-24,Cross-network,4,3,0,3
+2025-04-24,Direct,52,32,3,23
+2025-04-24,Organic Search,121,93,11,34
+2025-04-24,Organic Shopping,3,2,0,0
+2025-04-24,Organic Social,3,1,0,0
+2025-04-24,Paid Search,28,23,1,21
+2025-04-24,Referral,19,11,1,6
+2025-04-24,Unassigned,2,0,0,0
+2025-04-25,Cross-network,1,1,0,0
+2025-04-25,Direct,41,23,4,15
+2025-04-25,Organic Search,88,62,2,33
+2025-04-25,Paid Search,25,16,0,20
+2025-04-25,Referral,13,7,0,2
+2025-04-26,Cross-network,6,5,0,6
+2025-04-26,Direct,11,6,0,4
+2025-04-26,Email,1,1,0,0
+2025-04-26,Organic Search,11,7,0,8
+2025-04-26,Paid Search,6,4,0,6
+2025-04-26,Referral,1,1,0,1
+2025-04-27,Cross-network,9,8,0,9
+2025-04-27,Direct,5,2,1,1
+2025-04-27,Organic Search,17,8,0,15
+2025-04-27,Paid Search,19,15,0,18
+2025-04-28,Cross-network,4,3,0,4
+2025-04-28,Direct,30,20,2,9
+2025-04-28,Organic Search,127,81,6,48
+2025-04-28,Organic Video,1,1,0,1
+2025-04-28,Paid Search,26,15,1,19
+2025-04-28,Referral,7,2,0,2
+2025-04-28,Unassigned,1,0,0,0
+2025-04-29,Cross-network,5,1,0,4
+2025-04-29,Direct,27,20,0,12
+2025-04-29,Organic Search,96,66,8,34
+2025-04-29,Paid Search,22,12,1,17
+2025-04-29,Referral,9,7,0,1
+2025-04-29,Unassigned,1,1,0,1
+2025-04-30,Cross-network,2,1,0,2
+2025-04-30,Direct,29,17,0,11
+2025-04-30,Organic Search,92,64,12,31
+2025-04-30,Paid Search,12,10,0,11
+2025-04-30,Referral,16,11,0,4
+2025-05-01,Cross-network,3,3,4,2
+2025-05-01,Direct,2,2,0,1
+2025-05-01,Organic Search,39,29,0,25
+2025-05-01,Paid Search,7,3,1,6
+2025-05-02,Cross-network,1,0,0,0
+2025-05-02,Direct,13,8,0,4
+2025-05-02,Organic Search,44,31,5,14
+2025-05-02,Paid Search,9,6,0,9
+2025-05-02,Referral,4,3,0,1
+2025-05-03,Cross-network,1,1,0,1
+2025-05-03,Direct,3,2,0,1
+2025-05-03,Organic Search,8,4,0,7
+2025-05-03,Organic Social,2,0,0,2
+2025-05-03,Paid Search,11,7,0,9
+2025-05-03,Referral,1,0,0,1
+2025-05-04,Cross-network,10,9,0,10
+2025-05-04,Direct,5,2,0,3
+2025-05-04,Organic Search,28,20,1,18
+2025-05-04,Organic Social,7,4,0,7
+2025-05-04,Paid Search,12,9,0,9
+2025-05-05,Cross-network,1,1,0,1
+2025-05-05,Direct,35,27,5,15
+2025-05-05,Organic Search,120,75,9,39
+2025-05-05,Organic Social,1,1,0,0
+2025-05-05,Paid Search,6,5,0,4
+2025-05-05,Referral,9,7,0,3
+2025-05-06,Cross-network,7,6,1,7
+2025-05-06,Direct,33,25,2,11
+2025-05-06,Organic Search,104,76,15,55
+2025-05-06,Organic Social,1,1,0,1
+2025-05-06,Paid Search,7,5,0,7
+2025-05-06,Referral,15,11,0,5
+2025-05-07,Direct,21,11,3,11
+2025-05-07,Organic Search,101,69,6,42
+2025-05-07,Paid Search,13,7,0,5
+2025-05-07,Referral,9,7,0,2
+2025-05-08,Cross-network,2,2,0,2
+2025-05-08,Direct,21,12,1,10
+2025-05-08,Organic Search,103,59,7,34
+2025-05-08,Organic Social,2,1,0,1
+2025-05-08,Paid Search,21,15,0,11
+2025-05-08,Referral,21,11,0,4
+2025-05-08,Unassigned,1,0,0,0
+2025-05-09,Cross-network,3,2,0,2
+2025-05-09,Direct,19,11,0,7
+2025-05-09,Organic Search,65,39,4,28
+2025-05-09,Paid Search,19,12,0,13
+2025-05-09,Referral,8,7,0,3
+2025-05-09,Unassigned,1,0,0,0
+2025-05-10,Cross-network,1,1,0,1
+2025-05-10,Direct,1,1,0,1
+2025-05-10,Organic Search,23,14,2,16
+2025-05-10,Organic Social,1,1,0,1
+2025-05-10,Paid Search,2,1,0,1
+2025-05-10,Referral,1,1,0,0
+2025-05-10,Unassigned,1,0,0,96
+2025-05-11,Cross-network,1,0,0,0
+2025-05-11,Direct,1,1,0,1
+2025-05-11,Organic Search,19,17,0,15
+2025-05-11,Paid Search,6,4,0,5
+2025-05-12,Direct,33,25,1,10
+2025-05-12,Organic Search,111,79,6,43
+2025-05-12,Organic Social,2,2,2,2
+2025-05-12,Paid Search,17,11,3,12
+2025-05-12,Referral,16,12,0,6
+2025-05-12,Unassigned,1,0,0,0
+2025-05-13,Cross-network,2,2,0,2
+2025-05-13,Direct,39,22,3,12
+2025-05-13,Organic Search,102,76,4,37
+2025-05-13,Paid Search,12,8,0,7
+2025-05-13,Referral,15,14,0,7
+2025-05-14,Cross-network,1,0,0,0
+2025-05-14,Direct,57,35,5,18
+2025-05-14,Organic Search,81,53,12,33
+2025-05-14,Paid Search,14,9,0,10
+2025-05-14,Referral,16,12,0,4
+2025-05-14,Unassigned,2,0,0,0
+2025-05-15,Cross-network,6,5,0,6
+2025-05-15,Direct,55,31,0,23
+2025-05-15,Organic Search,113,76,1,54
+2025-05-15,Paid Search,12,9,0,8
+2025-05-15,Referral,19,16,1,6
+2025-05-15,Unassigned,4,1,0,1
+2025-05-16,Cross-network,4,4,0,4
+2025-05-16,Direct,20,9,1,6
+2025-05-16,Organic Search,74,42,4,17
+2025-05-16,Organic Social,1,1,0,1
+2025-05-16,Paid Search,17,13,0,14
+2025-05-16,Referral,14,7,0,2
+2025-05-17,Cross-network,6,5,0,6
+2025-05-17,Direct,5,2,0,2
+2025-05-17,Organic Search,19,12,1,13
+2025-05-17,Paid Search,1,1,0,1
+2025-05-17,Referral,1,1,0,0
+2025-05-18,Direct,3,2,0,2
+2025-05-18,Organic Search,23,17,2,9
+2025-05-18,Organic Social,1,1,0,1
+2025-05-18,Paid Search,4,2,0,4
+2025-05-18,Referral,4,4,0,2
+2025-05-19,Cross-network,1,1,0,1
+2025-05-19,Direct,43,26,1,21
+2025-05-19,Organic Search,86,60,8,24
+2025-05-19,Paid Search,25,18,6,18
+2025-05-19,Referral,18,14,0,7
+2025-05-19,Unassigned,3,0,0,0
+2025-05-20,Cross-network,5,5,0,5
+2025-05-20,Direct,43,31,1,20
+2025-05-20,Organic Search,81,60,3,31
+2025-05-20,Paid Search,15,12,0,10
+2025-05-20,Referral,12,9,0,2
+2025-05-20,Unassigned,1,0,0,0
+2025-05-21,Cross-network,7,4,0,7
+2025-05-21,Direct,50,29,0,16
+2025-05-21,Organic Search,107,77,10,45
+2025-05-21,Organic Social,1,1,0,0
+2025-05-21,Paid Search,21,14,0,18
+2025-05-21,Referral,13,10,0,7
+2025-05-21,Unassigned,1,0,0,0
+2025-05-22,Cross-network,8,7,0,8
+2025-05-22,Direct,38,26,1,13
+2025-05-22,Organic Search,94,64,0,32
+2025-05-22,Paid Search,28,19,0,25
+2025-05-22,Referral,24,18,0,2
+2025-05-23,Cross-network,3,3,0,3
+2025-05-23,Direct,23,16,3,9
+2025-05-23,Organic Search,79,55,5,31
+2025-05-23,Organic Social,1,1,0,1
+2025-05-23,Paid Search,8,6,0,6
+2025-05-23,Referral,17,14,0,4
+2025-05-23,Unassigned,1,0,0,0
+2025-05-24,Cross-network,8,7,1,8
+2025-05-24,Direct,7,4,0,2
+2025-05-24,Organic Search,8,8,0,7
+2025-05-24,Organic Social,1,0,0,0
+2025-05-24,Paid Search,6,3,0,6
+2025-05-24,Unassigned,1,0,0,1
+2025-05-25,Cross-network,8,5,1,6
+2025-05-25,Direct,3,2,0,1
+2025-05-25,Organic Search,14,12,0,13
+2025-05-25,Organic Social,1,0,0,1
+2025-05-25,Paid Search,10,7,0,9
+2025-05-25,Referral,1,1,0,1
+2025-05-26,Cross-network,3,3,0,2
+2025-05-26,Direct,34,18,1,16
+2025-05-26,Organic Search,92,60,5,30
+2025-05-26,Organic Social,1,0,0,1
+2025-05-26,Paid Search,26,18,0,21
+2025-05-26,Referral,22,17,0,3
+2025-05-26,Unassigned,1,0,0,0
+2025-05-27,Cross-network,4,4,0,4
+2025-05-27,Direct,29,19,1,12
+2025-05-27,Organic Search,110,73,6,40
+2025-05-27,Organic Social,1,0,0,0
+2025-05-27,Paid Search,16,12,0,15
+2025-05-27,Referral,23,15,0,4
+2025-05-27,Unassigned,1,0,0,0
+2025-05-28,Cross-network,2,2,0,2
+2025-05-28,Direct,34,22,2,14
+2025-05-28,Organic Search,78,53,3,30
+2025-05-28,Organic Social,3,1,0,1
+2025-05-28,Paid Search,17,10,1,11
+2025-05-28,Referral,19,13,0,3
+2025-05-28,Unassigned,2,0,0,0
+2025-05-29,Cross-network,1,1,0,1
+2025-05-29,Direct,19,13,9,9
+2025-05-29,Organic Search,25,18,1,8
+2025-05-29,Paid Search,14,8,0,8
+2025-05-29,Referral,5,5,0,1
+2025-05-29,Unassigned,2,1,0,1
+2025-05-30,Cross-network,1,0,0,1
+2025-05-30,Direct,33,23,0,16
+2025-05-30,Organic Search,41,30,3,21
+2025-05-30,Paid Search,14,10,0,13
+2025-05-30,Referral,10,9,0,3
+2025-05-31,Cross-network,3,2,0,2
+2025-05-31,Direct,10,4,0,6
+2025-05-31,Organic Search,7,4,0,6
+2025-05-31,Paid Search,10,7,0,8
+2025-05-31,Referral,1,0,0,0
+2025-06-01,Cross-network,3,1,0,2
+2025-06-01,Direct,8,2,0,3
+2025-06-01,Organic Search,19,14,0,16
+2025-06-01,Paid Search,6,5,0,6
+2025-06-01,Referral,1,1,0,0
+2025-06-01,Unassigned,1,0,0,0
+2025-06-02,Cross-network,4,4,0,4
+2025-06-02,Direct,31,26,0,13
+2025-06-02,Organic Search,82,50,4,27
+2025-06-02,Paid Search,11,11,0,11
+2025-06-02,Referral,14,8,0,4
+2025-06-02,Unassigned,3,0,0,1
+2025-06-03,Cross-network,1,1,0,1
+2025-06-03,Direct,40,31,0,15
+2025-06-03,Organic Search,98,60,7,41
+2025-06-03,Paid Search,21,16,1,13
+2025-06-03,Referral,19,15,2,8
+2025-06-03,Unassigned,3,0,0,0
+2025-06-04,Cross-network,1,1,0,1
+2025-06-04,Direct,30,19,0,7
+2025-06-04,Organic Search,92,62,1,33
+2025-06-04,Paid Search,16,10,0,11
+2025-06-04,Referral,19,16,0,2
+2025-06-04,Unassigned,1,0,0,0
+2025-06-05,Cross-network,4,3,0,3
+2025-06-05,Direct,20,13,0,8
+2025-06-05,Organic Search,80,53,4,31
+2025-06-05,Paid Search,17,16,0,15
+2025-06-05,Referral,17,13,1,3
+2025-06-05,Unassigned,1,0,0,0
+2025-06-06,Cross-network,1,1,1,1
+2025-06-06,Direct,30,24,0,20
+2025-06-06,Organic Search,28,23,1,11
+2025-06-06,Paid Search,14,8,0,13
+2025-06-06,Referral,14,10,0,4
+2025-06-06,Unassigned,1,0,0,0
+2025-06-07,Cross-network,1,1,0,1
+2025-06-07,Direct,2,2,0,2
+2025-06-07,Organic Search,20,15,1,13
+2025-06-07,Paid Search,1,1,0,1
+2025-06-08,Cross-network,3,2,0,2
+2025-06-08,Direct,4,1,0,1
+2025-06-08,Organic Search,14,9,1,7
+2025-06-08,Paid Search,10,8,0,10
+2025-06-08,Referral,1,0,0,0
+2025-06-09,Cross-network,1,1,0,1
+2025-06-09,Direct,38,28,1,21
+2025-06-09,Organic Search,61,35,3,17
+2025-06-09,Paid Search,17,12,0,14
+2025-06-09,Referral,13,13,1,2
+2025-06-09,Unassigned,1,0,0,0
+2025-06-10,Cross-network,1,1,0,1
+2025-06-10,Direct,32,22,0,12
+2025-06-10,Organic Search,99,70,2,38
+2025-06-10,Organic Social,1,1,0,1
+2025-06-10,Paid Search,19,14,1,15
+2025-06-10,Referral,21,14,0,3
+2025-06-11,Cross-network,5,3,0,4
+2025-06-11,Direct,29,18,3,11
+2025-06-11,Organic Search,78,55,6,30
+2025-06-11,Organic Social,1,1,0,1
+2025-06-11,Paid Search,14,13,0,12
+2025-06-11,Referral,13,9,0,2
+2025-06-11,Unassigned,6,0,0,0
+2025-06-12,Cross-network,3,3,4,3
+2025-06-12,Direct,26,16,0,13
+2025-06-12,Organic Search,70,49,1,25
+2025-06-12,Organic Social,3,1,0,1
+2025-06-12,Paid Search,25,21,3,19
+2025-06-12,Referral,11,10,0,4
+2025-06-12,Unassigned,2,0,0,0
+2025-06-13,Cross-network,1,1,0,1
+2025-06-13,Direct,21,11,0,8
+2025-06-13,Organic Search,73,51,2,26
+2025-06-13,Paid Search,14,9,1,13
+2025-06-13,Referral,5,3,0,0
+2025-06-14,Cross-network,12,7,0,10
+2025-06-14,Direct,6,3,0,4
+2025-06-14,Organic Search,5,3,1,5
+2025-06-14,Paid Search,10,6,1,8
+2025-06-15,Cross-network,2,1,0,1
+2025-06-15,Direct,1,1,0,1
+2025-06-15,Organic Search,12,7,0,8
+2025-06-15,Paid Search,8,5,0,8
+2025-06-16,Cross-network,1,1,0,1
+2025-06-16,Direct,37,26,1,18
+2025-06-16,Organic Search,86,64,2,31
+2025-06-16,Paid Search,23,16,0,20
+2025-06-16,Referral,16,11,0,4
+2025-06-17,Cross-network,4,1,0,4
+2025-06-17,Direct,35,24,1,9
+2025-06-17,Organic Search,77,56,5,29
+2025-06-17,Paid Search,17,13,0,15
+2025-06-17,Referral,10,7,0,0
+2025-06-17,Unassigned,1,0,0,0
+2025-06-18,Cross-network,7,5,1,4
+2025-06-18,Direct,43,28,1,15
+2025-06-18,Organic Search,95,69,8,34
+2025-06-18,Paid Search,20,17,3,16
+2025-06-18,Referral,11,7,0,5
+2025-06-18,Unassigned,2,0,0,0
+2025-06-19,Cross-network,2,2,0,2
+2025-06-19,Direct,23,16,0,9
+2025-06-19,Organic Search,57,33,1,23
+2025-06-19,Paid Search,28,16,0,19
+2025-06-19,Referral,19,12,0,5
+2025-06-19,Unassigned,1,0,0,0
+2025-06-20,Cross-network,1,1,0,1
+2025-06-20,Direct,9,5,0,3
+2025-06-20,Organic Search,29,20,0,6
+2025-06-20,Paid Search,22,16,0,18
+2025-06-20,Referral,11,6,0,2
+2025-06-21,Cross-network,3,2,0,3
+2025-06-21,Direct,3,2,0,2
+2025-06-21,Organic Search,10,8,0,7
+2025-06-21,Paid Search,5,5,0,4
+2025-06-22,Cross-network,7,5,0,5
+2025-06-22,Direct,5,3,0,3
+2025-06-22,Organic Search,16,12,0,11
+2025-06-22,Organic Social,2,2,0,2
+2025-06-22,Paid Search,10,5,0,10
+2025-06-23,Cross-network,5,3,0,5
+2025-06-23,Direct,32,16,2,9
+2025-06-23,Organic Search,58,37,0,26
+2025-06-23,Paid Search,36,27,0,32
+2025-06-23,Referral,5,2,0,1
+2025-06-23,Unassigned,1,0,0,0
+2025-06-24,Cross-network,1,1,0,2
+2025-06-24,Direct,36,23,0,10
+2025-06-24,Organic Search,73,54,11,29
+2025-06-24,Organic Social,2,1,0,1
+2025-06-24,Paid Search,28,21,0,24
+2025-06-24,Referral,14,9,0,4
+2025-06-25,Cross-network,4,2,0,3
+2025-06-25,Direct,26,16,0,11
+2025-06-25,Organic Search,75,48,3,31
+2025-06-25,Organic Social,1,1,0,1
+2025-06-25,Paid Search,25,18,0,16
+2025-06-25,Referral,15,9,0,2
+2025-06-25,Unassigned,1,1,0,1
+2025-06-26,Cross-network,6,5,0,6
+2025-06-26,Direct,25,13,1,10
+2025-06-26,Organic Search,78,48,3,35
+2025-06-26,Paid Search,15,9,0,13
+2025-06-26,Referral,9,3,0,2
+2025-06-26,Unassigned,2,0,0,0
+2025-06-27,Cross-network,1,1,0,1
+2025-06-27,Direct,7,4,0,2
+2025-06-27,Organic Search,49,32,1,23
+2025-06-27,Paid Search,20,14,0,16
+2025-06-27,Referral,9,5,0,6
+2025-06-28,Cross-network,6,5,0,6
+2025-06-28,Direct,4,2,0,3
+2025-06-28,Organic Search,13,9,0,7
+2025-06-28,Organic Social,1,1,0,1
+2025-06-28,Paid Search,12,9,0,12
+2025-06-28,Unassigned,1,0,0,0
+2025-06-29,Cross-network,3,1,0,3
+2025-06-29,Direct,4,2,0,2
+2025-06-29,Organic Search,12,6,1,8
+2025-06-29,Paid Search,8,4,0,8
+2025-06-29,Referral,1,0,0,1
+2025-06-29,Unassigned,1,0,0,0
+2025-06-30,Cross-network,2,2,0,2
+2025-06-30,Direct,23,14,7,9
+2025-06-30,Organic Search,63,47,2,26
+2025-06-30,Organic Social,2,1,0,2
+2025-06-30,Paid Search,19,10,0,15
+2025-06-30,Referral,6,5,0,3
+2025-06-30,Unassigned,1,0,0,0
+2025-07-01,Cross-network,8,8,0,8
+2025-07-01,Direct,23,17,0,9
+2025-07-01,Organic Search,50,35,4,24
+2025-07-01,Paid Search,32,24,3,20
+2025-07-01,Referral,15,7,0,3
+2025-07-01,Unassigned,1,0,0,0
+2025-07-02,Cross-network,2,2,0,2
+2025-07-02,Direct,30,23,6,8
+2025-07-02,Organic Search,70,45,4,31
+2025-07-02,Organic Social,2,1,0,2
+2025-07-02,Paid Search,15,11,0,13
+2025-07-02,Referral,7,5,0,0
+2025-07-02,Unassigned,3,0,0,0
+2025-07-03,Cross-network,7,2,0,6
+2025-07-03,Direct,37,27,0,8
+2025-07-03,Organic Search,70,46,0,25
+2025-07-03,Organic Social,1,1,0,1
+2025-07-03,Paid Search,29,18,0,23
+2025-07-03,Referral,17,11,0,4
+2025-07-03,Unassigned,2,0,0,0
+2025-07-04,Cross-network,7,6,0,7
+2025-07-04,Direct,17,9,0,4
+2025-07-04,Organic Search,48,36,3,19
+2025-07-04,Organic Social,2,2,0,1
+2025-07-04,Paid Search,22,12,0,14
+2025-07-04,Referral,12,8,0,2
+2025-07-05,Cross-network,4,2,2,3
+2025-07-05,Direct,3,2,0,1
+2025-07-05,Organic Search,13,9,0,10
+2025-07-05,Organic Social,1,0,0,0
+2025-07-05,Paid Search,9,4,0,7
+2025-07-05,Referral,1,1,0,1
+2025-07-06,Cross-network,5,5,0,4
+2025-07-06,Direct,6,3,0,2
+2025-07-06,Organic Search,12,9,1,6
+2025-07-06,Organic Social,1,0,0,0
+2025-07-06,Paid Search,5,4,0,4
+2025-07-06,Referral,3,3,0,2
+2025-07-07,Cross-network,6,4,0,4
+2025-07-07,Direct,11,5,0,2
+2025-07-07,Organic Search,45,35,2,23
+2025-07-07,Organic Social,1,1,0,1
+2025-07-07,Paid Search,38,26,1,33
+2025-07-07,Referral,5,3,0,1
+2025-07-08,Cross-network,6,3,0,5
+2025-07-08,Direct,19,14,0,8
+2025-07-08,Organic Search,67,46,19,24
+2025-07-08,Organic Social,1,1,0,0
+2025-07-08,Paid Search,25,19,0,22
+2025-07-08,Referral,10,8,0,4
+2025-07-08,Unassigned,3,0,0,0
+2025-07-09,Cross-network,5,3,0,4
+2025-07-09,Direct,19,13,0,8
+2025-07-09,Organic Search,54,37,1,17
+2025-07-09,Paid Search,35,24,0,24
+2025-07-09,Referral,8,5,0,1
+2025-07-09,Unassigned,1,0,0,0
+2025-07-10,Cross-network,4,2,0,4
+2025-07-10,Direct,14,8,0,6
+2025-07-10,Organic Search,43,27,1,18
+2025-07-10,Organic Social,1,0,0,1
+2025-07-10,Paid Search,31,24,0,27
+2025-07-10,Referral,17,12,0,3
+2025-07-10,Unassigned,2,1,0,1
+2025-07-11,Cross-network,5,1,0,1
+2025-07-11,Direct,13,8,0,4
+2025-07-11,Organic Search,26,22,0,17
+2025-07-11,Paid Search,30,19,3,18
+2025-07-11,Referral,12,8,0,6
+2025-07-11,Unassigned,2,0,0,0
+2025-07-12,Cross-network,3,3,0,3
+2025-07-12,Direct,6,3,0,1
+2025-07-12,Organic Search,9,9,0,7
+2025-07-12,Paid Other,3,1,0,1
+2025-07-12,Paid Search,6,6,0,6
+2025-07-13,Cross-network,12,8,0,8
+2025-07-13,Direct,3,0,0,0
+2025-07-13,Organic Search,7,5,0,5
+2025-07-13,Paid Search,15,13,0,12
+2025-07-13,Referral,1,1,0,0
+2025-07-13,Unassigned,2,0,0,0
+2025-07-14,Cross-network,9,4,0,5
+2025-07-14,Direct,14,8,1,5
+2025-07-14,Organic Search,36,23,1,10
+2025-07-14,Paid Search,21,15,0,19
+2025-07-14,Referral,8,6,0,4
+2025-07-14,Unassigned,1,0,0,0
+2025-07-15,Cross-network,5,2,0,2
+2025-07-15,Direct,11,5,0,5
+2025-07-15,Organic Search,37,30,3,13
+2025-07-15,Organic Social,4,2,0,3
+2025-07-15,Paid Other,2,0,0,0
+2025-07-15,Paid Search,22,17,3,18
+2025-07-15,Referral,4,4,0,2
+2025-07-15,Unassigned,1,0,0,0
+2025-07-16,Cross-network,9,5,0,7
+2025-07-16,Direct,14,13,0,9
+2025-07-16,Organic Search,43,32,2,23
+2025-07-16,Organic Social,1,1,0,1
+2025-07-16,Paid Other,1,0,0,0
+2025-07-16,Paid Search,12,7,0,7
+2025-07-16,Referral,3,2,0,2
+2025-07-17,Cross-network,8,5,0,6
+2025-07-17,Direct,9,8,0,5
+2025-07-17,Organic Search,38,27,3,16
+2025-07-17,Organic Social,1,1,0,1
+2025-07-17,Paid Other,3,0,0,0
+2025-07-17,Paid Search,32,17,1,24
+2025-07-17,Referral,3,2,0,2
+2025-07-18,Cross-network,4,3,0,3
+2025-07-18,Direct,5,2,0,2
+2025-07-18,Organic Search,17,13,0,9
+2025-07-18,Paid Search,19,12,3,13
+2025-07-18,Referral,5,3,0,3
+2025-07-19,Cross-network,13,7,0,11
+2025-07-19,Direct,3,2,0,3
+2025-07-19,Organic Search,7,3,0,5
+2025-07-19,Paid Search,24,13,0,19
+2025-07-19,Referral,1,1,0,1
+2025-07-20,Cross-network,10,4,0,6
+2025-07-20,Direct,5,2,0,2
+2025-07-20,Organic Search,7,4,0,5
+2025-07-20,Paid Search,9,5,1,7
+2025-07-20,Referral,1,1,0,1
+2025-07-20,Unassigned,1,0,0,0
+2025-07-21,Cross-network,12,4,0,8
+2025-07-21,Direct,14,6,0,8
+2025-07-21,Organic Search,23,19,1,12
+2025-07-21,Paid Search,30,20,0,23
+2025-07-21,Referral,4,3,0,1
+2025-07-22,Cross-network,8,4,0,7
+2025-07-22,Direct,14589,34,0,11
+2025-07-22,Organic Search,36,21,0,16
+2025-07-22,Paid Search,26,18,10,18
+2025-07-22,Referral,6,4,0,2
+2025-07-22,Unassigned,2,0,0,0
+2025-07-23,Cross-network,3,2,0,2
+2025-07-23,Direct,47070,57,0,1
+2025-07-23,Organic Search,25,21,0,14
+2025-07-23,Paid Search,35,17,0,25
+2025-07-23,Referral,4,4,0,3
+2025-07-23,Unassigned,3,0,0,0
+2025-07-24,Cross-network,9,1,0,7
+2025-07-24,Direct,40628,17,0,7
+2025-07-24,Organic Search,25,15,0,15
+2025-07-24,Paid Search,28,17,0,19
+2025-07-24,Referral,2,1,0,0
+2025-07-24,Unassigned,2,0,1,0
+2025-07-25,Cross-network,8,4,0,5
+2025-07-25,Direct,39110,5,0,1
+2025-07-25,Organic Search,18,14,0,14
+2025-07-25,Paid Search,25,18,1,18
+2025-07-25,Referral,6,5,0,3
+2025-07-25,Unassigned,2,0,0,0
+2025-07-26,Cross-network,7,3,0,4
+2025-07-26,Direct,26079,10,0,3
+2025-07-26,Organic Search,3,3,0,3
+2025-07-26,Paid Search,15,11,0,13
+2025-07-26,Referral,1,1,0,1
+2025-07-26,Unassigned,2,0,0,1
+2025-07-27,Cross-network,7,4,0,5
+2025-07-27,Direct,38723,7,0,0
+2025-07-27,Organic Search,2,2,0,2
+2025-07-27,Organic Social,1,1,0,1
+2025-07-27,Paid Search,15,7,0,11
+2025-07-27,Unassigned,1,1,0,1
+2025-07-28,Cross-network,5,1,0,5
+2025-07-28,Direct,29637,13,3,6
+2025-07-28,Organic Search,36,26,0,17
+2025-07-28,Paid Search,30,18,0,21
+2025-07-28,Referral,6,4,0,1
+2025-07-28,Unassigned,1,0,0,0
+2025-07-29,Cross-network,8,4,0,4
+2025-07-29,Direct,18,10,1,11
+2025-07-29,Organic Search,44,29,3,17
+2025-07-29,Organic Social,1,0,0,1
+2025-07-29,Paid Search,22,15,0,18
+2025-07-29,Referral,5,4,0,0
+2025-07-29,Unassigned,2,0,4,0
+2025-07-30,Cross-network,12,4,0,8
+2025-07-30,Direct,12,10,0,5
+2025-07-30,Organic Search,33,22,0,15
+2025-07-30,Organic Social,1,0,0,0
+2025-07-30,Paid Search,20,16,0,18
+2025-07-30,Referral,3,2,0,1
+2025-07-31,Cross-network,6,2,0,6
+2025-07-31,Direct,19,12,0,7
+2025-07-31,Organic Search,38,28,1,19
+2025-07-31,Paid Search,21,13,0,18
+2025-07-31,Referral,8,5,0,1
+2025-08-01,Cross-network,16,8,0,13
+2025-08-01,Direct,23,12,0,14
+2025-08-01,Organic Search,25,13,0,8
+2025-08-01,Paid Search,15,9,0,12
+2025-08-01,Referral,6,3,0,1
+2025-08-01,Unassigned,1,0,0,0
+2025-08-02,Cross-network,6,2,0,4
+2025-08-02,Direct,1,0,0,0
+2025-08-02,Organic Search,12,6,0,11
+2025-08-02,Paid Search,5,3,0,5
+2025-08-03,Cross-network,31,19,0,29
+2025-08-03,Direct,6,4,0,3
+2025-08-03,Organic Search,14,9,1,8
+2025-08-03,Paid Search,3,3,0,2
+2025-08-03,Unassigned,1,0,0,0
+2025-08-04,Cross-network,22,17,0,19
+2025-08-04,Direct,25,16,1,8
+2025-08-04,Organic Search,54,35,15,26
+2025-08-04,Paid Search,16,11,1,12
+2025-08-04,Referral,7,4,0,3
+2025-08-05,Cross-network,7,3,0,5
+2025-08-05,Direct,34,22,0,14
+2025-08-05,Organic Search,75,54,8,26
+2025-08-05,Organic Social,1,0,0,1
+2025-08-05,Paid Search,16,13,3,13
+2025-08-05,Referral,8,4,0,2
+2025-08-05,Unassigned,1,0,0,0
+2025-08-06,Cross-network,13,10,0,11
+2025-08-06,Direct,28,15,0,11
+2025-08-06,Organic Search,66,44,6,26
+2025-08-06,Organic Social,1,1,0,1
+2025-08-06,Paid Search,21,16,0,14
+2025-08-06,Referral,12,9,0,1
+2025-08-06,Unassigned,2,0,0,0
+2025-08-07,Cross-network,22,14,1,19
+2025-08-07,Direct,17,6,0,4
+2025-08-07,Organic Search,59,48,1,28
+2025-08-07,Paid Search,18,11,0,14
+2025-08-07,Referral,13,8,0,5
+2025-08-08,Cross-network,12,8,0,12
+2025-08-08,Direct,36,22,0,11
+2025-08-08,Organic Search,55,35,5,25
+2025-08-08,Paid Search,12,9,0,10
+2025-08-08,Referral,7,5,0,0
+2025-08-08,Unassigned,1,0,0,0
+2025-08-09,Cross-network,17,13,0,14
+2025-08-09,Direct,8,5,0,4
+2025-08-09,Organic Search,9,7,0,6
+2025-08-09,Paid Search,3,1,0,2
+2025-08-10,Cross-network,11,8,0,9
+2025-08-10,Direct,3,2,0,0
+2025-08-10,Organic Search,15,9,0,8
+2025-08-10,Paid Search,5,3,0,5
+2025-08-10,Referral,2,2,0,2
+2025-08-11,Cross-network,23,11,0,17
+2025-08-11,Direct,36,25,4,13
+2025-08-11,Organic Search,58,40,3,24
+2025-08-11,Paid Search,17,10,0,13
+2025-08-11,Referral,12,9,0,2
+2025-08-11,Unassigned,3,1,0,2
+2025-08-12,Cross-network,14,9,0,11
+2025-08-12,Direct,34,19,1,15
+2025-08-12,Organic Search,98,63,6,33
+2025-08-12,Organic Social,1,1,0,1
+2025-08-12,Paid Search,17,9,0,16
+2025-08-12,Referral,20,15,0,4
+2025-08-12,Unassigned,1,1,0,1
+2025-08-13,Cross-network,23,14,1,18
+2025-08-13,Direct,31,21,0,9
+2025-08-13,Organic Search,66,44,2,32
+2025-08-13,Organic Social,1,1,0,1
+2025-08-13,Paid Search,17,11,3,10
+2025-08-13,Referral,10,7,0,2
+2025-08-13,Unassigned,4,0,0,0
+2025-08-14,Cross-network,10,7,1,7
+2025-08-14,Direct,28,20,0,12
+2025-08-14,Organic Search,70,51,2,40
+2025-08-14,Organic Social,1,1,0,1
+2025-08-14,Paid Search,21,19,3,13
+2025-08-14,Referral,12,9,0,5
+2025-08-14,Unassigned,1,0,0,0
+2025-08-15,Cross-network,26,12,0,19
+2025-08-15,Direct,33,20,1,12
+2025-08-15,Organic Search,75,56,2,36
+2025-08-15,Organic Social,4,3,0,3
+2025-08-15,Paid Search,19,14,0,9
+2025-08-15,Referral,7,5,0,2
+2025-08-15,Unassigned,3,0,0,74
+2025-08-16,Cross-network,23,14,1,15
+2025-08-16,Direct,6,3,0,3
+2025-08-16,Organic Search,10,10,2,9
+2025-08-16,Paid Search,6,4,0,3
+2025-08-16,Unassigned,1,0,0,0
+2025-08-17,Cross-network,26,9,0,20
+2025-08-17,Direct,4,1,0,2
+2025-08-17,Organic Search,9,6,0,7
+2025-08-17,Organic Social,1,0,0,1
+2025-08-17,Paid Search,5,3,0,5
+2025-08-17,Unassigned,1,0,0,0
+2025-08-18,Cross-network,18,9,0,11
+2025-08-18,Direct,25,14,1,10
+2025-08-18,Organic Search,86,58,5,36
+2025-08-18,Paid Search,36,19,0,10
+2025-08-18,Referral,7,7,0,2
+2025-08-18,Unassigned,2,0,0,0
+2025-08-19,Cross-network,10,6,0,6
+2025-08-19,Direct,27,14,1,12
+2025-08-19,Organic Search,70,42,4,26
+2025-08-19,Organic Social,1,0,0,0
+2025-08-19,Paid Search,25,18,0,16
+2025-08-19,Referral,8,5,0,4
+2025-08-19,Unassigned,1,0,0,0
+2025-08-20,Cross-network,17,11,1,13
+2025-08-20,Direct,34,23,1,10
+2025-08-20,Organic Search,82,53,5,35
+2025-08-20,Paid Search,21,16,0,15
+2025-08-20,Referral,2,1,0,2
+2025-08-21,Cross-network,23,11,0,17
+2025-08-21,Direct,33,21,0,10
+2025-08-21,Organic Search,97,68,3,39
+2025-08-21,Organic Social,1,0,0,1
+2025-08-21,Paid Search,25,18,0,17
+2025-08-21,Referral,13,7,1,2
+2025-08-21,Unassigned,1,0,0,0
+2025-08-22,Cross-network,12,6,1,9
+2025-08-22,Direct,44,26,0,22
+2025-08-22,Organic Search,71,45,25,36
+2025-08-22,Paid Search,12,9,0,10
+2025-08-22,Referral,6,2,0,3
+2025-08-22,Unassigned,3,2,0,2
+2025-08-23,Cross-network,17,10,0,14
+2025-08-23,Direct,1,0,0,1
+2025-08-23,Organic Search,9,4,0,5
+2025-08-23,Organic Video,1,1,0,1
+2025-08-24,Cross-network,18,10,0,13
+2025-08-24,Direct,9,2,0,3
+2025-08-24,Organic Search,18,10,0,10
+2025-08-24,Referral,1,0,0,0
+2025-08-24,Unassigned,2,1,0,1
+2025-08-25,Cross-network,10,6,0,9
+2025-08-25,Direct,32,21,1,17
+2025-08-25,Organic Search,86,55,4,38
+2025-08-25,Paid Search,31,21,1,19
+2025-08-25,Referral,12,8,1,5
+2025-08-25,Unassigned,4,0,0,0
+2025-08-26,Cross-network,11,8,1,9
+2025-08-26,Direct,44,28,1,16
+2025-08-26,Organic Search,92,55,5,28
+2025-08-26,Paid Search,20,14,0,12
+2025-08-26,Referral,8,6,0,4
+2025-08-27,Cross-network,15,12,0,12
+2025-08-27,Direct,37,22,3,9
+2025-08-27,Organic Search,74,45,1,32
+2025-08-27,Paid Search,18,13,0,12
+2025-08-27,Referral,4,2,0,1
+2025-08-27,Unassigned,1,0,0,0
+2025-08-28,Cross-network,17,11,0,15
+2025-08-28,Direct,50,27,1,14
+2025-08-28,Organic Search,87,64,6,52
+2025-08-28,Organic Social,37,6,1,31
+2025-08-28,Paid Search,23,17,0,15
+2025-08-28,Referral,11,9,0,9
+2025-08-28,Unassigned,2,0,0,0
+2025-08-29,Cross-network,12,9,0,10
+2025-08-29,Direct,40,24,2,18
+2025-08-29,Organic Search,77,51,8,29
+2025-08-29,Organic Social,4,0,0,4
+2025-08-29,Paid Search,12,8,1,5
+2025-08-29,Referral,10,5,0,4
+2025-08-29,Unassigned,3,0,0,0
+2025-08-30,Cross-network,12,7,0,11
+2025-08-30,Direct,5,2,0,1
+2025-08-30,Organic Search,20,16,0,14
+2025-08-30,Organic Social,1,0,0,1
+2025-08-30,Paid Search,3,1,0,3
+2025-08-31,Cross-network,12,6,0,9
+2025-08-31,Direct,6,3,0,2
+2025-08-31,Organic Search,17,8,1,8
+2025-08-31,Organic Social,2,0,0,2
+2025-08-31,Paid Search,2,1,0,1
+2025-08-31,Referral,1,0,0,1
+2025-08-31,Unassigned,1,0,0,0
+2025-09-01,Cross-network,19,12,1,16
+2025-09-01,Direct,40,24,2,13
+2025-09-01,Organic Search,84,64,6,34
+2025-09-01,Organic Social,1,0,0,0
+2025-09-01,Paid Search,27,18,0,14
+2025-09-01,Referral,8,7,0,6
+2025-09-01,Unassigned,1,0,0,0
+2025-09-02,Cross-network,14,6,2,10
+2025-09-02,Direct,23,15,0,7
+2025-09-02,Organic Search,69,56,3,31
+2025-09-02,Organic Social,1,0,0,1
+2025-09-02,Paid Search,16,10,0,11
+2025-09-02,Referral,6,4,0,4
+2025-09-02,Unassigned,2,0,0,0
+2025-09-03,Cross-network,19,12,6,13
+2025-09-03,Direct,41,26,0,22
+2025-09-03,Organic Search,90,62,2,36
+2025-09-03,Organic Social,1,0,0,1
+2025-09-03,Paid Search,23,13,0,16
+2025-09-03,Referral,5,3,0,5
+2025-09-03,Unassigned,3,0,0,0
+2025-09-04,Cross-network,10,8,0,8
+2025-09-04,Direct,29,23,0,13
+2025-09-04,Organic Search,77,55,6,27
+2025-09-04,Organic Social,2,1,0,2
+2025-09-04,Paid Search,19,12,0,13
+2025-09-04,Referral,11,9,0,3
+2025-09-04,Unassigned,2,0,0,0
+2025-09-05,Cross-network,19,15,1,14
+2025-09-05,Direct,27,19,0,5
+2025-09-05,Organic Search,58,43,1,21
+2025-09-05,Organic Social,2,1,0,2
+2025-09-05,Paid Search,19,14,2,11
+2025-09-05,Referral,9,8,0,8
+2025-09-05,Unassigned,2,0,0,0
+2025-09-06,Cross-network,12,8,0,10
+2025-09-06,Direct,3,2,0,2
+2025-09-06,Organic Search,22,15,2,12
+2025-09-06,Paid Search,3,2,0,3
+2025-09-06,Referral,2,2,0,2
+2025-09-06,Unassigned,3,0,0,0
+2025-09-07,Cross-network,12,9,1,11
+2025-09-07,Direct,2,0,0,0
+2025-09-07,Organic Search,11,9,0,9
+2025-09-07,Paid Search,2,1,0,2
+2025-09-07,Referral,5,4,0,1
+2025-09-08,Cross-network,13,6,0,11
+2025-09-08,Direct,35,25,1,11
+2025-09-08,Organic Search,106,75,7,35
+2025-09-08,Organic Video,1,1,0,1
+2025-09-08,Paid Search,21,19,0,14
+2025-09-08,Referral,7,6,0,2
+2025-09-08,Unassigned,4,0,0,0
+2025-09-09,Cross-network,6,5,2,5
+2025-09-09,Direct,43,31,0,16
+2025-09-09,Organic Search,92,65,11,33
+2025-09-09,Paid Search,15,8,2,9
+2025-09-09,Referral,11,9,1,6
+2025-09-09,Unassigned,1,0,0,0
+2025-09-10,Cross-network,10,8,0,7
+2025-09-10,Direct,36,27,0,12
+2025-09-10,Organic Search,102,75,5,40
+2025-09-10,Paid Search,18,12,1,9
+2025-09-10,Referral,12,10,0,7
+2025-09-11,Cross-network,5,5,0,5
+2025-09-11,Direct,37,27,2,9
+2025-09-11,Organic Search,110,74,9,44
+2025-09-11,Organic Social,1,0,0,0
+2025-09-11,Organic Video,1,0,0,0
+2025-09-11,Paid Search,31,22,1,17
+2025-09-11,Referral,13,7,0,8
+2025-09-11,Unassigned,3,0,0,0
+2025-09-12,Cross-network,10,8,1,10
+2025-09-12,Direct,30,18,1,5
+2025-09-12,Organic Search,76,52,2,32
+2025-09-12,Organic Social,2,2,0,2
+2025-09-12,Paid Search,28,16,0,19
+2025-09-12,Referral,2,1,0,1
+2025-09-12,Unassigned,1,1,0,1
+2025-09-13,Cross-network,12,10,2,11
+2025-09-13,Direct,5,0,0,3
+2025-09-13,Organic Search,21,15,0,8
+2025-09-13,Organic Social,1,1,0,1
+2025-09-13,Paid Search,1,1,0,1
+2025-09-13,Referral,4,2,0,1
+2025-09-14,Cross-network,14,12,0,14
+2025-09-14,Direct,4,3,0,3
+2025-09-14,Organic Search,16,9,0,12
+2025-09-14,Paid Search,4,4,1,4
+2025-09-14,Referral,3,1,0,2
+2025-09-15,Cross-network,12,9,0,11
+2025-09-15,Direct,36,20,2,10
+2025-09-15,Organic Search,95,60,6,37
+2025-09-15,Organic Social,2,2,0,1
+2025-09-15,Paid Search,16,12,0,7
+2025-09-15,Referral,5,3,0,1
+2025-09-15,Unassigned,2,0,0,0
+2025-09-16,Cross-network,12,11,0,10
+2025-09-16,Direct,27,22,0,2
+2025-09-16,Organic Search,87,64,5,27
+2025-09-16,Organic Social,1,1,0,1
+2025-09-16,Paid Search,19,14,2,12
+2025-09-16,Referral,11,8,2,10
+2025-09-16,Unassigned,1,0,0,0
+2025-09-17,Cross-network,8,5,0,6
+2025-09-17,Direct,38,27,3,12
+2025-09-17,Organic Search,102,70,10,40
+2025-09-17,Paid Search,18,13,1,13
+2025-09-17,Referral,8,6,0,1
+2025-09-18,Cross-network,17,11,0,12
+2025-09-18,Direct,28,21,0,8
+2025-09-18,Organic Search,90,63,3,37
+2025-09-18,Organic Social,1,1,0,1
+2025-09-18,Paid Search,20,15,0,12
+2025-09-18,Referral,14,12,0,7
+2025-09-18,Unassigned,1,0,0,0
+2025-09-19,Cross-network,4,3,0,4
+2025-09-19,Direct,40,26,0,11
+2025-09-19,Organic Search,90,58,3,28
+2025-09-19,Paid Search,12,9,0,8
+2025-09-19,Referral,11,6,0,6
+2025-09-19,Unassigned,3,2,0,2
+2025-09-20,Cross-network,14,10,0,13
+2025-09-20,Direct,3,1,0,1
+2025-09-20,Organic Search,23,15,0,15
+2025-09-20,Paid Search,2,1,0,2
+2025-09-20,Referral,1,0,0,1
+2025-09-20,Unassigned,1,0,0,0
+2025-09-21,Cross-network,23,12,1,22
+2025-09-21,Direct,7,5,0,5
+2025-09-21,Organic Search,9,8,1,7
+2025-09-21,Paid Search,3,1,0,3
+2025-09-21,Referral,5,4,0,4
+2025-09-21,Unassigned,1,0,0,0
+2025-09-22,Cross-network,14,7,0,12
+2025-09-22,Direct,39,25,0,11
+2025-09-22,Organic Search,81,56,4,26
+2025-09-22,Organic Social,3,0,0,2
+2025-09-22,Paid Other,1,0,0,1
+2025-09-22,Paid Search,30,22,0,22
+2025-09-22,Referral,9,6,0,3
+2025-09-22,Unassigned,4,0,0,0
+2025-09-23,Cross-network,19,10,0,14
+2025-09-23,Direct,39,19,3,20
+2025-09-23,Organic Search,79,55,1,17
+2025-09-23,Organic Video,2,1,0,1
+2025-09-23,Paid Search,25,17,2,14
+2025-09-23,Referral,11,5,0,4
+2025-09-23,Unassigned,8,2,0,2
+2025-09-24,Cross-network,18,9,0,13
+2025-09-24,Direct,57,37,3,27
+2025-09-24,Organic Search,95,69,4,35
+2025-09-24,Paid Search,28,14,2,15
+2025-09-24,Referral,15,11,1,6
+2025-09-24,Unassigned,3,1,0,0
+2025-09-25,Cross-network,22,16,1,18
+2025-09-25,Direct,53,31,1,22
+2025-09-25,Organic Search,86,55,4,31
+2025-09-25,Paid Search,17,11,2,9
+2025-09-25,Referral,11,9,0,7
+2025-09-25,Unassigned,6,0,0,0
+2025-09-26,Cross-network,10,4,0,8
+2025-09-26,Direct,24,13,1,12
+2025-09-26,Organic Search,64,47,3,30
+2025-09-26,Paid Search,16,13,0,13
+2025-09-26,Referral,5,3,0,2
+2025-09-26,Unassigned,3,0,0,0
+2025-09-27,Cross-network,11,9,0,11
+2025-09-27,Direct,3,0,0,0
+2025-09-27,Organic Search,11,6,0,7
+2025-09-27,Paid Search,6,3,0,3
+2025-09-27,Referral,3,2,0,3
+2025-09-27,Unassigned,1,0,0,1
+2025-09-28,Cross-network,14,9,0,11
+2025-09-28,Direct,7,3,0,1
+2025-09-28,Organic Search,20,12,4,9
+2025-09-28,Paid Search,6,4,0,5
+2025-09-28,Referral,3,2,0,1
+2025-09-29,Cross-network,19,12,0,18
+2025-09-29,Direct,37,26,2,12
+2025-09-29,Organic Search,90,61,2,40
+2025-09-29,Organic Social,1,1,0,1
+2025-09-29,Paid Search,27,20,0,18
+2025-09-29,Referral,5,5,0,3
+2025-09-29,Unassigned,8,0,0,0
+2025-09-30,Cross-network,14,5,0,11
+2025-09-30,Direct,55,31,1,16
+2025-09-30,Organic Search,93,62,4,43
+2025-09-30,Organic Social,1,0,0,0
+2025-09-30,Paid Search,18,14,0,14
+2025-09-30,Referral,6,5,0,5
+2025-09-30,Unassigned,2,0,0,0
+2025-10-01,Cross-network,17,11,0,15
+2025-10-01,Direct,33,24,1,13
+2025-10-01,Organic Search,83,58,2,28
+2025-10-01,Paid Search,24,19,3,15
+2025-10-01,Referral,8,4,0,6
+2025-10-01,Unassigned,1,0,0,1
+2025-10-02,Cross-network,11,9,0,10
+2025-10-02,Direct,26,12,3,10
+2025-10-02,Organic Search,93,60,5,32
+2025-10-02,Organic Social,1,1,0,1
+2025-10-02,Paid Search,22,13,1,16
+2025-10-02,Referral,11,8,0,5
+2025-10-02,Unassigned,1,0,0,0
+2025-10-03,Cross-network,17,13,0,12
+2025-10-03,Direct,33,26,4,8
+2025-10-03,Organic Search,71,41,3,36
+2025-10-03,Paid Search,20,12,0,12
+2025-10-03,Referral,11,7,0,4
+2025-10-03,Unassigned,3,0,0,0
+2025-10-04,Cross-network,12,9,0,12
+2025-10-04,Direct,2,1,0,1
+2025-10-04,Organic Search,18,8,0,12
+2025-10-04,Paid Search,2,0,0,0
+2025-10-04,Unassigned,1,1,0,1
+2025-10-05,Cross-network,7,6,0,6
+2025-10-05,Direct,4,1,0,1
+2025-10-05,Organic Search,24,16,3,14
+2025-10-05,Organic Social,1,0,0,1
+2025-10-05,Paid Search,12,7,0,10
+2025-10-06,Cross-network,8,5,0,7
+2025-10-06,Direct,34,21,0,16
+2025-10-06,Organic Search,84,60,7,33
+2025-10-06,Paid Search,21,15,0,13
+2025-10-06,Referral,10,8,0,8
+2025-10-06,Unassigned,1,0,0,0
+2025-10-07,Cross-network,10,6,0,6
+2025-10-07,Direct,41,27,3,15
+2025-10-07,Organic Search,87,63,5,37
+2025-10-07,Paid Search,14,11,1,11
+2025-10-07,Referral,10,7,0,4
+2025-10-07,Unassigned,2,1,0,1
+2025-10-08,Cross-network,10,7,0,10
+2025-10-08,Direct,35,14,2,8
+2025-10-08,Organic Search,76,53,3,34
+2025-10-08,Paid Search,17,14,0,13
+2025-10-08,Referral,10,6,0,6
+2025-10-08,Unassigned,3,0,0,0
+2025-10-09,Cross-network,22,15,0,17
+2025-10-09,Direct,47,28,3,17
+2025-10-09,Organic Search,71,51,2,31
+2025-10-09,Paid Search,19,16,0,12
+2025-10-09,Referral,14,10,0,6
+2025-10-09,Unassigned,3,1,0,1
+2025-10-10,Cross-network,13,9,0,11
+2025-10-10,Direct,45,24,0,21
+2025-10-10,Organic Search,97,62,0,25
+2025-10-10,Organic Video,1,1,0,1
+2025-10-10,Paid Search,15,11,0,7
+2025-10-10,Referral,15,9,3,4
+2025-10-10,Unassigned,4,0,0,0
+2025-10-11,Cross-network,14,7,0,12
+2025-10-11,Direct,11,7,0,7
+2025-10-11,Organic Search,22,18,4,15
+2025-10-11,Paid Search,11,8,0,9
+2025-10-11,Referral,1,0,0,1
+2025-10-12,Cross-network,10,5,0,9
+2025-10-12,Direct,10,4,0,2
+2025-10-12,Organic Search,23,18,1,12
+2025-10-12,Paid Search,3,2,0,2
+2025-10-12,Referral,3,3,0,3
+2025-10-13,Cross-network,1,0,0,0
+2025-10-13,Direct,37,25,2,17
+2025-10-13,Organic Search,90,65,1,37
+2025-10-13,Paid Search,27,23,1,14
+2025-10-13,Referral,9,6,0,6
+2025-10-13,Unassigned,4,0,0,0
+2025-10-14,Cross-network,5,2,0,5
+2025-10-14,Direct,55,39,1,20
+2025-10-14,Organic Search,85,49,2,24
+2025-10-14,Organic Video,1,1,0,1
+2025-10-14,Paid Search,33,23,1,19
+2025-10-14,Referral,18,9,0,5
+2025-10-14,Unassigned,4,1,0,1
+2025-10-15,Cross-network,4,2,0,4
+2025-10-15,Direct,44,32,0,17
+2025-10-15,Organic Search,98,71,3,51
+2025-10-15,Paid Search,9,6,1,7
+2025-10-15,Referral,18,10,0,6
+2025-10-15,Unassigned,1,0,0,0
+2025-10-16,Cross-network,5,4,0,5
+2025-10-16,Direct,42,29,4,15
+2025-10-16,Organic Search,82,56,4,36
+2025-10-16,Paid Search,22,15,0,18
+2025-10-16,Referral,12,8,0,8
+2025-10-17,Cross-network,10,9,0,10
+2025-10-17,Direct,28,19,1,9
+2025-10-17,Organic Search,67,44,1,20
+2025-10-17,Organic Social,1,1,0,1
+2025-10-17,Paid Search,28,20,1,18
+2025-10-17,Referral,4,1,0,0
+2025-10-17,Unassigned,1,1,0,1
+2025-10-18,Cross-network,11,7,0,10
+2025-10-18,Direct,7,3,0,2
+2025-10-18,Organic Search,14,13,5,9
+2025-10-18,Paid Search,4,0,0,4
+2025-10-18,Referral,4,2,0,2
+2025-10-18,Unassigned,1,0,0,0
+2025-10-19,Cross-network,10,8,0,9
+2025-10-19,Organic Search,9,8,0,8
+2025-10-19,Paid Search,8,3,0,5
+2025-10-19,Referral,6,4,0,2
+2025-10-19,Unassigned,1,0,0,0
+2025-10-20,Cross-network,9,5,0,7
+2025-10-20,Direct,16,11,0,5
+2025-10-20,Organic Search,90,58,12,30
+2025-10-20,Organic Social,1,1,0,1
+2025-10-20,Paid Search,37,22,1,23
+2025-10-20,Referral,10,8,0,2
+2025-10-20,Unassigned,1,1,0,1
+2025-10-21,Cross-network,7,5,0,5
+2025-10-21,Direct,37,26,3,14
+2025-10-21,Organic Search,126,88,10,45
+2025-10-21,Paid Search,21,15,0,12
+2025-10-21,Referral,8,8,0,6
+2025-10-21,Unassigned,2,1,0,1
+2025-10-22,Cross-network,21,15,0,20
+2025-10-22,Direct,51,35,0,12
+2025-10-22,Organic Search,110,72,4,49
+2025-10-22,Paid Search,23,17,0,15
+2025-10-22,Referral,18,9,1,5
+2025-10-22,Unassigned,1,1,0,1
+2025-10-23,Cross-network,11,8,0,11
+2025-10-23,Direct,45,27,1,14
+2025-10-23,Organic Search,104,68,3,40
+2025-10-23,Paid Search,26,18,0,8
+2025-10-23,Referral,11,7,0,5
+2025-10-24,Cross-network,16,8,0,14
+2025-10-24,Direct,23,17,0,10
+2025-10-24,Organic Search,63,41,2,25
+2025-10-24,Organic Social,1,1,0,1
+2025-10-24,Paid Search,20,14,0,10
+2025-10-24,Referral,7,4,0,2
+2025-10-25,Cross-network,7,6,0,7
+2025-10-25,Direct,5,3,0,3
+2025-10-25,Organic Search,15,8,1,7
+2025-10-25,Paid Search,4,1,0,3
+2025-10-26,Cross-network,18,14,0,18
+2025-10-26,Direct,2,1,0,1
+2025-10-26,Organic Search,15,11,0,6
+2025-10-26,Paid Search,10,7,0,9
+2025-10-26,Referral,4,3,0,4
+2025-10-26,Unassigned,1,0,0,0
+2025-10-27,Cross-network,2,0,0,1
+2025-10-27,Direct,43,31,3,16
+2025-10-27,Organic Search,70,47,2,30
+2025-10-27,Paid Search,30,18,0,15
+2025-10-27,Referral,9,8,0,5
+2025-10-27,Unassigned,1,0,0,1
+2025-10-28,Cross-network,8,6,0,7
+2025-10-28,Direct,41,24,2,12
+2025-10-28,Organic Search,89,58,4,31
+2025-10-28,Organic Social,1,0,0,1
+2025-10-28,Paid Search,20,13,0,12
+2025-10-28,Referral,20,15,0,7
+2025-10-28,Unassigned,2,2,0,1
+2025-10-29,Cross-network,12,8,0,10
+2025-10-29,Direct,32,23,1,11
+2025-10-29,Organic Search,87,69,4,38
+2025-10-29,Paid Search,18,12,2,14
+2025-10-29,Referral,20,13,1,5
+2025-10-29,Unassigned,1,0,0,0
+2025-10-30,Cross-network,12,7,1,10
+2025-10-30,Direct,43,26,0,14
+2025-10-30,Organic Search,83,60,5,29
+2025-10-30,Organic Social,1,0,0,1
+2025-10-30,Paid Search,33,23,0,21
+2025-10-30,Referral,13,10,0,6
+2025-10-31,Cross-network,7,6,2,7
+2025-10-31,Direct,29,20,0,4
+2025-10-31,Organic Search,40,27,1,18
+2025-10-31,Paid Search,21,17,0,15
+2025-10-31,Referral,13,9,0,8
+2025-10-31,Unassigned,1,0,0,0
+2025-11-01,Cross-network,3,1,0,3
+2025-11-01,Direct,3,3,0,1
+2025-11-01,Organic Search,14,11,0,10
+2025-11-01,Paid Search,2,1,0,2
+2025-11-01,Referral,1,1,0,1
+2025-11-02,Cross-network,20,11,0,20
+2025-11-02,Direct,5,4,1,4
+2025-11-02,Organic Search,15,11,0,10
+2025-11-02,Organic Social,1,1,0,1
+2025-11-02,Paid Other,1,1,0,1
+2025-11-02,Paid Search,13,8,2,13
+2025-11-02,Referral,1,1,0,1
+2025-11-02,Unassigned,1,0,0,1
+2025-11-03,Cross-network,8,5,0,6
+2025-11-03,Direct,37,29,12,15
+2025-11-03,Organic Search,81,53,3,32
+2025-11-03,Organic Social,1,1,0,1
+2025-11-03,Paid Search,14,6,0,5
+2025-11-03,Referral,10,6,0,4
+2025-11-03,Unassigned,2,1,0,1
+2025-11-04,Cross-network,10,6,0,10
+2025-11-04,Direct,63,28,0,41
+2025-11-04,Organic Search,102,73,6,39
+2025-11-04,Paid Search,40,25,0,24
+2025-11-04,Referral,14,12,0,5
+2025-11-04,Unassigned,2,0,0,0
+2025-11-05,Cross-network,16,11,0,16
+2025-11-05,Direct,42,33,2,21
+2025-11-05,Organic Search,112,81,3,43
+2025-11-05,Paid Search,27,18,2,15
+2025-11-05,Referral,4,3,0,2
+2025-11-05,Unassigned,1,0,0,0
+2025-11-06,Cross-network,13,10,1,12
+2025-11-06,Direct,46,29,1,16
+2025-11-06,Organic Search,84,58,4,48
+2025-11-06,Paid Search,37,23,1,19
+2025-11-06,Referral,18,11,0,6
+2025-11-06,Unassigned,3,0,0,0
+2025-11-07,Cross-network,15,10,1,13
+2025-11-07,Direct,32,18,0,16
+2025-11-07,Organic Search,89,56,9,36
+2025-11-07,Paid Search,25,17,0,17
+2025-11-07,Referral,11,7,0,9
+2025-11-08,Cross-network,16,11,0,15
+2025-11-08,Direct,3,2,0,2
+2025-11-08,Organic Search,11,8,0,8
+2025-11-08,Paid Search,1,1,0,1
+2025-11-08,Referral,3,3,0,3
+2025-11-09,Cross-network,21,13,0,19
+2025-11-09,Direct,3,1,0,2
+2025-11-09,Organic Search,14,11,1,8
+2025-11-09,Paid Search,3,2,0,3
+2025-11-09,Referral,7,4,0,5
+2025-11-10,Cross-network,8,4,0,8
+2025-11-10,Direct,39,24,0,12
+2025-11-10,Organic Search,92,64,6,34
+2025-11-10,Paid Search,31,18,0,17
+2025-11-10,Referral,19,11,0,9
+2025-11-10,Unassigned,2,0,0,0
+2025-11-11,Cross-network,17,13,0,17
+2025-11-11,Direct,48,34,2,11
+2025-11-11,Organic Search,99,68,3,43
+2025-11-11,Paid Search,32,23,0,24
+2025-11-11,Referral,15,12,0,7
+2025-11-11,Unassigned,1,0,0,0
+2025-11-12,Cross-network,14,13,0,13
+2025-11-12,Direct,42,30,3,16
+2025-11-12,Organic Search,95,57,7,36
+2025-11-12,Paid Search,38,27,2,18
+2025-11-12,Referral,11,9,0,6
+2025-11-12,Unassigned,1,0,0,0
+2025-11-13,Cross-network,5,5,0,4
+2025-11-13,Direct,36,27,1,9
+2025-11-13,Organic Search,130,90,9,52
+2025-11-13,Paid Search,30,21,0,13
+2025-11-13,Referral,27,16,0,11
+2025-11-13,Unassigned,3,0,0,0
+2025-11-14,Cross-network,2,1,0,2
+2025-11-14,Direct,27,13,0,7
+2025-11-14,Organic Search,77,58,5,44
+2025-11-14,Paid Search,24,15,0,15
+2025-11-14,Referral,15,9,0,8
+2025-11-14,Unassigned,4,1,0,1
+2025-11-15,Cross-network,16,11,0,16
+2025-11-15,Direct,7,4,0,2
+2025-11-15,Organic Search,18,13,0,7
+2025-11-15,Paid Search,2,2,0,1
+2025-11-15,Referral,2,1,0,2
+2025-11-15,Unassigned,2,0,0,0
+2025-11-16,Cross-network,11,6,0,10
+2025-11-16,Direct,7,5,0,3
+2025-11-16,Organic Search,20,17,0,16
+2025-11-16,Paid Search,9,5,0,7
+2025-11-16,Referral,2,1,0,1
+2025-11-17,Cross-network,17,12,0,14
+2025-11-17,Direct,45,31,1,20
+2025-11-17,Organic Search,111,82,13,41
+2025-11-17,Paid Search,36,25,0,19
+2025-11-17,Referral,11,6,1,6
+2025-11-17,Unassigned,4,1,0,2
+2025-11-18,Cross-network,11,7,0,6
+2025-11-18,Direct,34,19,0,21
+2025-11-18,Organic Search,103,72,18,37
+2025-11-18,Organic Social,1,1,0,1
+2025-11-18,Paid Search,28,13,0,14
+2025-11-18,Referral,6,3,0,1
+2025-11-18,Unassigned,1,0,0,0
+2025-11-19,Cross-network,8,7,2,5
+2025-11-19,Direct,43,32,4,21
+2025-11-19,Organic Search,93,63,9,35
+2025-11-19,Organic Social,2,2,0,2
+2025-11-19,Paid Search,17,12,0,12
+2025-11-19,Referral,15,12,1,8
+2025-11-19,Unassigned,1,0,0,0
+2025-11-20,Cross-network,10,6,0,5
+2025-11-20,Direct,55,36,2,13
+2025-11-20,Organic Search,85,57,7,32
+2025-11-20,Organic Social,1,0,0,1
+2025-11-20,Paid Search,19,17,0,13
+2025-11-20,Referral,16,12,0,8
+2025-11-21,Cross-network,3,2,0,2
+2025-11-21,Direct,36,19,0,18
+2025-11-21,Organic Search,91,54,8,27
+2025-11-21,Paid Search,25,15,0,15
+2025-11-21,Referral,6,2,0,4
+2025-11-22,Cross-network,11,5,0,10
+2025-11-22,Direct,3,3,0,1
+2025-11-22,Organic Search,20,10,0,11
+2025-11-22,Referral,4,2,0,3
+2025-11-22,Unassigned,1,1,0,1
+2025-11-23,Direct,9,2,0,2
+2025-11-23,Organic Search,19,12,0,7
+2025-11-23,Organic Social,1,0,0,1
+2025-11-23,Paid Search,6,4,0,6
+2025-11-23,Referral,5,4,0,5
+2025-11-24,Cross-network,13,10,0,13
+2025-11-24,Direct,50,32,4,9
+2025-11-24,Organic Search,97,76,7,39
+2025-11-24,Paid Search,34,21,0,19
+2025-11-24,Referral,9,9,0,5
+2025-11-25,Cross-network,13,10,1,10
+2025-11-25,Direct,39,24,0,11
+2025-11-25,Organic Search,110,80,7,40
+2025-11-25,Organic Social,1,0,0,1
+2025-11-25,Paid Search,37,22,3,25
+2025-11-25,Referral,19,13,0,6
+2025-11-25,Unassigned,1,0,0,0
+2025-11-26,Cross-network,2,2,0,2
+2025-11-26,Direct,32,18,1,8
+2025-11-26,Organic Search,88,57,2,33
+2025-11-26,Organic Social,2,1,0,2
+2025-11-26,Paid Search,38,26,0,20
+2025-11-26,Referral,6,3,0,3
+2025-11-26,Unassigned,5,0,1,0
+2025-11-27,Cross-network,24,13,1,20
+2025-11-27,Direct,69,38,1,28
+2025-11-27,Organic Search,72,47,8,23
+2025-11-27,Organic Social,1,0,0,1
+2025-11-27,Paid Search,32,17,0,15
+2025-11-27,Referral,18,13,1,8
+2025-11-27,Unassigned,4,0,0,0
+2025-11-28,Cross-network,4,3,0,3
+2025-11-28,Direct,31,14,1,13
+2025-11-28,Organic Search,63,39,6,21
+2025-11-28,Paid Search,23,17,1,13
+2025-11-28,Referral,8,6,0,4
+2025-11-29,Cross-network,14,10,0,12
+2025-11-29,Direct,8,5,0,4
+2025-11-29,Organic Search,11,6,1,8
+2025-11-29,Paid Search,2,1,0,2
+2025-11-29,Referral,5,5,0,5
+2025-11-30,Cross-network,12,8,0,9
+2025-11-30,Direct,4,3,0,3
+2025-11-30,Organic Search,19,14,2,12
+2025-11-30,Paid Search,1,1,0,1
+2025-11-30,Referral,8,5,1,5
+2025-11-30,Unassigned,1,1,0,1
+2025-12-01,Cross-network,7,5,0,5
+2025-12-01,Direct,38,24,3,10
+2025-12-01,Organic Search,83,59,8,29
+2025-12-01,Organic Social,3,2,0,3
+2025-12-01,Paid Search,26,18,0,14
+2025-12-01,Referral,13,8,3,8
+2025-12-01,Unassigned,1,1,0,1
+2025-12-02,Cross-network,14,12,0,12
+2025-12-02,Direct,53,35,0,17
+2025-12-02,Organic Search,95,68,18,31
+2025-12-02,Paid Search,38,25,3,17
+2025-12-02,Referral,12,7,0,7
+2025-12-02,Unassigned,5,2,0,0
+2025-12-03,Cross-network,3,3,0,3
+2025-12-03,Direct,53,27,1,15
+2025-12-03,Organic Search,100,73,12,42
+2025-12-03,Paid Search,31,18,2,16
+2025-12-03,Referral,15,14,1,6
+2025-12-03,Unassigned,4,2,0,0
+2025-12-04,Cross-network,3,1,0,3
+2025-12-04,Direct,225,143,3,139
+2025-12-04,Organic Search,150,107,14,45
+2025-12-04,Paid Search,40,29,1,22
+2025-12-04,Referral,24,17,0,13
+2025-12-04,Unassigned,6,1,0,1
+2025-12-05,Cross-network,13,8,0,11
+2025-12-05,Direct,60,27,1,22
+2025-12-05,Organic Search,78,47,5,24
+2025-12-05,Organic Social,5,3,0,0
+2025-12-05,Paid Search,19,13,1,14
+2025-12-05,Referral,7,4,0,1
+2025-12-05,Unassigned,5,1,0,1
+2025-12-06,Cross-network,5,4,0,5
+2025-12-06,Direct,4,0,0,1
+2025-12-06,Organic Search,14,9,0,8
+2025-12-06,Paid Search,5,5,0,5
+2025-12-06,Referral,5,3,0,2
+2025-12-06,Unassigned,1,0,0,0
+2025-12-07,Cross-network,5,5,0,5
+2025-12-07,Direct,9,6,2,6
+2025-12-07,Organic Search,21,18,2,10
+2025-12-07,Paid Search,6,5,0,6
+2025-12-07,Referral,3,2,0,2
+2025-12-08,Cross-network,8,6,0,7
+2025-12-08,Direct,46,25,6,17
+2025-12-08,Organic Search,89,70,8,27
+2025-12-08,Paid Search,15,14,3,9
+2025-12-08,Referral,15,13,0,5
+2025-12-08,Unassigned,3,0,0,0
+2025-12-09,Cross-network,9,9,0,9
+2025-12-09,Direct,71,30,2,28
+2025-12-09,Organic Search,111,69,12,42
+2025-12-09,Organic Social,2,1,0,2
+2025-12-09,Paid Search,28,17,0,13
+2025-12-09,Referral,4,3,0,3
+2025-12-09,Unassigned,4,0,0,0
+2025-12-10,Cross-network,2,1,0,2
+2025-12-10,Direct,58,28,0,21
+2025-12-10,Organic Search,78,56,8,17
+2025-12-10,Paid Search,29,19,4,14
+2025-12-10,Referral,9,6,0,2
+2025-12-10,Unassigned,2,1,0,0
+2025-12-11,Cross-network,3,3,0,3
+2025-12-11,Direct,39,16,0,9
+2025-12-11,Organic Search,85,61,8,32
+2025-12-11,Organic Social,3,1,0,3
+2025-12-11,Paid Search,29,17,0,20
+2025-12-11,Referral,4,2,1,3
+2025-12-11,Unassigned,3,0,0,0
+2025-12-12,Cross-network,8,6,1,5
+2025-12-12,Direct,49,33,8,20
+2025-12-12,Organic Search,88,54,9,36
+2025-12-12,Organic Social,2,1,0,2
+2025-12-12,Paid Search,24,19,1,17
+2025-12-12,Referral,6,3,0,3
+2025-12-12,Unassigned,2,1,0,0
+2025-12-13,Cross-network,12,9,0,12
+2025-12-13,Direct,11,5,8,3
+2025-12-13,Organic Search,20,13,5,9
+2025-12-13,Unassigned,1,0,0,0
+2025-12-14,Cross-network,3,3,0,3
+2025-12-14,Direct,12,6,0,6
+2025-12-14,Organic Search,16,9,0,3
+2025-12-14,Paid Search,3,2,0,3
+2025-12-14,Referral,1,1,4,1
+2025-12-14,Unassigned,6,1,0,0
+2025-12-15,Cross-network,12,7,1,10
+2025-12-15,Direct,45,30,5,11
+2025-12-15,Organic Search,79,54,5,29
+2025-12-15,Paid Search,33,19,3,22
+2025-12-15,Referral,8,7,0,6
+2025-12-15,Unassigned,3,0,0,0
+2025-12-16,Cross-network,7,2,0,4
+2025-12-16,Direct,46,33,11,9
+2025-12-16,Organic Search,60,44,3,28
+2025-12-16,Paid Search,15,9,0,12
+2025-12-16,Referral,8,5,0,4
+2025-12-16,Unassigned,4,1,0,0
+2025-12-17,Cross-network,11,7,0,10
+2025-12-17,Direct,43,29,6,12
+2025-12-17,Organic Search,84,60,14,28
+2025-12-17,Organic Social,3,0,0,2
+2025-12-17,Paid Search,18,14,0,12
+2025-12-17,Referral,7,7,0,2
+2025-12-17,Unassigned,2,0,0,1
+2025-12-18,Cross-network,7,6,0,6
+2025-12-18,Direct,39,20,1,6
+2025-12-18,Organic Search,90,56,6,34
+2025-12-18,Organic Social,3,1,0,3
+2025-12-18,Paid Search,22,15,6,16
+2025-12-18,Referral,8,5,0,2
+2025-12-18,Unassigned,3,1,0,0
+2025-12-19,Cross-network,8,5,2,6
+2025-12-19,Direct,27,16,3,7
+2025-12-19,Organic Search,63,40,2,20
+2025-12-19,Organic Social,1,0,0,1
+2025-12-19,Paid Search,14,10,2,7
+2025-12-19,Referral,1,1,1,0
+2025-12-19,Unassigned,1,0,1,0
+2025-12-20,Cross-network,13,10,0,11
+2025-12-20,Direct,2,1,0,0
+2025-12-20,Organic Search,13,6,1,7
+2025-12-20,Paid Search,6,5,0,5
+2025-12-20,Referral,1,0,0,0
+2025-12-20,Unassigned,1,0,0,0
+2025-12-21,Cross-network,10,7,0,9
+2025-12-21,Direct,9,4,0,3
+2025-12-21,Organic Search,23,17,1,14
+2025-12-21,Paid Search,5,4,0,4
+2025-12-21,Referral,1,1,0,1
+2025-12-22,Cross-network,21,16,1,18
+2025-12-22,Direct,30,13,3,8
+2025-12-22,Organic Search,48,33,5,20
+2025-12-22,Paid Search,22,15,1,17
+2025-12-22,Referral,2,1,0,1
+2025-12-23,Cross-network,8,4,0,3
+2025-12-23,Direct,19,12,1,9
+2025-12-23,Organic Search,32,17,4,13
+2025-12-23,Organic Social,4,3,0,0
+2025-12-23,Paid Search,13,8,0,10
+2025-12-23,Referral,3,2,0,0
+2025-12-24,Cross-network,3,2,0,3
+2025-12-24,Direct,6,3,1,3
+2025-12-24,Organic Search,17,12,0,8
+2025-12-24,Paid Search,10,5,0,7
+2025-12-25,Cross-network,14,7,1,14
+2025-12-25,Direct,8,5,1,1
+2025-12-25,Organic Search,11,8,4,6
+2025-12-25,Paid Search,8,5,0,5
+2025-12-26,Cross-network,11,9,0,11
+2025-12-26,Direct,8,4,0,3
+2025-12-26,Organic Search,19,10,2,10
+2025-12-26,Paid Search,10,9,0,10
+2025-12-26,Referral,1,1,0,1
+2025-12-27,Cross-network,18,9,1,15
+2025-12-27,Direct,6,3,2,1
+2025-12-27,Organic Search,7,3,1,4
+2025-12-27,Paid Search,17,11,0,15
+2025-12-27,Referral,2,1,0,2
+2025-12-28,Cross-network,5,4,0,5
+2025-12-28,Direct,4,2,0,1
+2025-12-28,Organic Search,12,6,0,6
+2025-12-28,Paid Search,11,6,0,7
+2025-12-29,Cross-network,10,10,0,10
+2025-12-29,Direct,10,7,2,3
+2025-12-29,Organic Search,22,18,0,12
+2025-12-29,Paid Search,22,17,1,19
+2025-12-29,Referral,1,1,0,1
+2025-12-29,Unassigned,1,0,0,0
+2025-12-30,Cross-network,5,5,0,5
+2025-12-30,Direct,6,3,0,4
+2025-12-30,Organic Search,23,15,1,11
+2025-12-30,Paid Search,18,13,0,16
+2025-12-30,Referral,1,0,0,1
+2025-12-31,Cross-network,4,4,5,4
+2025-12-31,Direct,8,5,1,3
+2025-12-31,Organic Search,4,3,0,2
+2025-12-31,Paid Search,11,8,0,10
+2025-12-31,Unassigned,2,1,0,1
+2026-01-01,Cross-network,6,4,0,6
+2026-01-01,Direct,4,2,0,3
+2026-01-01,Organic Search,3,2,1,3
+2026-01-01,Paid Search,10,7,1,7
+2026-01-01,Unassigned,1,1,0,1
+2026-01-02,Cross-network,8,6,0,7
+2026-01-02,Direct,10,6,4,5
+2026-01-02,Organic Search,27,15,0,16
+2026-01-02,Paid Search,19,11,0,15
+2026-01-02,Referral,5,3,0,4
+2026-01-03,Cross-network,9,7,0,9
+2026-01-03,Direct,5,4,1,4
+2026-01-03,Organic Search,10,8,1,8
+2026-01-03,Paid Search,5,1,0,3
+2026-01-03,Referral,1,1,0,1
+2026-01-03,Unassigned,1,0,0,0
+2026-01-04,Cross-network,20,12,0,19
+2026-01-04,Direct,1,1,0,1
+2026-01-04,Organic Search,9,8,2,5
+2026-01-04,Paid Search,12,8,0,12
+2026-01-04,Referral,1,1,0,1
+2026-01-04,Unassigned,2,0,0,0
+2026-01-05,Cross-network,2,1,0,1
+2026-01-05,Direct,18,13,1,10
+2026-01-05,Organic Search,43,27,5,16
+2026-01-05,Paid Search,16,10,1,10
+2026-01-05,Referral,5,5,1,2
+2026-01-05,Unassigned,2,0,1,1
+2026-01-06,Cross-network,9,5,0,7
+2026-01-06,Direct,12,6,0,8
+2026-01-06,Organic Search,29,20,3,14
+2026-01-06,Paid Search,13,7,1,11
+2026-01-06,Referral,4,2,0,2
+2026-01-06,Unassigned,1,0,0,0
+2026-01-07,Cross-network,14,10,1,12
+2026-01-07,Direct,37,19,2,14
+2026-01-07,Organic Search,46,30,7,15
+2026-01-07,Organic Social,2,0,0,1
+2026-01-07,Paid Search,26,16,5,15
+2026-01-07,Referral,8,4,0,1
+2026-01-07,Unassigned,1,0,0,0
+2026-01-08,Cross-network,1,1,1,1
+2026-01-08,Direct,39,22,1,21
+2026-01-08,Organic Search,88,59,19,30
+2026-01-08,Organic Social,1,1,0,1
+2026-01-08,Paid Search,25,18,1,18
+2026-01-08,Referral,2,2,0,1
+2026-01-08,Unassigned,3,0,0,0
+2026-01-09,Cross-network,2,2,3,0
+2026-01-09,Direct,30,19,1,15
+2026-01-09,Organic Search,62,41,5,22
+2026-01-09,Paid Search,10,5,0,8
+2026-01-09,Referral,4,2,0,3
+2026-01-09,Unassigned,3,0,0,0
+2026-01-10,Cross-network,10,8,0,9
+2026-01-10,Direct,3,2,0,2
+2026-01-10,Organic Search,13,9,1,9
+2026-01-10,Paid Search,4,3,0,4
+2026-01-11,Cross-network,7,4,0,6
+2026-01-11,Direct,3,2,0,3
+2026-01-11,Organic Search,8,5,2,6
+2026-01-11,Paid Search,4,2,0,3
+2026-01-11,Referral,2,1,0,2
+2026-01-11,Unassigned,1,1,1,1
+2026-01-12,Cross-network,6,3,0,5
+2026-01-12,Direct,39,22,2,16
+2026-01-12,Organic Search,75,48,17,27
+2026-01-12,Organic Social,1,0,0,1
+2026-01-12,Paid Search,22,18,6,16
+2026-01-12,Referral,8,6,3,5
+2026-01-13,Cross-network,6,4,0,5
+2026-01-13,Direct,36,25,6,18
+2026-01-13,Organic Search,78,49,11,30
+2026-01-13,Paid Search,27,17,1,18
+2026-01-13,Referral,19,12,0,12
+2026-01-13,Unassigned,1,0,0,0
+2026-01-14,Cross-network,10,9,2,9
+2026-01-14,Direct,34,18,2,10
+2026-01-14,Organic Search,75,48,18,30
+2026-01-14,Paid Search,21,13,0,11
+2026-01-14,Referral,9,3,0,3
+2026-01-14,Unassigned,1,0,0,0
+2026-01-15,Cross-network,5,4,0,4
+2026-01-15,Direct,35,20,0,18
+2026-01-15,Organic Search,87,61,7,43
+2026-01-15,Paid Search,36,26,2,24
+2026-01-15,Referral,13,10,2,6
+2026-01-16,Cross-network,16,12,1,13
+2026-01-16,Direct,58,29,2,34
+2026-01-16,Organic Search,79,62,9,34
+2026-01-16,Paid Search,20,15,0,12
+2026-01-16,Referral,7,3,0,2
+2026-01-16,Unassigned,1,0,0,0
+2026-01-17,Cross-network,18,14,6,17
+2026-01-17,Direct,5,5,2,3
+2026-01-17,Organic Search,23,14,15,9
+2026-01-17,Paid Search,5,4,0,4
+2026-01-17,Referral,3,3,0,2
+2026-01-18,Cross-network,9,7,1,7
+2026-01-18,Direct,2,1,0,2
+2026-01-18,Organic Search,13,10,9,12
+2026-01-18,Paid Search,2,1,0,2
+2026-01-18,Referral,1,1,0,1
+2026-01-19,Cross-network,7,2,0,6
+2026-01-19,Direct,40,28,7,13
+2026-01-19,Organic Search,105,72,17,34
+2026-01-19,Paid Search,39,24,3,29
+2026-01-19,Referral,10,8,0,7
+2026-01-19,Unassigned,1,0,0,0
+2026-01-20,Cross-network,9,9,1,9
+2026-01-20,Direct,35,25,3,13
+2026-01-20,Organic Search,77,57,7,30
+2026-01-20,Organic Social,3,1,0,0
+2026-01-20,Paid Search,25,18,3,18
+2026-01-20,Referral,9,7,0,5
+2026-01-21,Cross-network,4,4,0,4
+2026-01-21,Direct,32,25,1,7
+2026-01-21,Organic Search,87,59,8,42
+2026-01-21,Paid Search,28,19,4,15
+2026-01-21,Referral,9,6,0,4
+2026-01-21,Unassigned,2,0,0,0
+2026-01-22,Cross-network,5,2,1,5
+2026-01-22,Direct,40,25,1,10
+2026-01-22,Organic Search,104,69,15,36
+2026-01-22,Organic Social,1,0,0,1
+2026-01-22,Paid Search,21,13,0,14
+2026-01-22,Referral,9,9,2,4
+2026-01-22,Unassigned,1,0,0,0
+2026-01-23,Cross-network,9,7,0,9
+2026-01-23,Direct,33,18,5,16
+2026-01-23,Organic Search,78,44,11,26
+2026-01-23,Paid Search,21,16,6,15
+2026-01-23,Referral,9,9,2,6
+2026-01-23,Unassigned,1,0,0,0
+2026-01-24,Cross-network,18,10,1,18
+2026-01-24,Direct,8,5,1,3
+2026-01-24,Organic Search,17,16,1,12
+2026-01-24,Referral,1,1,0,1
+2026-01-25,Cross-network,7,6,0,6
+2026-01-25,Direct,7,3,0,1
+2026-01-25,Organic Search,20,15,2,12
+2026-01-25,Organic Social,2,1,0,1
+2026-01-25,Paid Search,6,5,0,5
+2026-01-25,Referral,3,3,0,2
+2026-01-25,Unassigned,1,1,0,1
+2026-01-26,Cross-network,12,8,2,8
+2026-01-26,Direct,45,30,4,15
+2026-01-26,Organic Search,94,59,11,36
+2026-01-26,Organic Social,6,2,0,0
+2026-01-26,Paid Search,29,20,3,21
+2026-01-26,Referral,7,5,0,6
+2026-01-26,Unassigned,2,1,0,1
+2026-01-27,Cross-network,9,6,0,5
+2026-01-27,Direct,47,29,6,14
+2026-01-27,Organic Search,87,57,11,31
+2026-01-27,Organic Social,2,0,0,0
+2026-01-27,Paid Search,33,23,1,20
+2026-01-27,Referral,19,14,1,11
+2026-01-27,Unassigned,1,0,0,0
+2026-01-28,Cross-network,24,16,0,19
+2026-01-28,Direct,36,26,2,21
+2026-01-28,Organic Search,107,75,23,36
+2026-01-28,Paid Search,23,16,4,14
+2026-01-28,Referral,20,17,4,5
+2026-01-29,Cross-network,8,6,1,5
+2026-01-29,Direct,70,45,13,23
+2026-01-29,Organic Search,85,54,18,33
+2026-01-29,Organic Social,1,0,0,0
+2026-01-29,Paid Search,22,16,3,17
+2026-01-29,Referral,15,10,0,4
+2026-01-30,Cross-network,14,9,0,12
+2026-01-30,Direct,40,24,7,17
+2026-01-30,Organic Search,78,57,18,27
+2026-01-30,Paid Search,21,17,2,13
+2026-01-30,Referral,10,6,1,4
+2026-01-30,Unassigned,2,0,0,0
+2026-01-31,Cross-network,6,5,1,5
+2026-01-31,Direct,3,3,0,2
+2026-01-31,Organic Search,13,9,0,9
+2026-01-31,Paid Search,8,5,0,8
+2026-01-31,Referral,2,2,1,2
+2026-02-01,Cross-network,7,6,3,6
+2026-02-01,Direct,7,4,0,6
+2026-02-01,Organic Search,18,14,0,12
+2026-02-01,Paid Search,10,8,0,9
+2026-02-01,Referral,1,1,0,1
+2026-02-02,Cross-network,7,7,0,6
+2026-02-02,Direct,35,20,2,12
+2026-02-02,Organic Search,70,42,16,31
+2026-02-02,Paid Search,32,18,0,26
+2026-02-02,Referral,10,7,2,3
+2026-02-02,Unassigned,1,0,0,0
+2026-02-03,Cross-network,5,5,0,4
+2026-02-03,Direct,42,27,2,12
+2026-02-03,Organic Search,93,61,11,28
+2026-02-03,Organic Social,2,0,0,0
+2026-02-03,Paid Search,37,21,3,27
+2026-02-03,Referral,8,4,0,3
+2026-02-03,Unassigned,1,0,0,0
+2026-02-04,Cross-network,6,6,0,6
+2026-02-04,Direct,50,26,0,19
+2026-02-04,Organic Search,74,44,15,27
+2026-02-04,Paid Search,26,17,3,21
+2026-02-04,Referral,5,2,0,2
+2026-02-04,Unassigned,2,0,0,0
+2026-02-05,Cross-network,5,4,0,5
+2026-02-05,Direct,55,35,9,21
+2026-02-05,Organic Search,80,60,8,31
+2026-02-05,Organic Social,2,0,0,0
+2026-02-05,Paid Search,35,24,1,25
+2026-02-05,Referral,8,7,0,3
+2026-02-06,Cross-network,4,3,0,2
+2026-02-06,Direct,42,22,1,14
+2026-02-06,Organic Search,60,43,3,26
+2026-02-06,Organic Social,10,2,0,10
+2026-02-06,Paid Search,24,15,0,18
+2026-02-06,Referral,6,4,0,3
+2026-02-07,Cross-network,8,6,5,6
+2026-02-07,Direct,8,5,0,5
+2026-02-07,Organic Search,16,12,0,9
+2026-02-07,Paid Search,3,3,0,3
+2026-02-08,Cross-network,2,2,0,2
+2026-02-08,Direct,3,1,0,1
+2026-02-08,Organic Search,19,13,0,12
+2026-02-08,Organic Social,2,0,0,2
+2026-02-08,Paid Search,13,10,0,13
+2026-02-08,Referral,1,1,0,0
+2026-02-08,Unassigned,1,0,0,0
+2026-02-09,Cross-network,5,3,2,1
+2026-02-09,Direct,44,31,0,12
+2026-02-09,Organic Search,76,47,15,27
+2026-02-09,Organic Social,6,3,0,0
+2026-02-09,Paid Search,32,20,5,19
+2026-02-09,Referral,20,15,4,6
+2026-02-09,Unassigned,1,0,1,0
+2026-02-10,Cross-network,9,9,0,9
+2026-02-10,Direct,34,22,0,10
+2026-02-10,Organic Search,91,59,14,28
+2026-02-10,Organic Social,19,8,0,10
+2026-02-10,Paid Search,39,30,4,22
+2026-02-10,Referral,31,29,0,21
+2026-02-10,Unassigned,1,0,0,0
+2026-02-11,Cross-network,10,9,14,8
+2026-02-11,Direct,62,52,7,30
+2026-02-11,Organic Search,98,59,20,37
+2026-02-11,Organic Social,6,1,0,6
+2026-02-11,Paid Search,29,17,0,13
+2026-02-11,Referral,23,18,2,13
+2026-02-11,Unassigned,1,0,0,0
+2026-02-12,Cross-network,9,9,2,9
+2026-02-12,Direct,54,36,2,14
+2026-02-12,Organic Search,82,57,13,29
+2026-02-12,Organic Social,1,0,0,1
+2026-02-12,Paid Search,29,23,0,13
+2026-02-12,Referral,17,13,1,8
+2026-02-12,Unassigned,4,3,1,3
+2026-02-13,Cross-network,7,6,10,6
+2026-02-13,Direct,44,26,0,13
+2026-02-13,Organic Search,81,49,12,29
+2026-02-13,Organic Social,2,0,0,1
+2026-02-13,Paid Search,29,21,3,16
+2026-02-13,Referral,16,11,1,9
+2026-02-14,Cross-network,8,7,6,7
+2026-02-14,Direct,6,5,0,4
+2026-02-14,Organic Search,11,8,0,8
+2026-02-14,Organic Social,2,0,0,2
+2026-02-14,Paid Search,5,1,2,4
+2026-02-14,Referral,2,2,0,2
+2026-02-15,Cross-network,12,8,7,9
+2026-02-15,Direct,7,3,1,2
+2026-02-15,Organic Search,19,10,4,8
+2026-02-15,Organic Social,1,1,0,1
+2026-02-15,Paid Search,4,2,0,4
+2026-02-15,Referral,3,2,0,3
+2026-02-16,Cross-network,1,1,1,1
+2026-02-16,Direct,38,22,1,10
+2026-02-16,Organic Search,113,81,17,33
+2026-02-16,Paid Search,32,25,2,22
+2026-02-16,Referral,14,11,2,9
+2026-02-17,Cross-network,9,8,3,8
+2026-02-17,Direct,46,26,2,20
+2026-02-17,Organic Search,100,69,12,36
+2026-02-17,Paid Search,39,28,4,24
+2026-02-17,Referral,20,14,2,12
+2026-02-18,Direct,32,21,0,13
+2026-02-18,Organic Search,90,68,8,37
+2026-02-18,Organic Social,2,1,0,1
+2026-02-18,Paid Search,26,20,5,15
+2026-02-18,Referral,17,9,0,8
+2026-02-18,Unassigned,2,0,0,0
+2026-02-19,Cross-network,7,5,0,6
+2026-02-19,Direct,50,30,8,11
+2026-02-19,Organic Search,101,71,13,35
+2026-02-19,Organic Social,3,2,0,3
+2026-02-19,Paid Search,21,14,2,11
+2026-02-19,Referral,19,14,1,11
+2026-02-20,Cross-network,11,11,8,11
+2026-02-20,Direct,31,23,2,14
+2026-02-20,Organic Search,57,38,8,23
+2026-02-20,Organic Social,3,1,0,0
+2026-02-20,Paid Search,14,10,1,10
+2026-02-20,Referral,11,9,0,7
+2026-02-20,Unassigned,1,0,0,0
+2026-02-21,Cross-network,8,5,2,8
+2026-02-21,Direct,1,1,0,1
+2026-02-21,Organic Search,22,14,3,12
+2026-02-21,Referral,1,1,0,1
+2026-02-22,Cross-network,18,15,7,14
+2026-02-22,Direct,8,5,0,5
+2026-02-22,Organic Search,12,8,3,2
+2026-02-22,Paid Search,1,1,1,0
+2026-02-22,Referral,3,2,0,3
+2026-02-23,Cross-network,9,7,6,9
+2026-02-23,Direct,45,33,5,19
+2026-02-23,Organic Search,107,77,15,39
+2026-02-23,Paid Search,19,18,0,14
+2026-02-23,Referral,21,16,0,11
+2026-02-24,Cross-network,1,1,0,1
+2026-02-24,Direct,47,32,1,17
+2026-02-24,Organic Search,90,63,13,30
+2026-02-24,Organic Social,1,1,0,1
+2026-02-24,Paid Search,17,13,1,15
+2026-02-24,Referral,16,8,1,5
+2026-02-25,Cross-network,19,16,7,15
+2026-02-25,Direct,49,34,5,17
+2026-02-25,Organic Search,120,72,14,43
+2026-02-25,Organic Social,2,0,0,0
+2026-02-25,Paid Search,13,7,0,5
+2026-02-25,Referral,15,11,0,9
+2026-02-25,Unassigned,1,0,0,0
+2026-02-26,Cross-network,10,6,2,9
+2026-02-26,Direct,58,38,3,23
+2026-02-26,Organic Search,85,58,16,39
+2026-02-26,Paid Search,22,18,1,15
+2026-02-26,Referral,14,11,1,6
+2026-02-27,Cross-network,13,10,1,13
+2026-02-27,Direct,41,24,4,10
+2026-02-27,Organic Search,92,62,17,32
+2026-02-27,Organic Social,2,2,0,2
+2026-02-27,Paid Search,16,11,3,8
+2026-02-27,Referral,10,6,0,4
+2026-02-28,Cross-network,3,3,0,3
+2026-02-28,Direct,8,3,0,4
+2026-02-28,Organic Search,10,9,0,5
+2026-02-28,Referral,2,2,0,0
+2026-03-01,Cross-network,22,17,1,20
+2026-03-01,Direct,7,3,0,2
+2026-03-01,Organic Search,10,9,1,6
+2026-03-01,Referral,5,4,0,4
+2026-03-02,Cross-network,20,16,1,19
+2026-03-02,Direct,43,24,7,15
+2026-03-02,Organic Search,94,55,12,33
+2026-03-02,Paid Search,18,14,2,12
+2026-03-02,Referral,15,10,0,5
+2026-03-02,Unassigned,3,0,0,0
+2026-03-03,Cross-network,20,12,5,19
+2026-03-03,Direct,27,18,1,14
+2026-03-03,Organic Search,100,67,11,41
+2026-03-03,Organic Social,1,1,0,0
+2026-03-03,Paid Search,21,17,6,11
+2026-03-03,Referral,10,5,1,4
+2026-03-04,Cross-network,13,7,2,11
+2026-03-04,Direct,65,40,5,22
+2026-03-04,Organic Search,93,69,20,34
+2026-03-04,Organic Social,15,7,0,15
+2026-03-04,Paid Search,22,11,6,10
+2026-03-04,Paid Social,20,9,0,17
+2026-03-04,Referral,14,13,0,9
+2026-03-04,Unassigned,3,0,0,1
+2026-03-05,Cross-network,7,7,10,5
+2026-03-05,Direct,49,33,3,17
+2026-03-05,Organic Search,84,60,5,26
+2026-03-05,Organic Social,2,1,0,1
+2026-03-05,Paid Search,15,13,4,10
+2026-03-05,Paid Social,13,7,0,12
+2026-03-05,Referral,24,17,3,14
+2026-03-06,Cross-network,1,1,0,1
+2026-03-06,Direct,58,40,48,13
+2026-03-06,Organic Search,88,61,14,30
+2026-03-06,Organic Social,10,2,0,8
+2026-03-06,Paid Search,13,10,0,12
+2026-03-06,Paid Social,13,3,0,11
+2026-03-06,Referral,14,9,0,8
+2026-03-06,Unassigned,2,0,2,0
+2026-03-07,Direct,8,4,1,3
+2026-03-07,Organic Search,19,11,2,11
+2026-03-07,Organic Social,6,1,0,5
+2026-03-07,Paid Social,14,1,0,14
+2026-03-08,Cross-network,1,1,0,1
+2026-03-08,Direct,9,4,0,4
+2026-03-08,Organic Search,18,14,1,12
+2026-03-08,Organic Social,4,2,0,4
+2026-03-08,Paid Social,11,1,0,9
+2026-03-08,Referral,2,1,0,1
+2026-03-09,Direct,43,25,2,14
+2026-03-09,Organic Search,95,69,7,29
+2026-03-09,Organic Social,1,0,0,1
+2026-03-09,Paid Search,14,6,1,9
+2026-03-09,Paid Social,13,3,0,11
+2026-03-09,Referral,7,1,0,1
+2026-03-10,Cross-network,1,1,0,1
+2026-03-10,Direct,29,18,4,12
+2026-03-10,Organic Search,99,68,7,41
+2026-03-10,Organic Social,3,2,0,2
+2026-03-10,Paid Search,7,3,0,3
+2026-03-10,Paid Social,13,1,0,13
+2026-03-10,Referral,24,16,3,12
+2026-03-11,Direct,47,35,0,17
+2026-03-11,Organic Search,109,71,12,38
+2026-03-11,Organic Social,4,0,0,3
+2026-03-11,Paid Search,10,4,1,5
+2026-03-11,Paid Social,14,3,0,13
+2026-03-11,Referral,9,6,2,4
+2026-03-12,Direct,46,29,4,17
+2026-03-12,Organic Search,117,81,13,39
+2026-03-12,Organic Social,6,1,0,5
+2026-03-12,Paid Search,6,5,0,4
+2026-03-12,Paid Social,13,4,0,12
+2026-03-12,Referral,14,9,1,7
+2026-03-12,Unassigned,1,0,0,0
+2026-03-13,Cross-network,1,0,0,0
+2026-03-13,Direct,33,13,2,10
+2026-03-13,Organic Search,84,55,9,29
+2026-03-13,Organic Social,2,0,0,2
+2026-03-13,Paid Search,4,4,0,4
+2026-03-13,Paid Social,3,0,0,2
+2026-03-13,Referral,6,3,0,3
+2026-03-13,Unassigned,3,0,0,0
+2026-03-14,Direct,4,2,0,3
+2026-03-14,Organic Search,16,13,0,12
+2026-03-14,Organic Social,2,0,0,1
+2026-03-15,Direct,7,5,1,4
+2026-03-15,Organic Search,15,12,0,9
+2026-03-15,Paid Search,1,0,0,1
+2026-03-15,Referral,2,1,0,1
+2026-03-16,Direct,50,33,2,9
+2026-03-16,Organic Search,92,57,4,34
+2026-03-16,Paid Search,3,1,0,3
+2026-03-16,Referral,12,6,0,6
+2026-03-16,Unassigned,2,0,0,1
+2026-03-17,Direct,45,23,6,16
+2026-03-17,Organic Search,97,65,9,39
+2026-03-17,Paid Search,12,12,1,6
+2026-03-17,Referral,10,8,0,7
+2026-03-17,Unassigned,1,0,0,0
+2026-03-18,Direct,43,26,1,17
+2026-03-18,Organic Search,96,72,16,46
+2026-03-18,Organic Social,1,0,0,1
+2026-03-18,Paid Search,12,9,1,6
+2026-03-18,Referral,15,9,1,6
+2026-03-19,Direct,27,21,1,6
+2026-03-19,Organic Search,82,54,13,31
+2026-03-19,Organic Social,2,1,0,0
+2026-03-19,Paid Search,15,10,1,10
+2026-03-19,Referral,11,6,0,4
+2026-03-20,Direct,44,27,14,16
+2026-03-20,Organic Search,74,47,7,32
+2026-03-20,Organic Social,2,2,1,0
+2026-03-20,Paid Search,10,9,0,8
+2026-03-20,Referral,21,10,0,9
+2026-03-20,Unassigned,3,0,0,0
+2026-03-21,Direct,10,5,0,4
+2026-03-21,Organic Search,14,11,0,9
+2026-03-21,Paid Search,2,0,0,2
+2026-03-21,Referral,9,6,0,4
+2026-03-21,Unassigned,1,0,0,0
+2026-03-22,Direct,14,6,0,10
+2026-03-22,Organic Search,20,13,0,16
+2026-03-22,Referral,2,1,0,1
+2026-03-22,Unassigned,1,1,0,1
+2026-03-23,Direct,37,23,2,15
+2026-03-23,Organic Search,92,61,17,38
+2026-03-23,Paid Search,10,8,2,5
+2026-03-23,Referral,16,11,0,5
+2026-03-24,Direct,27,13,3,10
+2026-03-24,Organic Search,101,68,13,37
+2026-03-24,Organic Social,1,1,0,0
+2026-03-24,Paid Search,24,22,3,14
+2026-03-24,Referral,16,13,0,6
+2026-03-24,Unassigned,2,0,0,1
+2026-03-25,Direct,38,22,2,10
+2026-03-25,Organic Search,128,91,25,56
+2026-03-25,Organic Social,2,2,0,2
+2026-03-25,Paid Search,13,10,0,7
+2026-03-25,Referral,18,10,0,3
+2026-03-26,Direct,24,14,1,13
+2026-03-26,Organic Search,100,63,10,35
+2026-03-26,Paid Search,7,4,0,2
+2026-03-26,Referral,11,8,1,6
+2026-03-27,Direct,37,25,5,13
+2026-03-27,Organic Search,70,42,9,26
+2026-03-27,Paid Search,9,8,0,5
+2026-03-27,Referral,10,4,0,3
+2026-03-27,Unassigned,1,0,0,0
+2026-03-28,Direct,7,3,1,5
+2026-03-28,Organic Search,10,8,1,8
+2026-03-28,Organic Social,1,1,0,1
+2026-03-29,Direct,6,4,0,4
+2026-03-29,Organic Search,14,8,1,8
+2026-03-29,Referral,1,0,0,0
+2026-03-29,Unassigned,2,0,0,1
+2026-03-30,Cross-network,1,0,0,0
+2026-03-30,Direct,69,47,5,27
+2026-03-30,Organic Search,79,44,6,31
+2026-03-30,Paid Search,11,9,0,8
+2026-03-30,Referral,10,3,0,4
+2026-03-31,Direct,87,56,9,26
+2026-03-31,Organic Search,110,74,9,37
+2026-03-31,Paid Search,15,10,3,4
+2026-03-31,Referral,13,8,0,4
+2026-03-31,Unassigned,1,0,0,0
+2026-04-01,Direct,46,25,16,22
+2026-04-01,Organic Search,72,47,5,23
+2026-04-01,Organic Social,1,1,0,1
+2026-04-01,Paid Search,4,2,0,3
+2026-04-01,Referral,8,4,0,4
+2026-04-01,Unassigned,2,0,1,0
+2026-04-02,Direct,40,22,0,18
+2026-04-02,Organic Search,89,49,10,35
+2026-04-02,Paid Search,9,6,0,4
+2026-04-02,Referral,14,7,1,6
+2026-04-02,Unassigned,1,0,0,0
+2026-04-03,Direct,9,7,16,4
+2026-04-03,Organic Search,26,16,1,10
+2026-04-03,Paid Search,10,5,0,9
+2026-04-03,Referral,6,4,0,3
+2026-04-04,Direct,7,5,0,5
+2026-04-04,Organic Search,15,7,2,11
+2026-04-04,Referral,9,6,1,4
+2026-04-05,Direct,4,2,0,4
+2026-04-05,Organic Search,16,6,0,12
+2026-04-05,Organic Social,1,1,0,1
+2026-04-05,Referral,1,1,0,1
+2026-04-05,Unassigned,1,0,0,0
+2026-04-06,Cross-network,1,1,0,1
+2026-04-06,Direct,8,4,3,4
+2026-04-06,Organic Search,18,10,0,10
+2026-04-06,Organic Social,1,1,0,1
+2026-04-06,Paid Search,9,4,0,6
+2026-04-06,Referral,8,7,1,6
+2026-04-07,Direct,49,28,6,14
+2026-04-07,Organic Search,72,50,8,31
+2026-04-07,Organic Social,1,1,0,0
+2026-04-07,Paid Search,10,5,1,4
+2026-04-07,Referral,15,10,1,4
+2026-04-08,Cross-network,3,2,0,3
+2026-04-08,Direct,58,29,0,17
+2026-04-08,Organic Search,98,62,16,26
+2026-04-08,Paid Search,5,4,0,0
+2026-04-08,Referral,12,8,0,3
+2026-04-09,Cross-network,8,4,0,7
+2026-04-09,Direct,51,39,4,25
+2026-04-09,Organic Search,117,83,21,44
+2026-04-09,Paid Search,21,17,0,13
+2026-04-09,Referral,16,10,2,4
+2026-04-09,Unassigned,1,0,0,0
+2026-04-10,Cross-network,2,2,1,2
+2026-04-10,Direct,24,18,1,11
+2026-04-10,Organic Search,66,45,4,27
+2026-04-10,Paid Search,11,8,0,10
+2026-04-10,Referral,11,5,3,2
+2026-04-11,Cross-network,18,7,0,16
+2026-04-11,Direct,6,4,1,2
+2026-04-11,Organic Search,13,8,0,10
+2026-04-11,Referral,9,7,0,7
+2026-04-11,Unassigned,1,0,1,0
+2026-04-12,Cross-network,21,12,1,18
+2026-04-12,Direct,6,4,1,4
+2026-04-12,Organic Search,12,9,2,7
+2026-04-12,Paid Search,1,0,0,0
+2026-04-13,Cross-network,7,6,0,7
+2026-04-13,Direct,32,16,4,9
+2026-04-13,Organic Search,99,68,11,46
+2026-04-13,Paid Search,25,16,0,18
+2026-04-13,Referral,9,6,0,6
+2026-04-13,Unassigned,3,0,0,0
+2026-04-14,Cross-network,3,3,1,3
+2026-04-14,Direct,31,20,3,8
+2026-04-14,Organic Search,83,59,10,31
+2026-04-14,Paid Search,25,21,0,17
+2026-04-14,Referral,15,13,4,8
+2026-04-15,Cross-network,7,6,1,6
+2026-04-15,Direct,32,20,1,22
+2026-04-15,Organic Search,74,50,11,22
+2026-04-15,Paid Search,26,18,4,10
+2026-04-15,Referral,12,5,0,1
+2026-04-15,Unassigned,2,0,0,0
+2026-04-16,Cross-network,7,5,0,4
+2026-04-16,Direct,37,15,0,21
+2026-04-16,Organic Search,74,52,8,27
+2026-04-16,Organic Social,2,2,0,2
+2026-04-16,Paid Search,27,19,1,15
+2026-04-16,Referral,13,5,0,6
+2026-04-16,Unassigned,1,0,0,0
+2026-04-17,Cross-network,1,1,0,1
+2026-04-17,Direct,46,29,3,23
+2026-04-17,Organic Search,57,42,9,23
+2026-04-17,Organic Social,4,4,0,2
+2026-04-17,Paid Search,21,14,2,10
+2026-04-17,Referral,8,5,0,3
+2026-04-17,Unassigned,1,0,0,0
+2026-04-18,Cross-network,16,9,0,13
+2026-04-18,Direct,5,3,2,2
+2026-04-18,Organic Search,18,7,1,7
+2026-04-18,Paid Search,3,1,0,0
+2026-04-18,Referral,3,1,0,2
+2026-04-18,Unassigned,1,0,1,0
+2026-04-19,Cross-network,21,16,32,19
+2026-04-19,Direct,6,4,0,5
+2026-04-19,Organic Search,13,9,1,7
+2026-04-19,Paid Search,1,0,0,0
+2026-04-19,Referral,1,1,0,1
+2026-04-20,Cross-network,2,1,1,1
+2026-04-20,Direct,44,26,5,22
+2026-04-20,Organic Search,60,35,2,19
+2026-04-20,Organic Social,4,2,0,1
+2026-04-20,Paid Search,25,18,1,15
+2026-04-20,Referral,17,11,17,4
+2026-04-20,Unassigned,1,0,0,0
+2026-04-21,Cross-network,8,7,10,7
+2026-04-21,Direct,47,35,2,18
+2026-04-21,Organic Search,73,51,4,22
+2026-04-21,Paid Search,32,19,2,16
+2026-04-21,Referral,13,5,0,3
+2026-04-21,Unassigned,1,0,0,0
+2026-04-22,Cross-network,7,6,2,7
+2026-04-22,Direct,38,22,1,15
+2026-04-22,Organic Search,76,49,12,31
+2026-04-22,Paid Search,18,9,0,7
+2026-04-22,Referral,10,2,0,6
+2026-04-22,Unassigned,2,0,0,0
+2026-04-23,Cross-network,5,5,5,3
+2026-04-23,Direct,47,28,0,15
+2026-04-23,Organic Search,79,52,15,36
+2026-04-23,Paid Search,19,15,0,11
+2026-04-23,Referral,9,6,0,4
+2026-04-24,Cross-network,5,3,0,0
+2026-04-24,Direct,43,20,2,8
+2026-04-24,Organic Search,51,34,10,17
+2026-04-24,Paid Search,14,12,2,10
+2026-04-24,Referral,10,7,0,4
+2026-04-24,Unassigned,1,0,0,0
+2026-04-25,Cross-network,9,8,9,9
+2026-04-25,Direct,5,1,0,2
+2026-04-25,Organic Search,20,10,1,9
+2026-04-25,Referral,3,3,0,3
+2026-04-26,Cross-network,12,10,12,10
+2026-04-26,Direct,5,1,0,2
+2026-04-26,Organic Search,11,10,1,6
+2026-04-26,Organic Social,1,0,0,1
+2026-04-26,Paid Search,1,0,0,0
+2026-04-26,Referral,3,2,0,1
+2026-04-27,Cross-network,4,4,34,3
+2026-04-27,Direct,40,23,5,13
+2026-04-27,Organic Search,72,47,10,24
+2026-04-27,Organic Social,1,0,0,0
+2026-04-27,Paid Search,25,15,4,15
+2026-04-27,Referral,8,5,0,5
+2026-04-28,Cross-network,12,11,19,11
+2026-04-28,Direct,47,27,6,19
+2026-04-28,Organic Search,76,52,7,29
+2026-04-28,Paid Search,16,12,1,5
+2026-04-28,Referral,12,6,0,6
+2026-04-28,Unassigned,2,0,0,0
+2026-04-29,Cross-network,7,7,3,5
+2026-04-29,Direct,50,29,2,24
+2026-04-29,Organic Search,92,62,28,35
+2026-04-29,Paid Search,23,14,6,13
+2026-04-29,Referral,13,9,0,7
+2026-04-29,Unassigned,3,0,1,0
+2026-04-30,Cross-network,8,6,5,6
+2026-04-30,Direct,55,39,3,27
+2026-04-30,Organic Search,65,41,5,21
+2026-04-30,Organic Social,1,1,0,1
+2026-04-30,Paid Search,22,11,0,10
+2026-04-30,Referral,7,3,0,2
+2026-05-01,Cross-network,1,1,0,1
+2026-05-01,Direct,19,15,0,14
+2026-05-01,Organic Search,21,15,15,11
+2026-05-01,Paid Search,10,10,0,7
+2026-05-01,Referral,2,2,0,2
+2026-05-02,Cross-network,7,7,38,7
+2026-05-02,Direct,3,1,0,1
+2026-05-02,Organic Search,7,5,0,4
+2026-05-02,Paid Search,3,0,0,0
+2026-05-02,Unassigned,2,2,1,2
+2026-05-03,Cross-network,1,0,0,1
+2026-05-03,Direct,11,9,0,6
+2026-05-03,Organic Search,17,12,2,15
+2026-05-03,Paid Search,2,0,0,0
+2026-05-03,Referral,5,5,0,4
+2026-05-04,Cross-network,3,2,11,3
+2026-05-04,Direct,35,23,14,11
+2026-05-04,Organic Search,76,56,10,34
+2026-05-04,Paid Search,22,16,0,12
+2026-05-04,Referral,10,6,0,3
+2026-05-05,Cross-network,5,5,17,5
+2026-05-05,Direct,47,32,1,15
+2026-05-05,Organic Search,80,53,21,33
+2026-05-05,Paid Search,15,12,0,8
+2026-05-05,Referral,8,6,0,3
+2026-05-05,Unassigned,1,0,0,0
+2026-05-06,Cross-network,1,1,0,1
+2026-05-06,Direct,42,23,12,13
+2026-05-06,Organic Search,65,47,8,22
+2026-05-06,Paid Search,15,12,6,8
+2026-05-06,Referral,9,5,2,3
+2026-05-07,Cross-network,9,9,10,9
+2026-05-07,Direct,55,33,6,16
+2026-05-07,Organic Search,60,41,7,21
+2026-05-07,Organic Social,3,0,0,0
+2026-05-07,Paid Search,24,13,0,11
+2026-05-07,Referral,13,8,4,4
+2026-05-07,Unassigned,2,0,4,0
+2026-05-08,Cross-network,2,2,1,2
+2026-05-08,Direct,32,17,0,11
+2026-05-08,Organic Search,60,37,5,25
+2026-05-08,Organic Social,4,1,0,0
+2026-05-08,Paid Search,16,11,1,11
+2026-05-08,Referral,9,8,2,3
+2026-05-08,Unassigned,1,1,0,1
+2026-05-09,Cross-network,5,5,11,5
+2026-05-09,Direct,8,5,0,7
+2026-05-09,Organic Search,15,12,2,11
+2026-05-09,Organic Social,1,0,0,0
+2026-05-09,Paid Search,1,0,0,0
+2026-05-09,Referral,1,1,0,1
+2026-05-09,Unassigned,1,0,0,0
+2026-05-10,Cross-network,17,15,38,16
+2026-05-10,Direct,4,1,0,3
+2026-05-10,Organic Search,10,8,2,8
+2026-05-10,Referral,3,1,0,2
+2026-05-11,Cross-network,1,1,0,1
+2026-05-11,Direct,39,26,6,17
+2026-05-11,Organic Search,79,57,4,34
+2026-05-11,Paid Search,19,16,2,15
+2026-05-11,Referral,6,4,0,2
+2026-05-11,Unassigned,1,0,1,0
+2026-05-12,Cross-network,6,6,4,6
+2026-05-12,Direct,41,28,4,10
+2026-05-12,Organic Search,87,52,5,31
+2026-05-12,Paid Search,24,17,9,14
+2026-05-12,Referral,15,11,2,8
+2026-05-13,Direct,50,27,2,18
+2026-05-13,Organic Search,67,49,8,24
+2026-05-13,Organic Social,1,1,0,1
+2026-05-13,Paid Search,17,12,0,14
+2026-05-13,Referral,10,9,0,6
+2026-05-13,Unassigned,2,0,0,0
+2026-05-14,Cross-network,8,8,8,7
+2026-05-14,Direct,16,8,0,3
+2026-05-14,Organic Search,26,17,0,16
+2026-05-14,Paid Search,12,10,0,11
+2026-05-14,Referral,6,4,0,3
+2026-05-14,Unassigned,1,0,0,0
+2026-05-15,Cross-network,15,10,29,13
+2026-05-15,Direct,20,14,0,9
+2026-05-15,Organic Search,28,17,4,15
+2026-05-15,Organic Social,1,1,0,1
+2026-05-15,Paid Search,3,3,0,2
+2026-05-15,Referral,9,4,0,4
+2026-05-15,Unassigned,1,0,0,1
+2026-05-16,Cross-network,1,0,0,0
+2026-05-16,Direct,10,4,0,2
+2026-05-16,Organic Search,19,12,0,13
+2026-05-16,Organic Social,1,1,0,1
+2026-05-16,Paid Search,5,4,2,4
+2026-05-16,Unassigned,3,1,0,1
+2026-05-17,Cross-network,15,12,4,13
+2026-05-17,Direct,9,8,1,6
+2026-05-17,Organic Search,13,10,0,9
+2026-05-17,Paid Search,11,7,1,8
+2026-05-17,Referral,1,1,0,0
+2026-05-18,Cross-network,1,0,0,0
+2026-05-18,Direct,42,23,3,14
+2026-05-18,Organic Search,88,66,5,43
+2026-05-18,Paid Search,24,17,0,19
+2026-05-18,Referral,13,10,0,5
+2026-05-19,Cross-network,14,13,2,10
+2026-05-19,Direct,27,17,0,10
+2026-05-19,Organic Search,72,54,5,41
+2026-05-19,Paid Search,36,22,1,27
+2026-05-19,Referral,20,13,0,7
+2026-05-19,Unassigned,2,0,0,0
+2026-05-20,Cross-network,14,14,16,13
+2026-05-20,Direct,49,29,6,18
+2026-05-20,Organic Search,90,58,6,34
+2026-05-20,Organic Social,2,2,0,2
+2026-05-20,Paid Search,27,15,6,21
+2026-05-20,Referral,14,11,2,5
+2026-05-20,Unassigned,4,0,0,0
+2026-05-21,Direct,48,26,3,19
+2026-05-21,Organic Search,74,51,31,24
+2026-05-21,Paid Search,30,19,2,18
+2026-05-21,Referral,13,6,2,1
+2026-05-21,Unassigned,2,0,0,0
+2026-05-22,Cross-network,14,13,7,14
+2026-05-22,Direct,30,17,4,15
+2026-05-22,Organic Search,65,38,7,23
+2026-05-22,Paid Search,25,19,0,16
+2026-05-22,Referral,7,5,0,3
+2026-05-23,Direct,2,2,1,0
+2026-05-23,Organic Search,14,8,0,7
+2026-05-23,Organic Video,1,1,0,1
+2026-05-23,Paid Search,5,2,0,4
+2026-05-24,Cross-network,5,2,0,3
+2026-05-24,Direct,3,0,0,2
+2026-05-24,Organic Search,16,10,0,10
+2026-05-24,Paid Search,11,7,3,9
+2026-05-24,Referral,2,2,0,2
+2026-05-25,Cross-network,6,4,4,3
+2026-05-25,Direct,28,20,3,13
+2026-05-25,Organic Search,83,56,3,35
+2026-05-25,Organic Social,1,0,0,1
+2026-05-25,Paid Search,24,20,0,15
+2026-05-25,Referral,8,2,0,2
+2026-05-25,Unassigned,3,0,2,0
+2026-05-26,Cross-network,22,16,92,18
+2026-05-26,Direct,44,36,8,20
+2026-05-26,Organic Search,82,53,14,26
+2026-05-26,Paid Search,24,17,4,15
+2026-05-26,Referral,9,5,0,2
+2026-05-26,Unassigned,3,0,0,0
+2026-05-27,Direct,31,23,5,9
+2026-05-27,Organic Search,67,46,9,32
+2026-05-27,Organic Social,1,1,0,1
+2026-05-27,Paid Search,30,20,8,18
+2026-05-27,Referral,5,4,0,3
+2026-05-27,Unassigned,1,0,1,0
+2026-05-28,Cross-network,10,9,1,9
+2026-05-28,Direct,44,31,5,20
+2026-05-28,Organic Search,72,47,31,31
+2026-05-28,Organic Social,14,6,0,5
+2026-05-28,Paid Search,18,10,0,8
+2026-05-28,Referral,11,7,0,5
+2026-05-29,Cross-network,20,15,38,20
+2026-05-29,Direct,33,21,3,9
+2026-05-29,Organic Search,68,38,3,24
+2026-05-29,Organic Social,4,0,0,0
+2026-05-29,Paid Search,22,16,3,13
+2026-05-29,Referral,6,4,0,1
+2026-05-30,Cross-network,2,1,0,2
+2026-05-30,Direct,5,5,0,5
+2026-05-30,Organic Search,19,13,0,13
+2026-05-30,Paid Search,3,1,0,1
+2026-05-31,Cross-network,13,13,4,12
+2026-05-31,Direct,5,2,0,2
+2026-05-31,Organic Search,14,7,1,4
+2026-05-31,Paid Search,2,0,0,1
+2026-05-31,Referral,3,2,1,2
+2026-06-01,Cross-network,7,7,8,6
+2026-06-01,Direct,36,23,4,13
+2026-06-01,Organic Search,72,49,6,33
+2026-06-01,Organic Social,4,2,0,0
+2026-06-01,Paid Search,22,18,1,15
+2026-06-01,Referral,7,5,2,3
+2026-06-01,Unassigned,1,0,5,0
+2026-06-02,AI Assistant,3,0,0,2
+2026-06-02,Direct,45,28,4,13
+2026-06-02,Organic Search,73,52,11,33
+2026-06-02,Organic Social,1,0,0,0
+2026-06-02,Paid Search,24,17,4,16
+2026-06-02,Referral,4,3,0,0
+2026-06-03,Cross-network,14,12,30,12
+2026-06-03,Direct,41,27,2,8
+2026-06-03,Organic Search,79,53,11,40
+2026-06-03,Organic Social,3,1,0,1
+2026-06-03,Paid Search,21,15,1,11
+2026-06-03,Referral,12,6,0,4
+2026-06-04,Direct,44,30,5,12
+2026-06-04,Organic Search,102,65,12,34
+2026-06-04,Organic Social,1,1,0,1
+2026-06-04,Paid Search,36,26,2,26
+2026-06-04,Referral,12,7,0,5
+2026-06-04,Unassigned,1,0,0,0
+2026-06-05,Cross-network,21,16,52,20
+2026-06-05,Direct,40,26,2,16
+2026-06-05,Organic Search,85,55,7,31
+2026-06-05,Paid Search,21,12,1,10
+2026-06-05,Referral,4,3,0,1
+2026-06-05,Unassigned,2,0,2,0
+2026-06-06,Direct,3,3,1,2
+2026-06-06,Organic Search,16,10,0,9
+2026-06-06,Paid Search,1,1,0,1
+2026-06-06,Referral,1,1,0,1
+2026-06-07,Cross-network,10,9,33,10
+2026-06-07,Direct,3,0,0,0
+2026-06-07,Organic Search,12,8,1,6
+2026-06-07,Paid Search,4,4,0,4
+2026-06-08,AI Assistant,1,1,0,0
+2026-06-08,Cross-network,2,2,2,2
+2026-06-08,Direct,49,27,7,19
+2026-06-08,Organic Search,96,62,10,23
+2026-06-08,Organic Social,1,0,0,0
+2026-06-08,Paid Search,34,28,1,24
+2026-06-08,Referral,6,4,1,2
+2026-06-09,AI Assistant,4,1,0,0
+2026-06-09,Cross-network,10,6,26,8
+2026-06-09,Direct,36,19,0,10
+2026-06-09,Organic Search,97,68,10,40
+2026-06-09,Organic Social,2,0,0,0
+2026-06-09,Paid Search,33,19,0,20
+2026-06-09,Referral,6,4,0,1
+2026-06-09,Unassigned,2,0,0,0
+2026-06-10,AI Assistant,2,1,0,1
+2026-06-10,Direct,29,19,2,11
+2026-06-10,Organic Search,81,53,23,24
+2026-06-10,Organic Social,1,0,0,0
+2026-06-10,Paid Search,37,22,2,17
+2026-06-10,Paid Social,14,4,0,11
+2026-06-10,Referral,7,6,0,7
+2026-06-11,Cross-network,7,7,2,7
+2026-06-11,Direct,62,34,5,18
+2026-06-11,Organic Search,89,54,8,24
+2026-06-11,Paid Search,28,19,0,16
+2026-06-11,Paid Social,7,3,0,5
+2026-06-11,Referral,13,8,2,5
+2026-06-11,Unassigned,1,0,0,0
+2026-06-12,AI Assistant,1,0,0,1
+2026-06-12,Cross-network,18,17,13,16
+2026-06-12,Direct,18,12,3,9
+2026-06-12,Organic Search,56,34,6,25
+2026-06-12,Paid Search,22,18,1,12
+2026-06-12,Paid Social,8,3,0,6
+2026-06-12,Referral,5,3,0,3
+2026-06-13,AI Assistant,1,1,0,0
+2026-06-13,Cross-network,1,0,0,1
+2026-06-13,Direct,10,4,1,6
+2026-06-13,Organic Search,15,8,0,8
+2026-06-13,Organic Social,1,0,0,0
+2026-06-13,Paid Social,8,3,0,6
+2026-06-13,Referral,1,1,0,1
+2026-06-14,AI Assistant,1,0,0,0
+2026-06-14,Cross-network,1,1,0,1
+2026-06-14,Direct,7,2,0,5
+2026-06-14,Organic Search,11,10,0,9
+2026-06-14,Organic Social,4,1,0,1
+2026-06-14,Paid Social,11,3,0,6
+2026-06-15,AI Assistant,1,1,0,0
+2026-06-15,Cross-network,12,11,0,9
+2026-06-15,Direct,39,28,3,16
+2026-06-15,Organic Search,75,43,7,19
+2026-06-15,Organic Social,3,1,0,2
+2026-06-15,Paid Search,32,22,2,17
+2026-06-15,Paid Social,11,2,0,7
+2026-06-15,Referral,6,5,0,4
+2026-06-16,AI Assistant,1,0,0,0
+2026-06-16,Cross-network,5,4,3,5
+2026-06-16,Direct,35,24,6,17
+2026-06-16,Organic Search,81,54,10,39
+2026-06-16,Organic Social,2,1,0,2
+2026-06-16,Paid Search,37,27,4,22
+2026-06-16,Paid Social,10,4,0,7
+2026-06-16,Referral,17,13,0,5
+2026-06-17,AI Assistant,1,1,1,0
+2026-06-17,Direct,42,28,5,22
+2026-06-17,Organic Search,80,56,13,29
+2026-06-17,Paid Search,24,17,0,20
+2026-06-17,Paid Social,15,7,0,7
+2026-06-17,Referral,12,7,1,3
+2026-06-17,Unassigned,2,0,0,0
+2026-06-18,AI Assistant,1,0,0,0
+2026-06-18,Cross-network,13,10,7,13
+2026-06-18,Direct,34,20,5,18
+2026-06-18,Organic Search,69,43,9,21
+2026-06-18,Organic Social,1,1,0,1
+2026-06-18,Paid Search,21,16,0,16
+2026-06-18,Paid Social,2,1,0,1
+2026-06-18,Referral,13,10,0,6
+2026-06-18,Unassigned,1,0,0,0
+2026-06-19,AI Assistant,1,0,0,1
+2026-06-19,Direct,10,5,0,5
+2026-06-19,Organic Search,26,16,1,11
+2026-06-19,Paid Search,14,10,1,9
+2026-06-19,Paid Social,9,1,0,7
+2026-06-19,Referral,3,1,0,2
+2026-06-19,Unassigned,1,0,0,0
+2026-06-20,AI Assistant,1,1,0,1
+2026-06-20,Cross-network,25,20,56,23
+2026-06-20,Direct,2,1,0,2
+2026-06-20,Organic Search,16,12,1,12
+2026-06-20,Paid Search,3,3,1,2
+2026-06-20,Paid Social,9,3,0,7
+2026-06-21,Direct,11,7,1,8
+2026-06-21,Organic Search,13,7,0,10
+2026-06-21,Paid Search,2,2,0,1
+2026-06-21,Paid Social,8,2,0,5
+2026-06-21,Referral,2,1,0,1
+2026-06-22,AI Assistant,1,0,0,0
+2026-06-22,Cross-network,8,8,16,6
+2026-06-22,Direct,25,14,1,9
+2026-06-22,Organic Search,76,60,6,35
+2026-06-22,Paid Search,23,14,6,15
+2026-06-22,Paid Social,7,1,0,4
+2026-06-22,Referral,11,7,0,7
+2026-06-22,Unassigned,1,0,0,0
+2026-06-23,AI Assistant,1,0,0,1
+2026-06-23,Cross-network,9,8,4,7
+2026-06-23,Direct,31,15,1,15
+2026-06-23,Organic Search,68,44,10,21
+2026-06-23,Organic Social,5,4,0,0
+2026-06-23,Paid Search,31,19,4,18
+2026-06-23,Paid Social,8,4,0,6
+2026-06-23,Referral,13,10,0,7
+2026-06-24,AI Assistant,1,1,0,1
+2026-06-24,Cross-network,10,10,13,10
+2026-06-24,Direct,29,17,8,10
+2026-06-24,Organic Search,60,42,4,20
+2026-06-24,Organic Social,1,0,0,0
+2026-06-24,Organic Video,1,0,0,1
+2026-06-24,Paid Search,30,19,3,15
+2026-06-24,Paid Social,8,0,0,7
+2026-06-24,Referral,12,5,1,3
+2026-06-24,Unassigned,2,0,0,0
+2026-06-25,AI Assistant,1,0,0,0
+2026-06-25,Cross-network,4,4,1,4
+2026-06-25,Direct,59,37,3,29
+2026-06-25,Organic Search,89,63,11,32
+2026-06-25,Organic Social,1,1,0,1
+2026-06-25,Paid Search,26,15,0,20
+2026-06-25,Paid Social,6,1,0,5
+2026-06-25,Referral,8,6,0,3
+2026-06-26,AI Assistant,1,1,0,1
+2026-06-26,Direct,40,25,2,16
+2026-06-26,Organic Search,52,29,6,14
+2026-06-26,Paid Search,23,18,2,18
+2026-06-26,Paid Social,3,2,0,3
+2026-06-26,Referral,6,4,0,0
+2026-06-27,AI Assistant,1,1,1,1
+2026-06-27,Cross-network,5,4,2,5
+2026-06-27,Direct,4,1,0,1
+2026-06-27,Organic Search,19,13,1,6
+2026-06-27,Paid Search,9,4,0,6
+2026-06-27,Paid Social,6,3,0,5
+2026-06-27,Referral,2,1,0,2
+2026-06-28,Cross-network,11,10,2,9
+2026-06-28,Direct,5,2,0,4
+2026-06-28,Organic Search,21,11,0,16
+2026-06-28,Paid Search,6,2,0,6
+2026-06-28,Paid Social,20,5,0,16
+2026-06-28,Referral,1,1,0,1
+2026-06-28,Unassigned,1,0,9,0
+2026-06-29,Cross-network,12,10,13,11
+2026-06-29,Direct,41,24,5,16
+2026-06-29,Organic Search,46,30,1,18
+2026-06-29,Paid Search,31,22,0,17
+2026-06-29,Paid Social,13,5,0,11
+2026-06-29,Referral,13,7,0,4
+2026-06-29,Unassigned,1,0,0,0
+2026-06-30,Cross-network,1,1,1,1
+2026-06-30,Direct,35,20,0,9
+2026-06-30,Organic Search,69,44,3,23
+2026-06-30,Paid Search,20,13,1,14
+2026-06-30,Paid Social,9,0,0,7
+2026-06-30,Referral,15,8,1,4
+2026-07-01,AI Assistant,6,4,2,2
+2026-07-01,Direct,27,18,3,12
+2026-07-01,Organic Search,55,40,10,22
+2026-07-01,Organic Social,1,1,0,1
+2026-07-01,Paid Search,13,6,0,4
+2026-07-01,Paid Social,14,1,0,10
+2026-07-01,Referral,8,4,2,3
+2026-07-02,Direct,43,28,3,10
+2026-07-02,Organic Search,80,56,5,34
+2026-07-02,Organic Social,1,1,0,1
+2026-07-02,Paid Search,2,1,0,0
+2026-07-02,Paid Social,11,2,0,8
+2026-07-02,Referral,11,9,1,6
+2026-07-03,AI Assistant,1,1,0,1
+2026-07-03,Direct,30,23,7,10
+2026-07-03,Organic Search,48,31,1,19
+2026-07-03,Organic Social,1,1,0,0
+2026-07-03,Paid Search,5,4,0,0
+2026-07-03,Paid Social,25,6,0,19
+2026-07-03,Referral,7,3,0,1
+2026-07-03,Unassigned,2,0,0,0
+2026-07-04,Direct,2,1,1,1
+2026-07-04,Organic Search,18,12,1,11
+2026-07-04,Paid Social,24,3,0,19
+2026-07-04,Referral,2,0,0,0
+2026-07-04,Unassigned,1,0,0,0
+2026-07-05,Direct,1,0,0,1
+2026-07-05,Organic Search,12,7,0,7
+2026-07-05,Paid Social,14,6,0,12
+2026-07-05,Referral,4,1,0,2
+2026-07-05,Unassigned,1,0,0,0
+2026-07-06,Direct,19,15,4,7
+2026-07-06,Organic Search,51,33,1,21
+2026-07-06,Paid Social,20,7,0,15
+2026-07-06,Referral,7,5,0,5
+2026-07-07,Direct,28,15,0,6
+2026-07-07,Organic Search,43,28,9,16
+2026-07-07,Paid Search,3,0,0,0
+2026-07-07,Paid Social,20,3,0,15
+2026-07-07,Referral,4,4,1,4
+2026-07-08,Direct,30,19,1,15
+2026-07-08,Organic Search,58,38,12,21
+2026-07-08,Organic Social,1,1,0,1
+2026-07-08,Paid Social,11,3,0,9
+2026-07-08,Referral,4,2,0,3
+2026-07-08,Unassigned,2,0,1,0
+2026-07-09,Direct,34,21,3,9
+2026-07-09,Organic Search,39,28,3,17
+2026-07-09,Paid Search,1,0,0,0
+2026-07-09,Paid Social,22,6,0,18
+2026-07-09,Referral,8,5,1,5
+2026-07-10,Direct,20,10,6,7
+2026-07-10,Organic Search,25,14,5,16
+2026-07-10,Paid Search,3,1,0,1
+2026-07-10,Paid Social,2,1,0,2
+2026-07-10,Referral,4,2,1,0
+2026-07-11,Direct,3,0,0,2
+2026-07-11,Organic Search,16,12,0,9
+2026-07-12,AI Assistant,1,0,0,1
+2026-07-12,Direct,3,1,0,1
+2026-07-12,Organic Search,14,12,3,9
+2026-07-13,AI Assistant,1,0,0,0
+2026-07-13,Direct,39,24,6,11
+2026-07-13,Organic Search,45,35,8,21
+2026-07-13,Paid Social,1,0,0,0
+2026-07-13,Referral,2,2,0,1
+2026-07-14,AI Assistant,3,2,1,2
+2026-07-14,Direct,20,12,12,2
+2026-07-14,Organic Search,23,12,2,6
+2026-07-14,Paid Search,2,0,0,0
+2026-07-14,Referral,2,1,0,2
+2026-07-15,AI Assistant,1,1,0,0
+2026-07-15,Direct,21,9,2,10
+2026-07-15,Organic Search,41,29,2,21
+2026-07-15,Organic Social,1,1,1,1
+2026-07-15,Paid Search,3,0,0,0
+2026-07-15,Paid Social,1,0,0,0
+2026-07-15,Referral,6,4,0,2
+2026-07-15,Unassigned,1,0,0,0
+2026-07-16,AI Assistant,1,0,0,1
+2026-07-16,Direct,9,5,0,3
+2026-07-16,Organic Search,25,15,6,15
+2026-07-16,Referral,2,2,0,2
+2026-07-17,AI Assistant,2,0,0,0
+2026-07-17,Direct,10,7,1,7
+2026-07-17,Organic Search,18,13,1,9
+2026-07-17,Paid Search,1,0,0,0
+2026-07-17,Referral,10,8,0,5
+2026-07-18,AI Assistant,1,0,0,1
+2026-07-18,Direct,2,1,0,2
+2026-07-18,Organic Search,7,4,0,5
+2026-07-18,Referral,2,1,0,2
+2026-07-19,Direct,4,1,0,1
+2026-07-19,Organic Search,7,5,0,6
+2026-07-19,Referral,1,1,0,1
+2026-07-20,AI Assistant,1,1,0,1
+2026-07-20,Direct,31,21,3,12
+2026-07-20,Organic Search,31,20,1,15
+2026-07-20,Referral,1,1,0,0
+2026-07-20,Unassigned,2,0,1,0
+2026-07-21,Direct,23,19,1,15
+2026-07-21,Organic Search,35,20,1,18
+2026-07-21,Paid Search,1,1,0,1
+2026-07-21,Referral,4,2,0,2
+2026-07-22,Direct,14,11,3,8
+2026-07-22,Organic Search,28,16,2,11
+2026-07-22,Paid Search,1,0,0,0
+2026-07-22,Referral,4,2,0,2
+2026-07-23,AI Assistant,4,3,0,4
+2026-07-23,Direct,11,4,0,4
+2026-07-23,Organic Search,24,21,1,10
+2026-07-23,Paid Search,1,0,0,0
+2026-07-23,Referral,6,5,1,1
+2026-07-24,AI Assistant,2,1,0,1
+2026-07-24,Direct,9,7,2,3
+2026-07-24,Organic Search,20,13,1,10
+2026-07-24,Referral,1,0,0,1
+2026-07-24,Unassigned,1,0,0,0
+2026-07-25,Direct,6,6,0,5
+2026-07-25,Organic Search,15,10,0,8
+2026-07-26,Direct,6,5,1,5
+2026-07-26,Organic Search,15,8,0,8
+2026-07-27,AI Assistant,3,1,0,3
+2026-07-27,Direct,6,6,0,1
+2026-07-27,Organic Search,26,13,0,12
+2026-07-27,Paid Search,2,2,0,0
+2026-07-27,Referral,5,4,0,3
+2026-07-28,AI Assistant,3,1,0,0
+2026-07-28,Direct,8,6,0,4
+2026-07-28,Organic Search,29,23,0,17
+2026-07-28,Paid Search,2,1,0,0
+2026-07-28,Referral,3,2,0,2
+2026-07-29,AI Assistant,4,3,0,2
+2026-07-29,Direct,19,12,1,7
+2026-07-29,Organic Search,40,28,7,20
+2026-07-29,Referral,7,6,2,3
+2026-07-30,AI Assistant,2,2,0,1
+2026-07-30,Direct,15,10,5,7
+2026-07-30,Organic Search,36,21,7,16
+2026-07-30,Referral,5,5,0,3
+2026-07-31,AI Assistant,2,1,0,1
+2026-07-31,Direct,11,7,0,6
+2026-07-31,Organic Search,19,11,2,8
+2026-07-31,Referral,1,1,0,1
+2026-08-01,AI Assistant,1,0,0,0
+2026-08-01,Direct,5,4,0,4
+2026-08-01,Organic Search,8,4,0,6
+2026-08-01,Referral,2,1,0,1
+2026-08-01,Unassigned,1,0,0,0
+2026-08-02,Direct,6,2,0,3
+2026-08-02,Organic Search,12,8,0,8
+2026-08-02,Unassigned,1,0,0,0
+2026-08-03,AI Assistant,2,2,0,1
+2026-08-03,Cross-network,1,0,0,0
+2026-08-03,Direct,32,18,2,21
+2026-08-03,Organic Search,39,27,2,26
+2026-08-03,Paid Search,3,1,1,0
+2026-08-03,Referral,3,3,0,0
+2026-08-03,Unassigned,2,0,0,0
+2026-08-04,AI Assistant,1,0,0,0
+2026-08-04,Direct,33,20,2,18
+2026-08-04,Organic Search,57,41,5,24
+2026-08-04,Paid Search,1,1,0,0
+2026-08-04,Referral,8,7,0,5
+2026-08-04,Unassigned,1,0,1,0
+2026-08-05,Direct,30,19,0,13
+2026-08-05,Organic Search,64,50,15,29
+2026-08-05,Organic Video,1,1,0,1
+2026-08-05,Referral,3,3,0,3
+2026-08-05,Unassigned,1,0,0,0
+2026-08-06,AI Assistant,3,1,0,3
+2026-08-06,Direct,26,13,4,7
+2026-08-06,Organic Search,65,45,8,22
+2026-08-06,Organic Video,2,1,1,0
+2026-08-06,Referral,13,7,0,6
+2026-08-07,AI Assistant,1,1,0,1
+2026-08-07,Direct,39,25,7,14
+2026-08-07,Organic Search,58,38,7,21
+2026-08-07,Organic Social,1,1,0,1
+2026-08-07,Paid Search,1,1,0,0
+2026-08-07,Referral,10,10,0,8
+2026-08-08,AI Assistant,1,1,0,1
+2026-08-08,Direct,5,3,0,3
+2026-08-08,Organic Search,18,11,1,11
+2026-08-09,Direct,7,5,0,4
+2026-08-09,Organic Search,18,13,1,14
+2026-08-09,Referral,2,2,0,2
+2026-08-10,AI Assistant,3,3,0,3
+2026-08-10,Direct,31,19,3,15
+2026-08-10,Organic Search,82,57,17,31
+2026-08-10,Referral,10,8,2,6
+2026-08-10,Unassigned,1,0,0,0
+2026-08-11,AI Assistant,5,2,0,3
+2026-08-11,Direct,27,17,6,12
+2026-08-11,Organic Search,82,54,3,33
+2026-08-11,Paid Search,2,1,0,0
+2026-08-11,Referral,5,5,0,4
+2026-08-11,Unassigned,1,0,0,0
+2026-08-12,AI Assistant,1,1,0,1
+2026-08-12,Direct,34,26,2,16
+2026-08-12,Organic Search,79,54,7,33
+2026-08-12,Referral,8,8,0,4
+2026-08-13,AI Assistant,3,2,0,1
+2026-08-13,Direct,20,14,0,6
+2026-08-13,Organic Search,76,59,4,31
+2026-08-13,Referral,5,4,0,4
+2026-08-13,Unassigned,1,0,0,0
+2026-08-14,AI Assistant,1,0,0,1
+2026-08-14,Direct,21,15,3,5
+2026-08-14,Organic Search,48,32,8,20
+2026-08-14,Referral,4,3,0,3
+2026-08-15,Direct,1,0,0,1
+2026-08-15,Organic Search,5,2,0,3
+2026-08-15,Referral,2,2,0,2
+2026-08-16,AI Assistant,2,1,0,1
+2026-08-16,Direct,6,5,0,6
+2026-08-16,Organic Search,51,43,1,45
+2026-08-16,Organic Social,1,1,0,1
+2026-08-16,Referral,5,4,0,4
+2026-08-17,Direct,31,21,2,9
+2026-08-17,Organic Search,93,68,13,46
+2026-08-17,Paid Search,1,0,0,0
+2026-08-17,Referral,10,7,1,5
+2026-08-17,Unassigned,1,0,0,0
+2026-08-18,Direct,21,14,3,8
+2026-08-18,Organic Search,80,53,4,37
+2026-08-18,Referral,11,8,1,7
+2026-08-18,Unassigned,3,0,0,0
+2026-08-19,AI Assistant,4,3,0,3
+2026-08-19,Direct,42,25,0,27
+2026-08-19,Organic Search,74,53,4,20
+2026-08-19,Referral,3,3,0,2
+2026-08-19,Unassigned,3,0,0,0
+2026-08-20,AI Assistant,5,4,0,4
+2026-08-20,Direct,22,15,3,6
+2026-08-20,Organic Search,73,57,7,39
+2026-08-20,Paid Search,1,1,0,0
+2026-08-20,Referral,3,3,0,3
+2026-08-21,AI Assistant,1,0,0,1
+2026-08-21,Direct,28,17,0,13
+2026-08-21,Organic Search,79,57,14,31
+2026-08-21,Referral,6,5,0,2
+2026-08-21,Unassigned,2,0,0,0
+2026-08-22,AI Assistant,2,2,0,2
+2026-08-22,Direct,2,2,0,2
+2026-08-22,Organic Search,8,4,0,6
+2026-08-23,Direct,3,1,0,1
+2026-08-23,Organic Search,8,4,0,6
+2026-08-24,AI Assistant,3,2,1,2
+2026-08-24,Direct,40,24,0,17
+2026-08-24,Organic Search,87,62,15,44
+2026-08-24,Referral,9,6,0,5
+2026-08-24,Unassigned,1,0,0,0
+2026-08-25,AI Assistant,2,1,0,2
+2026-08-25,Direct,31,23,2,13
+2026-08-25,Organic Search,70,46,7,22
+2026-08-25,Referral,10,7,1,3
+2026-08-25,Unassigned,1,0,0,0
+2026-08-26,AI Assistant,3,2,0,0
+2026-08-26,Direct,29,21,6,12
+2026-08-26,Organic Search,88,62,8,38
+2026-08-26,Organic Social,7,5,0,7
+2026-08-26,Referral,4,3,0,3
+2026-08-27,AI Assistant,3,3,1,2
+2026-08-27,Direct,42,27,4,18
+2026-08-27,Organic Search,72,44,11,31
+2026-08-27,Paid Search,1,1,0,0
+2026-08-27,Referral,7,4,2,3
+2026-08-28,AI Assistant,3,1,0,2
+2026-08-28,Direct,41,23,1,13
+2026-08-28,Organic Search,77,59,2,43
+2026-08-28,Referral,8,6,0,3
+2026-08-28,Unassigned,2,0,0,0
+2026-08-29,AI Assistant,1,0,0,1
+2026-08-29,Direct,7,5,1,5
+2026-08-29,Organic Search,14,7,0,5
+2026-08-29,Referral,2,2,0,2
+2026-08-30,AI Assistant,1,1,0,1
+2026-08-30,Direct,3,2,0,1
+2026-08-30,Organic Search,19,13,1,14
+2026-08-30,Referral,2,1,0,1
+2026-08-31,AI Assistant,4,3,0,4
+2026-08-31,Direct,39,25,0,10
+2026-08-31,Organic Search,106,69,11,45
+2026-08-31,Referral,4,1,0,2
+2026-08-31,Unassigned,2,0,0,0
+2026-09-01,AI Assistant,6,5,0,3
+2026-09-01,Direct,51,31,4,17
+2026-09-01,Organic Search,114,75,16,38
+2026-09-01,Organic Social,1,1,0,1
+2026-09-01,Referral,5,3,0,4
+2026-09-01,Unassigned,1,0,0,0
+2026-09-02,AI Assistant,1,0,0,1
+2026-09-02,Direct,44,31,12,11
+2026-09-02,Organic Search,84,62,10,29
+2026-09-02,Organic Social,2,2,0,2
+2026-09-02,Paid Search,1,1,0,0
+2026-09-02,Referral,3,3,0,3
+2026-09-02,Unassigned,3,0,1,0
+2026-09-03,AI Assistant,2,2,0,2
+2026-09-03,Direct,37,24,5,14
+2026-09-03,Organic Search,87,54,14,31
+2026-09-03,Organic Social,1,1,0,1
+2026-09-03,Paid Search,4,3,0,1
+2026-09-03,Referral,3,1,0,3
+2026-09-03,Unassigned,5,0,1,0
+2026-09-04,AI Assistant,2,1,0,1
+2026-09-04,Direct,36,13,2,21
+2026-09-04,Organic Search,65,47,5,24
+2026-09-04,Paid Search,2,2,0,0
+2026-09-04,Referral,7,5,0,3
+2026-09-04,Unassigned,1,0,0,0
+2026-09-05,AI Assistant,1,1,0,0
+2026-09-05,Direct,2,1,0,1
+2026-09-05,Organic Search,21,14,1,12
+2026-09-06,AI Assistant,3,1,1,2
+2026-09-06,Direct,9,6,0,5
+2026-09-06,Organic Search,12,8,5,8
+2026-09-06,Referral,1,1,0,1
+2026-09-07,AI Assistant,6,2,0,4
+2026-09-07,Direct,51,32,8,12
+2026-09-07,Organic Search,70,47,12,30
+2026-09-07,Referral,5,3,0,5
+2026-09-08,AI Assistant,8,2,0,5
+2026-09-08,Direct,45,29,14,13
+2026-09-08,Organic Search,95,62,6,40
+2026-09-08,Referral,12,7,0,5
+2026-09-08,Unassigned,4,0,0,0
+2026-09-09,AI Assistant,1,1,0,0
+2026-09-09,Direct,43,20,2,19
+2026-09-09,Organic Search,93,57,10,32
+2026-09-09,Paid Search,2,1,2,1
+2026-09-09,Referral,6,5,5,4
+2026-09-09,Unassigned,1,0,0,0
+2026-09-10,Direct,62,29,10,24
+2026-09-10,Organic Search,97,56,12,26
+2026-09-10,Organic Social,42,30,0,35
+2026-09-10,Paid Search,1,1,0,1
+2026-09-10,Referral,12,8,1,10
+2026-09-10,Unassigned,6,0,1,0
+2026-09-11,Direct,33,20,5,18
+2026-09-11,Organic Search,67,41,5,20
+2026-09-11,Organic Social,22,17,0,20
+2026-09-11,Referral,7,3,0,2
+2026-09-11,Unassigned,1,0,0,0
+2026-09-12,Direct,1,1,0,1
+2026-09-12,Organic Search,11,8,0,8
+2026-09-12,Organic Social,3,2,0,3
+2026-09-13,AI Assistant,2,2,1,2
+2026-09-13,Direct,4,3,0,3
+2026-09-13,Organic Search,9,4,0,4
+2026-09-13,Organic Social,4,4,0,4
+2026-09-13,Referral,1,0,0,0
+2026-09-14,AI Assistant,3,1,0,3
+2026-09-14,Direct,30,18,2,9
+2026-09-14,Organic Search,113,71,9,38
+2026-09-14,Organic Social,1,1,0,1
+2026-09-14,Referral,8,7,0,4
+2026-09-14,Unassigned,2,0,0,0
+2026-09-15,AI Assistant,8,6,2,6
+2026-09-15,Direct,28,18,3,9
+2026-09-15,Organic Search,95,69,2,35
+2026-09-15,Organic Social,4,3,0,2
+2026-09-15,Referral,5,5,0,2
+2026-09-16,AI Assistant,3,2,1,2
+2026-09-16,Direct,42,27,2,7
+2026-09-16,Organic Search,89,56,15,35
+2026-09-16,Organic Social,4,3,0,4
+2026-09-16,Referral,7,5,0,1
+2026-09-16,Unassigned,1,0,0,0
+2026-09-17,AI Assistant,3,1,1,3
+2026-09-17,Direct,51,27,3,22
+2026-09-17,Organic Search,97,62,8,48
+2026-09-17,Organic Social,1,1,0,1
+2026-09-17,Paid Search,1,0,0,1
+2026-09-17,Referral,11,9,0,4
+2026-09-17,Unassigned,2,0,0,0
+2026-09-18,Direct,45,23,3,16
+2026-09-18,Organic Search,64,41,5,22
+2026-09-18,Organic Video,1,1,1,1
+2026-09-18,Referral,10,8,2,4
+2026-09-18,Unassigned,5,0,0,0
+2026-09-19,Direct,9,8,1,2
+2026-09-19,Organic Search,18,13,2,11
+2026-09-19,Organic Social,4,2,0,2
+2026-09-19,Unassigned,1,0,1,0
+2026-09-20,AI Assistant,4,2,0,3
+2026-09-20,Direct,12,8,1,9
+2026-09-20,Organic Search,18,11,0,11
+2026-09-20,Organic Social,3,2,0,2
+2026-09-20,Referral,4,4,0,4
+2026-09-21,AI Assistant,4,1,0,2
+2026-09-21,Direct,43,33,4,8
+2026-09-21,Organic Search,103,70,10,41
+2026-09-21,Organic Social,1,0,0,1
+2026-09-21,Referral,7,5,1,3
+2026-09-21,Unassigned,1,0,0,0
+2026-09-22,AI Assistant,3,0,0,2
+2026-09-22,Direct,31,23,10,7
+2026-09-22,Organic Search,89,61,15,37
+2026-09-22,Organic Social,1,1,0,0
+2026-09-22,Referral,9,4,0,5
+2026-09-22,Unassigned,3,0,0,0
+2026-09-23,AI Assistant,7,2,2,3
+2026-09-23,Direct,47,27,0,16
+2026-09-23,Organic Search,101,72,11,31
+2026-09-23,Referral,18,12,2,8
+2026-09-23,Unassigned,7,0,0,0
+2026-09-24,AI Assistant,2,2,2,1
+2026-09-24,Direct,42,32,4,24
+2026-09-24,Organic Search,106,63,15,36
+2026-09-24,Organic Social,1,1,0,1
+2026-09-24,Paid Search,2,2,0,1
+2026-09-24,Referral,15,13,0,7
+2026-09-24,Unassigned,2,0,0,0
+2026-09-25,AI Assistant,7,5,0,4
+2026-09-25,Direct,17,10,3,3
+2026-09-25,Organic Search,82,52,13,31
+2026-09-25,Paid Search,2,1,0,0
+2026-09-25,Referral,7,4,2,2
+2026-09-25,Unassigned,5,0,0,0
+2026-09-26,Direct,4,1,0,3
+2026-09-26,Organic Search,49,29,0,30
+2026-09-26,Organic Social,2,1,0,2
+2026-09-26,Referral,2,2,0,1
+2026-09-26,Unassigned,1,0,0,0
+2026-09-27,AI Assistant,1,0,0,1
+2026-09-27,Direct,5,3,0,4
+2026-09-27,Organic Search,17,10,2,9
+2026-09-28,Direct,43,23,7,13
+2026-09-28,Organic Search,99,63,7,34
+2026-09-28,Referral,4,4,1,3
+2026-09-28,Unassigned,3,0,0,0
+2026-09-29,AI Assistant,2,1,0,2
+2026-09-29,Direct,63,47,5,25
+2026-09-29,Organic Search,100,69,9,48
+2026-09-29,Organic Social,2,2,0,1
+2026-09-29,Referral,3,2,0,1
+2026-09-29,Unassigned,9,0,0,0
+2026-09-30,AI Assistant,2,0,0,0
+2026-09-30,Direct,34,21,1,12
+2026-09-30,Organic Search,77,53,11,25
+2026-09-30,Referral,6,2,0,1
+2026-09-30,Unassigned,1,0,0,0
+2026-10-01,AI Assistant,3,1,0,2
+2026-10-01,Direct,40,27,2,16
+2026-10-01,Organic Search,107,70,19,43
+2026-10-01,Organic Social,1,0,0,0
+2026-10-01,Paid Search,1,1,0,1
+2026-10-01,Referral,20,16,0,5
+2026-10-01,Unassigned,4,0,0,0
+2026-10-02,AI Assistant,4,1,0,4
+2026-10-02,Direct,38,22,6,10
+2026-10-02,Organic Search,91,58,7,33
+2026-10-02,Organic Social,1,0,0,1
+2026-10-02,Paid Search,1,0,0,0
+2026-10-02,Referral,13,8,0,5
+2026-10-02,Unassigned,5,0,0,0
+2026-10-03,AI Assistant,2,1,0,2
+2026-10-03,Direct,5,3,0,4
+2026-10-03,Organic Search,17,12,0,13
+2026-10-03,Referral,1,1,0,1
+2026-10-04,AI Assistant,6,4,0,6
+2026-10-04,Direct,5,1,0,4
+2026-10-04,Organic Search,17,9,1,8
+2026-10-04,Organic Social,1,1,0,1
+2026-10-05,AI Assistant,5,1,0,2
+2026-10-05,Direct,57,44,5,16
+2026-10-05,Organic Search,94,64,8,48
+2026-10-05,Organic Social,4,2,0,1
+2026-10-05,Organic Video,2,1,1,1
+2026-10-05,Referral,8,6,2,1
+2026-10-05,Unassigned,1,0,0,0
+2026-10-06,AI Assistant,8,5,1,4
+2026-10-06,Direct,52,34,5,18
+2026-10-06,Organic Search,95,66,13,42
+2026-10-06,Paid Search,3,3,0,0
+2026-10-06,Referral,5,4,0,4
+2026-10-06,Unassigned,1,0,0,0
+2026-10-07,AI Assistant,3,2,0,2
+2026-10-07,Direct,26,18,3,10
+2026-10-07,Organic Search,115,70,24,35
+2026-10-07,Referral,10,4,0,1
+2026-10-07,Unassigned,2,0,0,0
+2026-10-08,AI Assistant,2,2,0,2
+2026-10-08,Direct,53,35,7,14
+2026-10-08,Organic Search,102,67,20,39
+2026-10-08,Paid Search,3,1,0,0
+2026-10-08,Referral,3,3,0,1
+2026-10-08,Unassigned,8,0,0,0
+2026-10-09,AI Assistant,2,2,0,2
+2026-10-09,Direct,26,15,12,9
+2026-10-09,Organic Search,68,42,12,28
+2026-10-09,Organic Social,1,0,0,1
+2026-10-09,Paid Search,1,0,0,0
+2026-10-09,Referral,8,7,0,5
+2026-10-09,Unassigned,3,0,0,0
+2026-10-10,Direct,21,15,1,4
+2026-10-10,Organic Search,15,12,1,11
+2026-10-10,Referral,2,1,0,1
+2026-10-11,AI Assistant,3,1,1,3
+2026-10-11,Direct,11,7,0,5
+2026-10-11,Organic Search,12,9,0,7
+2026-10-11,Referral,2,1,0,1
+2026-10-11,Unassigned,1,0,0,0
+2026-10-12,AI Assistant,3,1,0,1
+2026-10-12,Direct,52,32,5,17
+2026-10-12,Organic Search,97,68,14,35
+2026-10-12,Referral,7,7,0,4
+2026-10-12,Unassigned,3,0,0,0
+2026-10-13,Direct,44,24,6,18
+2026-10-13,Organic Search,80,54,14,26
+2026-10-13,Referral,6,4,0,4
+2026-10-13,Unassigned,2,0,0,0
+2026-10-14,AI Assistant,2,2,0,1
+2026-10-14,Direct,43,22,3,14
+2026-10-14,Organic Search,76,52,3,33
+2026-10-14,Referral,13,8,0,8
+2026-10-14,Unassigned,2,0,0,0
+2026-10-15,AI Assistant,3,2,0,2
+2026-10-15,Direct,31,19,3,12
+2026-10-15,Organic Search,95,67,25,43
+2026-10-15,Referral,6,5,0,3
+2026-10-15,Unassigned,6,0,3,0
+2026-10-16,Direct,36,18,2,15
+2026-10-16,Organic Search,70,42,12,24
+2026-10-16,Referral,6,4,0,3
+2026-10-16,Unassigned,1,0,0,0
+2026-10-17,AI Assistant,1,1,1,1
+2026-10-17,Direct,3,2,1,2
+2026-10-17,Organic Search,18,11,0,10
+2026-10-17,Referral,1,1,0,1
+2026-10-18,AI Assistant,5,4,0,5
+2026-10-18,Direct,5,2,1,3
+2026-10-18,Organic Search,15,10,1,9
+2026-10-19,AI Assistant,2,1,0,1
+2026-10-19,Direct,33,21,2,11
+2026-10-19,Organic Search,113,74,19,43
+2026-10-19,Referral,10,7,0,4
