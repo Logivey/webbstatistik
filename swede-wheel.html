@@ -364,7 +364,8 @@ window.sw = {
       const bv = { cur_sessions: bc.s, cur_days: bc.d, prev_sessions: bp.s, prev_days: bp.d };
       botsEl.querySelectorAll('.sw-b').forEach((el) => { el.textContent = window.sw.nf.format(bv[el.dataset.b]); });
       const F = ['sessions', 'engaged_sessions', 'conversions', 'new_users'];
-      const gc = by(cur.filter((r) => !isBot(r)), 'channel', F), gp = by(prev.filter((r) => !isBot(r)), 'channel', F);
+      const merge = (r) => (r.channel === 'Cross-network' || r.channel === 'Paid Search' ? { ...r, channel: 'Paid Search + PMax' } : r);
+      const gc = by(cur.filter((r) => !isBot(r)).map(merge), 'channel', F), gp = by(prev.filter((r) => !isBot(r)).map(merge), 'channel', F);
       const tot = (g) => { const t = Object.fromEntries(F.map((f) => [f, 0])); g.forEach((x) => F.forEach((f) => { t[f] += x[f]; })); return t; };
       const a = tot(gc), b = tot(gp);
       const er = (x) => (x.sessions ? x.engaged_sessions / x.sessions : null);
@@ -453,8 +454,8 @@ dash.calc('monthly_clean', {
 (() => {
   const box = document.getElementById('sw-trend');
   const legend = document.getElementById('sw-trend-legend');
-  const order = ['Organic Search', 'Direct', 'Paid Search', 'Cross-network', 'Referral', 'Paid Social', 'AI Assistant'];
-  const label = { 'Organic Search': 'Organisk sök', 'Direct': 'Direkt', 'Paid Search': 'Betald sök', 'Cross-network': 'Performance Max', 'Referral': 'Referral', 'Paid Social': 'Betald social', 'AI Assistant': 'AI-assistent' };
+  const order = ['Organic Search', 'Direct', 'Paid Search', 'Referral', 'Paid Social', 'AI Assistant'];
+  const label = { 'Organic Search': 'Organisk sök', 'Direct': 'Direkt', 'Paid Search': 'Betald sök + Performance Max', 'Referral': 'Referral', 'Paid Social': 'Betald social', 'AI Assistant': 'AI-assistent' };
   const monthFmt = (dt) => dt.toLocaleDateString('sv-SE', { month: 'short', year: '2-digit', timeZone: 'UTC' });
   const longFmt = (dt) => dt.toLocaleDateString('sv-SE', { month: 'long', year: 'numeric', timeZone: 'UTC' });
   const pauseMonth = new Date(Date.UTC(2026, 6, 1));
@@ -474,8 +475,9 @@ dash.calc('monthly_clean', {
     const agg = new Map();
     for (const r of d.data) {
       if (!nDays || r.date < p.start || r.date > p.end) continue;
-      const b = bucket(r.date), k = b + '|' + r.channel;
-      const g = agg.get(k) || { yearMonth: b, sessionDefaultChannelGrouping: r.channel, sessions: 0 };
+      const ch = r.channel === 'Cross-network' ? 'Paid Search' : r.channel;
+      const b = bucket(r.date), k = b + '|' + ch;
+      const g = agg.get(k) || { yearMonth: b, sessionDefaultChannelGrouping: ch, sessions: 0 };
       g.sessions += r.sessions; agg.set(k, g);
     }
     const allRows = [...agg.values()];
