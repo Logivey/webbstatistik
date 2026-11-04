@@ -463,8 +463,8 @@ dash.calc('monthly_clean', {
 (() => {
   const box = document.getElementById('sw-trend');
   const legend = document.getElementById('sw-trend-legend');
-  const order = ['Organic Search', 'Direct', 'Paid Search', 'Cross-network', 'Referral', 'Paid Social'];
-  const label = { 'Organic Search': 'Organisk sök', 'Direct': 'Direkt', 'Paid Search': 'Betald sök', 'Cross-network': 'Performance Max', 'Referral': 'Referral', 'Paid Social': 'Betald social' };
+  const order = ['Organic Search', 'Direct', 'Paid Search', 'Cross-network', 'Referral', 'Paid Social', 'AI Assistant'];
+  const label = { 'Organic Search': 'Organisk sök', 'Direct': 'Direkt', 'Paid Search': 'Betald sök', 'Cross-network': 'Performance Max', 'Referral': 'Referral', 'Paid Social': 'Betald social', 'AI Assistant': 'AI-assistent' };
   const monthFmt = (dt) => dt.toLocaleDateString('sv-SE', { month: 'short', year: '2-digit', timeZone: 'UTC' });
   const longFmt = (dt) => dt.toLocaleDateString('sv-SE', { month: 'long', year: 'numeric', timeZone: 'UTC' });
   const pauseMonth = new Date(Date.UTC(2026, 6, 1));
