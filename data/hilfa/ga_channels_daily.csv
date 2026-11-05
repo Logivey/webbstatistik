@@ -1,102 +1,96 @@
 date,channel,sessions,engaged_sessions,conversions,new_users
-2024-11-03,Direct,3,2,0,2
-2024-11-03,Organic Search,5,4,4,4
-2024-11-03,Referral,2,2,0,1
-2024-11-04,Direct,16,11,4,4
-2024-11-04,Organic Search,31,23,12,11
-2024-11-04,Referral,2,2,0,0
 2024-11-05,Direct,24,18,14,7
 2024-11-05,Organic Search,26,16,7,9
 2024-11-05,Referral,3,2,0,1
-2024-11-06,Direct,20,14,4,4
 2024-11-06,Organic Search,19,15,15,13
+2024-11-06,Direct,20,14,4,4
 2024-11-06,Referral,3,2,0,3
-2024-11-07,Direct,12,12,4,3
 2024-11-07,Organic Search,25,15,7,11
-2024-11-08,Direct,21,11,0,6
+2024-11-07,Direct,12,12,4,3
 2024-11-08,Organic Search,21,14,14,8
+2024-11-08,Direct,21,11,0,6
 2024-11-08,Referral,3,2,0,1
 2024-11-09,Direct,8,3,5,2
 2024-11-09,Organic Search,4,4,1,4
 2024-11-09,Referral,2,2,0,0
-2024-11-10,Direct,2,1,0,2
 2024-11-10,Organic Search,12,11,9,7
-2024-11-11,Direct,12,7,0,2
+2024-11-10,Direct,2,1,0,2
 2024-11-11,Organic Search,19,14,12,9
+2024-11-11,Direct,12,7,0,2
 2024-11-11,Referral,5,2,0,0
 2024-11-11,Unassigned,1,0,0,0
 2024-11-12,Direct,22,16,12,11
 2024-11-12,Organic Search,37,26,10,18
-2024-11-13,Direct,10,6,2,3
 2024-11-13,Organic Search,33,21,14,16
+2024-11-13,Direct,10,6,2,3
 2024-11-13,Referral,1,1,0,1
 2024-11-13,Unassigned,2,0,0,0
-2024-11-14,Direct,15,13,5,9
 2024-11-14,Organic Search,31,21,14,15
+2024-11-14,Direct,15,13,5,9
 2024-11-14,Referral,8,6,2,3
-2024-11-15,Direct,13,9,2,1
 2024-11-15,Organic Search,32,22,10,15
 2024-11-15,Referral,4,4,10,1
+2024-11-15,Direct,13,9,2,1
+2024-11-16,Referral,3,3,4,2
 2024-11-16,Direct,3,1,0,2
 2024-11-16,Organic Search,3,2,0,2
-2024-11-16,Referral,3,3,4,2
-2024-11-17,Direct,2,0,0,0
 2024-11-17,Referral,1,1,2,0
-2024-11-18,Direct,16,12,8,6
+2024-11-17,Direct,2,0,0,0
 2024-11-18,Organic Search,35,28,27,13
+2024-11-18,Direct,16,12,8,6
 2024-11-18,Referral,1,1,2,0
-2024-11-19,Direct,20,11,10,8
 2024-11-19,Organic Search,41,32,56,15
+2024-11-19,Direct,20,11,10,8
 2024-11-19,Referral,1,1,2,0
-2024-11-20,Direct,17,10,7,3
 2024-11-20,Organic Search,48,35,22,23
+2024-11-20,Direct,17,10,7,3
 2024-11-20,Referral,3,2,4,1
-2024-11-21,Direct,20,12,4,5
 2024-11-21,Organic Search,30,24,19,14
+2024-11-21,Direct,20,12,4,5
 2024-11-21,Organic Social,1,1,2,1
-2024-11-22,Direct,5,4,0,3
 2024-11-22,Organic Search,26,21,12,10
 2024-11-22,Referral,6,3,3,1
-2024-11-23,Direct,3,3,2,2
+2024-11-22,Direct,5,4,0,3
 2024-11-23,Organic Search,7,5,5,4
+2024-11-23,Direct,3,3,2,2
 2024-11-24,Direct,5,3,7,2
 2024-11-24,Organic Search,5,5,3,4
-2024-11-25,Direct,16,12,6,6
 2024-11-25,Organic Search,27,19,11,10
+2024-11-25,Direct,16,12,6,6
 2024-11-25,Referral,2,2,0,0
-2024-11-26,Direct,26,16,6,10
 2024-11-26,Organic Search,26,19,11,14
+2024-11-26,Direct,26,16,6,10
 2024-11-26,Referral,8,5,2,0
-2024-11-27,Direct,9,6,7,4
 2024-11-27,Organic Search,38,27,23,12
+2024-11-27,Direct,9,6,7,4
 2024-11-27,Referral,4,4,0,0
-2024-11-28,Direct,18,13,6,5
 2024-11-28,Organic Search,32,24,15,15
+2024-11-28,Direct,18,13,6,5
 2024-11-28,Referral,6,3,2,0
-2024-11-29,Direct,12,9,0,2
 2024-11-29,Organic Search,16,9,10,8
+2024-11-29,Direct,12,9,0,2
 2024-11-29,Referral,3,0,0,0
-2024-11-30,Direct,2,2,0,1
 2024-11-30,Organic Search,2,2,4,2
+2024-11-30,Direct,2,2,0,1
 2024-12-01,Direct,3,3,0,3
 2024-12-01,Organic Search,1,1,0,1
-2024-12-02,Direct,12,8,6,4
 2024-12-02,Organic Search,26,20,14,8
+2024-12-02,Direct,12,8,6,4
 2024-12-02,Referral,1,1,0,0
-2024-12-03,Direct,15,10,2,5
 2024-12-03,Organic Search,44,26,14,16
+2024-12-03,Direct,15,10,2,5
 2024-12-03,Referral,2,2,0,0
-2024-12-04,Direct,8,7,1,4
 2024-12-04,Organic Search,26,20,12,8
 2024-12-04,Referral,6,5,2,2
-2024-12-05,Direct,8,4,1,1
+2024-12-04,Direct,8,7,1,4
 2024-12-05,Organic Search,22,15,10,8
+2024-12-05,Direct,8,4,1,1
 2024-12-05,Referral,2,1,0,1
-2024-12-06,Direct,6,4,0,3
 2024-12-06,Organic Search,9,7,7,3
+2024-12-06,Direct,6,4,0,3
 2024-12-06,Referral,5,2,0,2
-2024-12-07,Direct,1,1,0,1
 2024-12-07,Organic Search,11,9,9,7
+2024-12-07,Direct,1,1,0,1
 2024-12-07,Referral,3,2,0,0
 2024-12-08,Organic Search,9,7,2,8
 2024-12-09,Direct,14,12,6,5
@@ -105,51 +99,51 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2024-12-10,Direct,10,7,6,6
 2024-12-10,Organic Search,21,16,2,6
 2024-12-10,Referral,3,1,0,0
-2024-12-11,Direct,3,2,0,1
 2024-12-11,Organic Search,39,26,10,17
+2024-12-11,Direct,3,2,0,1
 2024-12-11,Referral,6,6,0,1
-2024-12-12,Direct,17,13,3,8
 2024-12-12,Organic Search,32,22,13,10
 2024-12-12,Referral,8,7,5,1
-2024-12-13,Direct,11,8,9,4
+2024-12-12,Direct,17,13,3,8
 2024-12-13,Organic Search,22,19,25,12
+2024-12-13,Direct,11,8,9,4
 2024-12-13,Referral,7,6,0,2
 2024-12-14,Organic Search,2,2,3,1
 2024-12-15,Direct,2,1,0,1
 2024-12-15,Organic Search,4,4,0,2
-2024-12-16,Direct,24,15,4,8
 2024-12-16,Organic Search,33,27,10,11
+2024-12-16,Direct,24,15,4,8
 2024-12-16,Referral,3,0,0,0
 2024-12-16,Unassigned,3,0,0,0
-2024-12-17,Direct,23,17,2,12
 2024-12-17,Organic Search,31,22,20,10
+2024-12-17,Direct,23,17,2,12
 2024-12-17,Referral,5,4,2,0
-2024-12-18,Direct,12,3,0,0
 2024-12-18,Organic Search,25,20,16,12
 2024-12-18,Referral,3,2,1,0
+2024-12-18,Direct,12,3,0,0
 2024-12-18,Unassigned,1,0,0,0
-2024-12-19,Direct,11,8,2,3
 2024-12-19,Organic Search,19,14,14,6
 2024-12-19,Referral,8,7,4,0
-2024-12-20,Direct,8,4,3,2
+2024-12-19,Direct,11,8,2,3
 2024-12-20,Organic Search,27,23,26,16
+2024-12-20,Direct,8,4,3,2
 2024-12-20,Referral,3,3,2,1
-2024-12-21,Direct,3,1,5,2
 2024-12-21,Organic Search,7,6,6,5
+2024-12-21,Direct,3,1,5,2
 2024-12-22,Organic Search,5,5,2,4
-2024-12-23,Direct,1,0,0,0
 2024-12-23,Organic Search,4,3,5,2
+2024-12-23,Direct,1,0,0,0
 2024-12-24,Direct,2,2,7,2
 2024-12-24,Organic Search,1,1,0,1
 2024-12-25,Direct,2,2,0,1
 2024-12-25,Organic Search,6,5,0,4
 2024-12-25,Referral,1,1,0,0
-2024-12-26,Direct,1,1,0,0
 2024-12-26,Organic Search,5,3,2,5
+2024-12-26,Direct,1,1,0,0
 2024-12-27,Direct,2,1,0,1
 2024-12-27,Organic Search,1,0,0,1
-2024-12-28,Direct,1,1,1,1
 2024-12-28,Organic Search,8,5,4,6
+2024-12-28,Direct,1,1,1,1
 2024-12-29,Direct,1,1,2,1
 2024-12-29,Organic Search,2,2,0,2
 2024-12-30,Direct,1,1,0,1
@@ -162,307 +156,307 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-01-02,Direct,6,6,2,1
 2025-01-02,Organic Search,10,6,1,5
 2025-01-02,Referral,1,1,0,1
-2025-01-03,Direct,4,3,1,0
 2025-01-03,Organic Search,9,8,3,9
+2025-01-03,Direct,4,3,1,0
 2025-01-04,Organic Search,3,2,0,2
 2025-01-05,Organic Search,3,2,2,2
-2025-01-06,Direct,1,0,0,1
 2025-01-06,Organic Search,6,6,6,5
 2025-01-06,Referral,2,2,2,1
-2025-01-07,Direct,14,10,5,5
+2025-01-06,Direct,1,0,0,1
 2025-01-07,Organic Search,29,20,12,12
+2025-01-07,Direct,14,10,5,5
 2025-01-07,Referral,1,1,0,0
-2025-01-08,Direct,12,8,5,6
 2025-01-08,Organic Search,34,26,20,9
+2025-01-08,Direct,12,8,5,6
 2025-01-08,Referral,5,3,0,1
-2025-01-09,Direct,11,8,6,2
 2025-01-09,Organic Search,32,28,21,7
+2025-01-09,Direct,11,8,6,2
 2025-01-09,Referral,3,2,0,0
-2025-01-10,Direct,6,2,0,2
 2025-01-10,Organic Search,15,12,17,3
+2025-01-10,Direct,6,2,0,2
 2025-01-10,Referral,3,3,0,0
 2025-01-11,Direct,3,2,2,2
 2025-01-11,Organic Search,4,2,0,4
 2025-01-12,Organic Search,2,1,0,2
-2025-01-13,Direct,8,4,3,3
 2025-01-13,Organic Search,26,19,14,9
+2025-01-13,Direct,8,4,3,3
 2025-01-13,Referral,2,1,0,0
 2025-01-13,Unassigned,1,0,0,0
-2025-01-14,Direct,9,5,0,0
 2025-01-14,Organic Search,17,12,6,8
 2025-01-14,Referral,1,1,5,0
-2025-01-15,Direct,10,6,4,4
+2025-01-14,Direct,9,5,0,0
 2025-01-15,Organic Search,21,15,20,11
+2025-01-15,Direct,10,6,4,4
 2025-01-15,Referral,9,5,0,2
-2025-01-16,Direct,6,2,2,4
 2025-01-16,Organic Search,37,25,11,21
+2025-01-16,Direct,6,2,2,4
 2025-01-16,Referral,7,5,0,0
-2025-01-17,Direct,7,5,3,1
 2025-01-17,Organic Search,20,14,9,6
+2025-01-17,Direct,7,5,3,1
 2025-01-17,Referral,2,2,2,1
-2025-01-18,Direct,1,1,0,1
 2025-01-18,Organic Search,3,3,2,3
+2025-01-18,Direct,1,1,0,1
 2025-01-19,Organic Search,6,5,2,5
 2025-01-19,Referral,2,0,0,0
 2025-01-20,Direct,15,11,12,6
 2025-01-20,Organic Search,30,24,10,10
 2025-01-20,Referral,7,6,0,0
-2025-01-21,Direct,8,6,1,5
 2025-01-21,Organic Search,29,17,10,14
 2025-01-21,Referral,4,3,3,1
-2025-01-22,Direct,9,6,5,3
+2025-01-21,Direct,8,6,1,5
 2025-01-22,Organic Search,30,23,10,11
+2025-01-22,Direct,9,6,5,3
 2025-01-22,Referral,3,3,2,1
-2025-01-23,Direct,7,4,2,1
 2025-01-23,Organic Search,29,22,16,11
+2025-01-23,Direct,7,4,2,1
 2025-01-23,Referral,2,2,0,0
 2025-01-24,Direct,22,15,15,5
 2025-01-24,Organic Search,27,21,10,12
 2025-01-24,Referral,6,5,0,1
-2025-01-25,Direct,1,0,0,0
 2025-01-25,Organic Search,5,4,2,5
-2025-01-26,Direct,2,1,3,1
+2025-01-25,Direct,1,0,0,0
 2025-01-26,Organic Search,6,6,4,5
-2025-01-27,Direct,11,8,2,7
+2025-01-26,Direct,2,1,3,1
 2025-01-27,Organic Search,39,24,9,13
+2025-01-27,Direct,11,8,2,7
 2025-01-27,Referral,4,4,2,1
-2025-01-28,Direct,8,6,2,4
 2025-01-28,Organic Search,31,23,13,13
+2025-01-28,Direct,8,6,2,4
 2025-01-28,Referral,10,7,2,0
-2025-01-29,Direct,5,3,0,1
 2025-01-29,Organic Search,42,30,22,23
+2025-01-29,Direct,5,3,0,1
 2025-01-29,Referral,5,2,0,0
-2025-01-30,Direct,6,3,0,3
 2025-01-30,Organic Search,22,16,8,10
 2025-01-30,Referral,14,11,1,2
-2025-01-31,Direct,6,5,5,3
+2025-01-30,Direct,6,3,0,3
 2025-01-31,Organic Search,26,23,9,7
+2025-01-31,Direct,6,5,5,3
 2025-01-31,Referral,5,5,1,1
-2025-02-01,Direct,2,1,0,1
 2025-02-01,Organic Search,5,4,2,2
-2025-02-02,Direct,3,1,0,2
-2025-02-02,Organic Search,3,2,1,3
+2025-02-01,Direct,2,1,0,1
 2025-02-02,Referral,2,1,10,0
-2025-02-03,Direct,12,6,7,1
+2025-02-02,Organic Search,3,2,1,3
+2025-02-02,Direct,3,1,0,2
 2025-02-03,Organic Search,34,24,20,16
+2025-02-03,Direct,12,6,7,1
 2025-02-03,Referral,10,6,0,0
-2025-02-04,Direct,15,10,8,2
-2025-02-04,Organic Search,33,25,24,15
 2025-02-04,Referral,6,6,35,1
-2025-02-05,Direct,12,10,4,1
+2025-02-04,Organic Search,33,25,24,15
+2025-02-04,Direct,15,10,8,2
 2025-02-05,Organic Search,34,26,14,14
+2025-02-05,Direct,12,10,4,1
 2025-02-05,Referral,5,3,0,0
-2025-02-06,Direct,9,6,4,3
 2025-02-06,Organic Search,29,23,10,8
+2025-02-06,Direct,9,6,4,3
 2025-02-06,Referral,2,2,0,0
-2025-02-07,Direct,8,5,4,2
 2025-02-07,Organic Search,26,22,21,10
+2025-02-07,Direct,8,5,4,2
 2025-02-07,Referral,3,2,0,0
 2025-02-08,Direct,2,1,2,1
 2025-02-08,Organic Search,4,4,0,2
 2025-02-08,Referral,1,1,0,0
-2025-02-09,Organic Search,6,6,1,4
 2025-02-09,Referral,3,3,6,0
-2025-02-10,Direct,9,6,0,2
+2025-02-09,Organic Search,6,6,1,4
 2025-02-10,Organic Search,24,17,10,9
+2025-02-10,Direct,9,6,0,2
 2025-02-10,Referral,3,2,0,0
 2025-02-10,Unassigned,1,0,0,0
-2025-02-11,Direct,10,7,2,4
 2025-02-11,Organic Search,27,19,16,11
+2025-02-11,Direct,10,7,2,4
 2025-02-11,Referral,2,1,0,0
-2025-02-12,Direct,15,10,0,5
 2025-02-12,Organic Search,39,28,21,12
 2025-02-12,Organic Social,1,1,2,1
+2025-02-12,Direct,15,10,0,5
 2025-02-12,Referral,1,1,0,0
-2025-02-13,Direct,10,7,0,4
 2025-02-13,Organic Search,33,20,4,8
+2025-02-13,Direct,10,7,0,4
 2025-02-13,Referral,6,2,0,1
-2025-02-14,Direct,13,10,0,6
 2025-02-14,Organic Search,18,11,4,5
+2025-02-14,Direct,13,10,0,6
 2025-02-14,Referral,3,2,0,1
 2025-02-15,Direct,1,1,3,1
 2025-02-15,Organic Search,10,7,2,8
 2025-02-15,Organic Social,1,0,0,1
-2025-02-16,Direct,2,1,0,1
 2025-02-16,Organic Search,8,4,1,2
-2025-02-17,Direct,11,8,0,3
+2025-02-16,Direct,2,1,0,1
 2025-02-17,Organic Search,40,28,17,16
 2025-02-17,Referral,10,8,3,3
-2025-02-18,Direct,8,6,0,2
+2025-02-17,Direct,11,8,0,3
 2025-02-18,Organic Search,27,19,11,6
+2025-02-18,Direct,8,6,0,2
 2025-02-18,Referral,3,3,0,0
-2025-02-19,Direct,16,8,1,5
 2025-02-19,Organic Search,44,28,13,19
 2025-02-19,Referral,1,1,2,0
+2025-02-19,Direct,16,8,1,5
 2025-02-19,Unassigned,1,0,0,0
-2025-02-20,Direct,13,6,0,8
 2025-02-20,Organic Search,40,32,13,11
 2025-02-20,Referral,3,3,2,0
-2025-02-21,Direct,14,10,10,4
+2025-02-20,Direct,13,6,0,8
 2025-02-21,Organic Search,20,15,12,8
+2025-02-21,Direct,14,10,10,4
 2025-02-21,Referral,1,1,0,0
-2025-02-22,Direct,1,0,0,0
 2025-02-22,Organic Search,3,2,1,3
+2025-02-22,Direct,1,0,0,0
 2025-02-22,Referral,2,0,0,0
 2025-02-23,Direct,16,15,12,13
 2025-02-23,Organic Search,6,4,3,5
 2025-02-23,Referral,1,1,2,0
-2025-02-24,Direct,11,9,9,5
 2025-02-24,Organic Search,37,28,23,17
+2025-02-24,Direct,11,9,9,5
 2025-02-24,Referral,6,5,2,1
 2025-02-25,Direct,12,9,11,3
 2025-02-25,Organic Search,34,25,10,9
 2025-02-25,Referral,8,5,2,0
-2025-02-26,Direct,16,9,4,8
 2025-02-26,Organic Search,23,16,10,14
 2025-02-26,Referral,10,9,6,0
+2025-02-26,Direct,16,9,4,8
 2025-02-26,Unassigned,1,0,0,0
-2025-02-27,Direct,23,15,5,8
 2025-02-27,Organic Search,38,27,17,9
+2025-02-27,Direct,23,15,5,8
 2025-02-27,Referral,5,3,0,0
-2025-02-28,Direct,6,3,7,3
 2025-02-28,Organic Search,21,14,13,11
+2025-02-28,Direct,6,3,7,3
 2025-02-28,Referral,4,0,0,0
-2025-03-01,Direct,2,2,0,1
 2025-03-01,Organic Search,9,8,8,7
+2025-03-01,Direct,2,2,0,1
 2025-03-02,Organic Search,4,3,2,3
-2025-03-03,Direct,5,4,2,3
 2025-03-03,Organic Search,18,12,4,7
+2025-03-03,Direct,5,4,2,3
 2025-03-03,Referral,6,5,1,0
 2025-03-04,Direct,14,10,6,1
 2025-03-04,Organic Search,41,27,6,9
 2025-03-04,Referral,5,3,0,1
-2025-03-05,Direct,11,8,8,4
 2025-03-05,Organic Search,49,36,30,19
+2025-03-05,Direct,11,8,8,4
 2025-03-05,Referral,2,2,0,1
-2025-03-06,Direct,13,9,8,1
 2025-03-06,Organic Search,29,20,17,8
+2025-03-06,Direct,13,9,8,1
 2025-03-06,Referral,3,3,0,0
-2025-03-07,Direct,22,14,0,4
 2025-03-07,Organic Search,24,14,4,8
 2025-03-07,Referral,3,1,2,1
+2025-03-07,Direct,22,14,0,4
 2025-03-08,Organic Search,6,3,3,5
 2025-03-08,Referral,1,0,0,1
-2025-03-09,Direct,3,1,0,1
 2025-03-09,Organic Search,5,3,6,4
-2025-03-10,Direct,18,16,4,3
+2025-03-09,Direct,3,1,0,1
 2025-03-10,Organic Search,45,36,18,27
+2025-03-10,Direct,18,16,4,3
 2025-03-10,Referral,8,6,2,2
-2025-03-11,Direct,30,22,6,5
 2025-03-11,Organic Search,46,32,23,17
+2025-03-11,Direct,30,22,6,5
 2025-03-11,Referral,4,3,0,2
-2025-03-12,Direct,22,19,5,4
 2025-03-12,Organic Search,30,27,18,16
+2025-03-12,Direct,22,19,5,4
 2025-03-12,Referral,2,0,0,0
-2025-03-13,Direct,20,15,4,6
 2025-03-13,Organic Search,32,23,7,11
+2025-03-13,Direct,20,15,4,6
 2025-03-13,Referral,5,3,0,3
-2025-03-14,Direct,7,5,0,1
 2025-03-14,Organic Search,18,15,11,6
+2025-03-14,Direct,7,5,0,1
 2025-03-14,Referral,10,5,0,0
 2025-03-15,Organic Search,6,4,3,4
 2025-03-15,Referral,1,1,0,0
-2025-03-16,Direct,4,2,2,0
 2025-03-16,Organic Search,10,7,5,9
+2025-03-16,Direct,4,2,2,0
 2025-03-16,Referral,1,0,0,0
-2025-03-17,Direct,24,21,6,17
 2025-03-17,Organic Search,41,32,18,22
+2025-03-17,Direct,24,21,6,17
 2025-03-17,Referral,6,3,0,1
 2025-03-17,Unassigned,1,0,0,0
-2025-03-18,Direct,22,15,4,8
 2025-03-18,Organic Search,32,28,21,13
+2025-03-18,Direct,22,15,4,8
 2025-03-18,Referral,9,6,4,4
-2025-03-19,Direct,10,8,5,1
 2025-03-19,Organic Search,44,27,15,19
+2025-03-19,Direct,10,8,5,1
 2025-03-19,Referral,3,2,2,1
-2025-03-20,Direct,11,6,5,3
 2025-03-20,Organic Search,41,24,8,14
 2025-03-20,Referral,6,4,8,0
-2025-03-21,Direct,7,5,3,3
+2025-03-20,Direct,11,6,5,3
 2025-03-21,Organic Search,31,18,8,10
+2025-03-21,Direct,7,5,3,3
 2025-03-21,Referral,3,2,0,0
 2025-03-22,Direct,2,2,2,1
 2025-03-22,Organic Search,3,1,0,3
-2025-03-23,Direct,2,1,0,1
 2025-03-23,Organic Search,8,8,4,7
+2025-03-23,Direct,2,1,0,1
 2025-03-23,Referral,1,1,0,0
-2025-03-24,Direct,6,3,1,1
 2025-03-24,Organic Search,38,26,18,19
+2025-03-24,Direct,6,3,1,1
 2025-03-24,Referral,2,2,1,0
-2025-03-25,Direct,24,19,7,9
 2025-03-25,Organic Search,65,44,18,19
+2025-03-25,Direct,24,19,7,9
 2025-03-25,Referral,4,3,0,1
 2025-03-26,Direct,27,13,14,5
 2025-03-26,Organic Search,50,37,13,16
 2025-03-26,Referral,3,2,0,1
-2025-03-27,Direct,12,9,4,2
 2025-03-27,Organic Search,43,30,9,18
+2025-03-27,Direct,12,9,4,2
 2025-03-27,Referral,5,2,2,3
-2025-03-28,Direct,10,7,4,5
 2025-03-28,Organic Search,32,20,19,11
+2025-03-28,Direct,10,7,4,5
 2025-03-28,Referral,6,4,0,1
 2025-03-29,Direct,1,1,0,1
 2025-03-29,Organic Search,2,1,0,2
 2025-03-30,Direct,2,2,2,2
 2025-03-30,Organic Search,6,3,0,4
-2025-03-31,Direct,12,10,2,4
 2025-03-31,Organic Search,32,27,11,14
 2025-03-31,Referral,9,5,5,3
-2025-04-01,Direct,7,5,0,1
+2025-03-31,Direct,12,10,2,4
 2025-04-01,Organic Search,32,20,7,15
+2025-04-01,Direct,7,5,0,1
 2025-04-01,Referral,9,5,0,1
 2025-04-02,Direct,13,9,8,4
 2025-04-02,Organic Search,30,20,8,10
 2025-04-02,Referral,5,5,4,4
 2025-04-02,Unassigned,1,0,1,0
-2025-04-03,Direct,13,6,2,1
 2025-04-03,Organic Search,21,14,7,4
-2025-04-03,Organic Social,1,1,0,1
 2025-04-03,Referral,12,9,4,2
+2025-04-03,Direct,13,6,2,1
+2025-04-03,Organic Social,1,1,0,1
 2025-04-03,Unassigned,1,0,0,0
-2025-04-04,Direct,6,5,0,1
 2025-04-04,Organic Search,21,17,13,13
+2025-04-04,Direct,6,5,0,1
 2025-04-04,Referral,3,1,0,1
 2025-04-04,Unassigned,1,0,0,0
-2025-04-05,Direct,1,1,0,1
 2025-04-05,Organic Search,3,3,1,3
+2025-04-05,Direct,1,1,0,1
 2025-04-05,Referral,1,0,0,0
-2025-04-06,Direct,3,1,0,2
 2025-04-06,Organic Search,5,3,2,2
-2025-04-07,Direct,16,11,2,6
+2025-04-06,Direct,3,1,0,2
 2025-04-07,Organic Search,25,18,17,11
+2025-04-07,Direct,16,11,2,6
 2025-04-07,Referral,3,2,0,0
 2025-04-07,Unassigned,1,0,0,0
 2025-04-08,Direct,22,14,7,2
 2025-04-08,Organic Search,21,15,3,9
-2025-04-08,Referral,2,1,0,0
 2025-04-08,Unassigned,1,0,1,0
-2025-04-09,Direct,24,15,5,7
+2025-04-08,Referral,2,1,0,0
 2025-04-09,Organic Search,41,32,10,18
+2025-04-09,Direct,24,15,5,7
 2025-04-09,Referral,3,2,2,1
 2025-04-09,Unassigned,7,0,0,0
-2025-04-10,Direct,3,2,5,1
 2025-04-10,Organic Search,42,29,16,18
+2025-04-10,Direct,3,2,5,1
 2025-04-10,Referral,4,1,0,0
 2025-04-10,Unassigned,5,0,0,0
 2025-04-11,Direct,7,6,6,3
 2025-04-11,Organic Search,28,16,4,10
 2025-04-11,Referral,4,3,2,1
 2025-04-11,Unassigned,2,0,2,0
-2025-04-12,Direct,1,1,0,0
 2025-04-12,Organic Search,5,4,5,5
+2025-04-12,Direct,1,1,0,0
 2025-04-13,Direct,1,1,5,0
 2025-04-13,Organic Search,2,1,0,1
 2025-04-13,Referral,1,0,0,0
-2025-04-14,Direct,19,11,0,8
 2025-04-14,Organic Search,33,22,8,15
 2025-04-14,Referral,12,7,4,2
 2025-04-14,Unassigned,4,0,3,0
-2025-04-15,Direct,8,6,3,3
+2025-04-14,Direct,19,11,0,8
 2025-04-15,Organic Search,29,27,21,14
+2025-04-15,Direct,8,6,3,3
 2025-04-15,Referral,6,5,2,0
-2025-04-16,Direct,15,8,5,10
 2025-04-16,Organic Search,21,16,12,11
+2025-04-16,Direct,15,8,5,10
 2025-04-16,Referral,4,3,2,1
 2025-04-17,Direct,14,9,6,5
 2025-04-17,Organic Search,14,8,6,4
@@ -470,167 +464,167 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-04-17,Unassigned,3,0,2,0
 2025-04-18,Direct,3,2,0,1
 2025-04-18,Organic Search,1,1,0,1
-2025-04-19,Direct,2,2,0,1
 2025-04-19,Organic Search,6,6,1,6
+2025-04-19,Direct,2,2,0,1
 2025-04-19,Referral,1,0,0,0
 2025-04-20,Organic Search,8,6,2,6
 2025-04-21,Direct,2,1,2,0
 2025-04-21,Organic Search,7,4,0,4
 2025-04-21,Referral,2,1,0,1
 2025-04-22,Direct,15,10,5,4
-2025-04-22,Organic Search,33,25,3,15
 2025-04-22,Referral,6,3,4,1
+2025-04-22,Organic Search,33,25,3,15
 2025-04-22,Unassigned,1,0,0,0
 2025-04-23,Direct,18,13,11,8
 2025-04-23,Organic Search,22,17,4,12
 2025-04-23,Unassigned,1,0,0,0
-2025-04-24,Direct,15,10,4,8
 2025-04-24,Organic Search,34,23,16,10
 2025-04-24,Referral,9,5,5,2
+2025-04-24,Direct,15,10,4,8
 2025-04-24,Unassigned,1,0,0,0
-2025-04-25,Direct,26,16,6,12
 2025-04-25,Organic Search,43,30,21,22
+2025-04-25,Direct,26,16,6,12
 2025-04-25,Referral,2,1,0,0
-2025-04-26,Direct,1,1,0,1
 2025-04-26,Organic Search,6,5,2,4
+2025-04-26,Direct,1,1,0,1
 2025-04-26,Referral,2,0,0,1
-2025-04-27,Direct,1,0,0,0
 2025-04-27,Organic Search,8,5,3,7
+2025-04-27,Direct,1,0,0,0
 2025-04-27,Referral,1,1,0,1
 2025-04-28,Direct,19,13,11,8
 2025-04-28,Organic Search,28,19,7,11
 2025-04-28,Referral,3,3,3,1
 2025-04-28,Unassigned,4,0,0,0
-2025-04-29,Direct,22,16,5,9
 2025-04-29,Organic Search,50,36,27,21
+2025-04-29,Direct,22,16,5,9
 2025-04-29,Referral,3,2,0,0
 2025-04-29,Unassigned,2,0,0,0
-2025-04-30,Direct,12,10,4,3
 2025-04-30,Organic Search,41,27,8,10
+2025-04-30,Direct,12,10,4,3
 2025-04-30,Referral,1,0,0,0
-2025-05-01,Direct,7,3,0,3
 2025-05-01,Organic Search,16,12,9,6
-2025-05-02,Direct,1,1,2,1
+2025-05-01,Direct,7,3,0,3
 2025-05-02,Organic Search,18,11,9,11
+2025-05-02,Direct,1,1,2,1
 2025-05-02,Referral,3,1,0,0
 2025-05-03,Direct,3,2,0,0
 2025-05-03,Organic Search,5,1,0,2
-2025-05-04,Direct,4,2,0,2
 2025-05-04,Organic Search,12,7,3,8
-2025-05-05,Direct,21,18,8,6
+2025-05-04,Direct,4,2,0,2
 2025-05-05,Organic Search,34,23,16,14
+2025-05-05,Direct,21,18,8,6
 2025-05-05,Organic Social,1,0,0,1
 2025-05-05,Referral,1,0,0,0
 2025-05-05,Unassigned,1,0,0,0
-2025-05-06,Direct,12,7,15,7
 2025-05-06,Organic Search,50,28,21,17
-2025-05-06,Organic Social,1,0,0,1
+2025-05-06,Direct,12,7,15,7
 2025-05-06,Unassigned,1,0,2,0
-2025-05-07,Direct,7,4,5,0
+2025-05-06,Organic Social,1,0,0,1
 2025-05-07,Organic Search,30,22,24,11
+2025-05-07,Direct,7,4,5,0
 2025-05-07,Referral,3,0,0,1
-2025-05-08,Direct,7,6,5,3
 2025-05-08,Organic Search,34,23,22,18
+2025-05-08,Direct,7,6,5,3
 2025-05-08,Organic Social,1,0,0,1
 2025-05-08,Unassigned,1,0,0,0
-2025-05-09,Direct,10,7,6,2
 2025-05-09,Organic Search,20,10,10,6
+2025-05-09,Direct,10,7,6,2
 2025-05-10,Direct,2,2,1,2
 2025-05-10,Organic Search,5,4,0,3
-2025-05-11,Direct,3,0,0,2
 2025-05-11,Organic Search,7,6,2,6
-2025-05-12,Direct,11,8,1,3
+2025-05-11,Direct,3,0,0,2
 2025-05-12,Organic Search,32,24,8,7
+2025-05-12,Direct,11,8,1,3
 2025-05-12,Referral,1,0,0,0
-2025-05-13,Direct,20,13,0,5
 2025-05-13,Organic Search,37,24,19,16
+2025-05-13,Direct,20,13,0,5
 2025-05-13,Referral,5,2,0,0
 2025-05-13,Unassigned,6,0,0,0
-2025-05-14,Direct,19,12,13,4
 2025-05-14,Organic Search,34,27,15,15
+2025-05-14,Direct,19,12,13,4
 2025-05-14,Referral,3,2,4,0
 2025-05-14,Unassigned,7,0,2,0
-2025-05-15,Direct,10,7,4,3
 2025-05-15,Organic Search,36,25,9,12
+2025-05-15,Direct,10,7,4,3
 2025-05-15,Referral,1,1,0,0
 2025-05-15,Unassigned,5,0,0,0
-2025-05-16,Direct,11,9,0,1
 2025-05-16,Organic Search,29,20,8,8
+2025-05-16,Direct,11,9,0,1
 2025-05-16,Organic Social,1,0,0,1
 2025-05-16,Referral,1,1,0,0
 2025-05-16,Unassigned,3,0,0,0
-2025-05-17,Direct,3,2,0,1
 2025-05-17,Organic Search,7,2,3,3
+2025-05-17,Direct,3,2,0,1
 2025-05-17,Referral,1,1,0,1
-2025-05-18,Direct,7,6,2,2
 2025-05-18,Organic Search,11,7,3,8
+2025-05-18,Direct,7,6,2,2
 2025-05-18,Referral,1,1,2,0
 2025-05-18,Unassigned,2,0,0,0
-2025-05-19,Direct,17,10,6,5
 2025-05-19,Organic Search,31,23,15,9
+2025-05-19,Direct,17,10,6,5
 2025-05-19,Referral,4,2,0,0
 2025-05-19,Unassigned,3,0,0,0
-2025-05-20,Direct,9,4,4,6
 2025-05-20,Organic Search,26,21,15,10
+2025-05-20,Direct,9,4,4,6
 2025-05-20,Referral,2,0,0,0
 2025-05-20,Unassigned,3,0,0,0
-2025-05-21,Direct,23,18,8,6
 2025-05-21,Organic Search,50,38,27,22
-2025-05-21,Organic Social,1,0,0,1
+2025-05-21,Direct,23,18,8,6
 2025-05-21,Referral,9,5,2,1
 2025-05-21,Unassigned,3,0,2,0
-2025-05-22,Direct,28,18,13,8
+2025-05-21,Organic Social,1,0,0,1
 2025-05-22,Organic Search,30,21,19,11
+2025-05-22,Direct,28,18,13,8
 2025-05-22,Referral,11,5,5,3
 2025-05-22,Unassigned,1,0,0,0
 2025-05-23,Direct,17,12,14,7
 2025-05-23,Organic Search,30,20,12,17
-2025-05-23,Referral,5,2,0,0
 2025-05-23,Unassigned,4,0,2,0
-2025-05-24,Direct,4,3,1,0
+2025-05-23,Referral,5,2,0,0
 2025-05-24,Organic Search,3,3,2,3
-2025-05-25,Direct,4,1,0,3
+2025-05-24,Direct,4,3,1,0
 2025-05-25,Organic Search,10,9,7,9
 2025-05-25,Referral,1,1,2,1
+2025-05-25,Direct,4,1,0,3
 2025-05-26,Direct,19,11,31,3
 2025-05-26,Organic Search,23,17,23,8
-2025-05-26,Referral,4,2,2,0
 2025-05-26,Unassigned,2,0,7,0
+2025-05-26,Referral,4,2,2,0
 2025-05-27,Direct,19,16,13,3
+2025-05-27,Unassigned,7,0,12,0
 2025-05-27,Organic Search,24,15,7,7
 2025-05-27,Referral,6,5,6,0
-2025-05-27,Unassigned,7,0,12,0
-2025-05-28,Direct,35,20,4,13
 2025-05-28,Organic Search,31,23,12,11
-2025-05-28,Organic Social,1,0,0,1
+2025-05-28,Direct,35,20,4,13
 2025-05-28,Referral,10,5,2,1
+2025-05-28,Organic Social,1,0,0,1
 2025-05-28,Unassigned,2,0,0,1
-2025-05-29,Direct,4,2,0,1
 2025-05-29,Organic Search,14,10,5,7
 2025-05-29,Referral,1,1,3,0
-2025-05-30,Direct,9,5,4,3
+2025-05-29,Direct,4,2,0,1
 2025-05-30,Organic Search,11,7,10,6
+2025-05-30,Direct,9,5,4,3
 2025-05-30,Referral,5,3,0,1
 2025-05-31,Direct,2,1,0,1
 2025-05-31,Organic Search,4,3,0,3
 2025-05-31,Referral,1,0,0,0
-2025-06-01,Direct,1,1,0,0
 2025-06-01,Organic Search,7,4,4,4
+2025-06-01,Direct,1,1,0,0
 2025-06-01,Referral,1,0,0,0
-2025-06-02,Direct,17,14,13,8
 2025-06-02,Organic Search,20,17,18,9
+2025-06-02,Direct,17,14,13,8
 2025-06-02,Referral,6,4,2,1
 2025-06-02,Unassigned,3,0,0,0
-2025-06-03,Direct,19,12,7,6
 2025-06-03,Organic Search,47,31,16,16
+2025-06-03,Direct,19,12,7,6
 2025-06-03,Referral,5,4,0,0
 2025-06-03,Unassigned,5,0,0,0
-2025-06-04,Direct,19,8,0,5
 2025-06-04,Organic Search,27,21,1,6
 2025-06-04,Referral,4,3,1,0
+2025-06-04,Direct,19,8,0,5
 2025-06-04,Unassigned,2,0,0,0
-2025-06-05,Direct,18,10,0,4
 2025-06-05,Organic Search,40,24,3,13
+2025-06-05,Direct,18,10,0,4
 2025-06-05,Referral,8,3,0,0
 2025-06-06,Direct,12,7,1,5
 2025-06-06,Organic Search,9,9,0,9
@@ -640,18 +634,18 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-06-08,Organic Search,6,5,0,6
 2025-06-08,Referral,2,1,0,0
 2025-06-09,Direct,11,7,1,2
-2025-06-09,Organic Search,22,16,0,5
 2025-06-09,Referral,3,1,1,1
+2025-06-09,Organic Search,22,16,0,5
 2025-06-09,Unassigned,1,0,0,0
+2025-06-10,Referral,7,5,2,3
 2025-06-10,Direct,19,13,1,7
 2025-06-10,Organic Search,35,21,1,14
-2025-06-10,Referral,7,5,2,3
-2025-06-11,Direct,10,6,0,3
 2025-06-11,Organic Search,23,16,4,10
 2025-06-11,Referral,10,7,2,1
+2025-06-11,Direct,10,6,0,3
 2025-06-11,Unassigned,1,0,0,0
-2025-06-12,Direct,9,5,2,2
 2025-06-12,Organic Search,25,19,3,12
+2025-06-12,Direct,9,5,2,2
 2025-06-12,Referral,1,1,0,0
 2025-06-12,Unassigned,2,0,0,0
 2025-06-13,Direct,15,10,1,4
@@ -661,20 +655,20 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-06-14,Organic Search,2,2,0,1
 2025-06-15,Direct,3,3,0,3
 2025-06-15,Organic Search,1,0,0,1
-2025-06-16,Direct,15,10,0,5
 2025-06-16,Organic Search,21,15,2,6
+2025-06-16,Direct,15,10,0,5
 2025-06-16,Referral,8,6,0,1
 2025-06-16,Unassigned,1,0,0,0
-2025-06-17,Direct,14,9,0,8
 2025-06-17,Organic Search,33,20,1,12
+2025-06-17,Direct,14,9,0,8
 2025-06-17,Referral,9,7,0,0
-2025-06-18,Direct,7,5,1,3
 2025-06-18,Organic Search,33,21,2,13
+2025-06-18,Direct,7,5,1,3
 2025-06-18,Referral,2,1,0,0
+2025-06-19,Referral,6,3,1,0
 2025-06-19,Direct,3,3,0,3
 2025-06-19,Organic Search,12,8,0,4
 2025-06-19,Organic Social,1,1,0,1
-2025-06-19,Referral,6,3,1,0
 2025-06-20,Direct,2,1,0,0
 2025-06-20,Organic Search,1,1,0,1
 2025-06-21,Organic Search,3,2,0,3
@@ -690,8 +684,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-06-25,Organic Search,26,15,2,11
 2025-06-25,Referral,2,1,0,0
 2025-06-25,Unassigned,2,0,0,0
-2025-06-26,Direct,13,8,0,4
 2025-06-26,Organic Search,27,16,1,9
+2025-06-26,Direct,13,8,0,4
 2025-06-26,Unassigned,4,0,0,0
 2025-06-27,Direct,10,7,1,3
 2025-06-27,Organic Search,16,11,1,7
@@ -705,8 +699,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-06-30,Organic Search,21,19,0,10
 2025-06-30,Referral,2,2,0,0
 2025-06-30,Unassigned,5,1,0,1
-2025-07-01,Direct,14,8,0,1
 2025-07-01,Organic Search,31,20,2,14
+2025-07-01,Direct,14,8,0,1
 2025-07-01,Unassigned,2,0,0,0
 2025-07-02,Direct,17,10,1,3
 2025-07-02,Organic Search,26,17,1,11
@@ -715,11 +709,11 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-07-03,Direct,16,7,1,4
 2025-07-03,Organic Search,25,19,1,12
 2025-07-03,Unassigned,2,0,0,0
-2025-07-04,Direct,5,2,0,1
 2025-07-04,Organic Search,8,6,1,3
+2025-07-04,Direct,5,2,0,1
 2025-07-04,Unassigned,1,0,0,0
-2025-07-05,Direct,1,1,0,1
 2025-07-05,Organic Search,7,5,1,5
+2025-07-05,Direct,1,1,0,1
 2025-07-05,Referral,1,1,0,1
 2025-07-06,Direct,3,2,0,1
 2025-07-06,Organic Search,5,0,0,2
@@ -727,8 +721,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-07-07,Direct,10,8,0,7
 2025-07-07,Organic Search,21,15,0,6
 2025-07-07,Unassigned,2,0,0,0
-2025-07-08,Direct,9,6,0,3
 2025-07-08,Organic Search,26,12,1,13
+2025-07-08,Direct,9,6,0,3
 2025-07-09,Direct,8,4,1,5
 2025-07-09,Organic Search,14,11,0,3
 2025-07-09,Referral,1,1,0,0
@@ -750,17 +744,17 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-07-15,Organic Search,8,6,0,6
 2025-07-16,Direct,7,3,0,3
 2025-07-16,Organic Search,9,5,0,4
-2025-07-17,Direct,1,0,0,0
 2025-07-17,Organic Search,12,11,1,8
-2025-07-18,Direct,3,1,0,0
+2025-07-17,Direct,1,0,0,0
 2025-07-18,Organic Search,6,3,3,3
+2025-07-18,Direct,3,1,0,0
 2025-07-19,Organic Search,2,1,0,0
 2025-07-19,Referral,1,1,0,1
 2025-07-20,Organic Search,5,4,0,3
 2025-07-21,Direct,7,4,0,5
 2025-07-21,Organic Search,4,2,0,3
-2025-07-22,Direct,10,8,0,7
 2025-07-22,Organic Search,9,3,2,5
+2025-07-22,Direct,10,8,0,7
 2025-07-23,Direct,3,2,0,1
 2025-07-23,Organic Search,6,5,0,4
 2025-07-23,Referral,1,1,0,1
@@ -778,90 +772,90 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-07-28,Organic Social,1,1,0,1
 2025-07-29,Direct,4,3,3,3
 2025-07-29,Organic Search,9,5,0,4
-2025-07-30,Direct,1,0,0,0
 2025-07-30,Organic Search,14,9,1,6
+2025-07-30,Direct,1,0,0,0
 2025-07-31,Direct,4,4,0,1
 2025-07-31,Organic Search,12,9,0,7
 2025-07-31,Referral,1,1,0,1
-2025-08-01,Direct,8,5,0,2
 2025-08-01,Organic Search,7,5,1,4
+2025-08-01,Direct,8,5,0,2
 2025-08-01,Referral,2,1,0,1
 2025-08-02,Organic Search,2,2,0,2
 2025-08-02,Unassigned,1,1,0,1
 2025-08-03,Organic Search,7,3,0,6
-2025-08-04,Direct,18,12,0,4
 2025-08-04,Organic Search,19,13,3,9
+2025-08-04,Direct,18,12,0,4
 2025-08-04,Organic Social,1,1,0,1
 2025-08-04,Referral,4,2,0,0
-2025-08-05,Direct,14,10,1,3
 2025-08-05,Organic Search,30,17,6,14
+2025-08-05,Direct,14,10,1,3
 2025-08-05,Referral,1,1,0,0
-2025-08-06,Direct,15,12,2,2
 2025-08-06,Organic Search,18,11,3,9
+2025-08-06,Direct,15,12,2,2
 2025-08-06,Referral,2,2,0,1
 2025-08-07,Direct,20,11,1,3
 2025-08-07,Organic Search,31,17,1,10
-2025-08-08,Direct,9,5,0,1
 2025-08-08,Organic Search,26,17,1,10
+2025-08-08,Direct,9,5,0,1
 2025-08-09,Direct,2,1,0,1
 2025-08-09,Organic Search,4,2,0,3
 2025-08-09,Referral,1,1,0,0
 2025-08-10,Organic Search,7,4,0,6
-2025-08-11,Direct,20,13,0,4
 2025-08-11,Organic Search,37,21,1,15
+2025-08-11,Direct,20,13,0,4
 2025-08-11,Referral,1,1,0,0
 2025-08-11,Unassigned,2,0,0,0
-2025-08-12,Direct,20,9,0,3
 2025-08-12,Organic Search,22,16,1,8
+2025-08-12,Direct,20,9,0,3
 2025-08-12,Organic Social,2,1,0,2
 2025-08-12,Referral,4,2,0,2
 2025-08-12,Unassigned,1,0,0,0
-2025-08-13,Direct,29,20,0,10
 2025-08-13,Organic Search,24,19,2,9
+2025-08-13,Direct,29,20,0,10
 2025-08-13,Unassigned,1,0,0,0
 2025-08-14,Direct,14,8,0,4
 2025-08-14,Organic Search,35,27,0,14
-2025-08-15,Direct,9,3,0,3
 2025-08-15,Organic Search,20,13,1,11
+2025-08-15,Direct,9,3,0,3
 2025-08-15,Organic Social,1,1,0,1
 2025-08-15,Referral,1,1,0,1
 2025-08-15,Unassigned,1,0,0,0
 2025-08-16,Organic Search,3,2,0,3
-2025-08-17,Direct,1,0,0,1
 2025-08-17,Organic Search,6,5,1,4
-2025-08-18,Direct,16,10,0,4
+2025-08-17,Direct,1,0,0,1
 2025-08-18,Organic Search,22,12,5,11
+2025-08-18,Direct,16,10,0,4
 2025-08-18,Unassigned,1,0,0,1
-2025-08-19,Direct,12,7,0,2
 2025-08-19,Organic Search,46,30,8,17
+2025-08-19,Direct,12,7,0,2
 2025-08-19,Referral,2,2,0,0
-2025-08-20,Direct,10,8,0,1
 2025-08-20,Organic Search,40,32,4,13
+2025-08-20,Direct,10,8,0,1
 2025-08-20,Referral,3,1,0,1
-2025-08-21,Direct,3,2,0,1
 2025-08-21,Organic Search,22,15,1,8
+2025-08-21,Direct,3,2,0,1
 2025-08-21,Referral,2,0,0,0
 2025-08-21,Unassigned,1,0,0,0
-2025-08-22,Direct,18,13,0,8
 2025-08-22,Organic Search,19,10,2,7
+2025-08-22,Direct,18,13,0,8
 2025-08-22,Referral,4,0,0,0
 2025-08-23,Organic Search,6,1,0,4
 2025-08-24,Direct,2,1,0,2
 2025-08-24,Organic Search,6,3,0,4
-2025-08-25,Direct,4,1,0,0
 2025-08-25,Organic Search,23,17,3,12
+2025-08-25,Direct,4,1,0,0
 2025-08-25,Referral,3,1,0,0
 2025-08-26,Direct,21,14,2,5
 2025-08-26,Organic Search,33,24,0,12
 2025-08-26,Organic Social,2,1,0,0
 2025-08-26,Referral,6,1,0,1
-2025-08-27,Direct,18,11,1,5
 2025-08-27,Organic Search,34,28,3,9
+2025-08-27,Direct,18,11,1,5
 2025-08-27,Referral,4,2,0,1
 2025-08-27,Unassigned,1,0,0,0
-2025-08-28,Direct,11,7,0,1
 2025-08-28,Organic Search,39,28,3,12
 2025-08-28,Referral,6,3,1,1
+2025-08-28,Direct,11,7,0,1
 2025-08-28,Unassigned,3,1,0,2
 2025-08-29,Direct,14,12,3,7
 2025-08-29,Organic Search,44,33,3,15
@@ -876,39 +870,39 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-09-01,Organic Social,1,1,0,1
 2025-09-01,Referral,2,0,0,1
 2025-09-01,Unassigned,1,0,0,0
-2025-09-02,Direct,14,11,1,4
 2025-09-02,Organic Search,49,30,5,14
+2025-09-02,Direct,14,11,1,4
 2025-09-02,Referral,10,4,0,4
 2025-09-02,Unassigned,1,0,0,0
 2025-09-03,Direct,10,7,0,2
 2025-09-03,Organic Search,46,33,0,12
 2025-09-03,Referral,2,1,0,0
+2025-09-04,Referral,6,5,2,3
 2025-09-04,Direct,26,16,1,7
 2025-09-04,Organic Search,51,43,1,12
 2025-09-04,Organic Social,5,4,0,0
-2025-09-04,Referral,6,5,2,3
 2025-09-04,Unassigned,1,1,0,1
-2025-09-05,Direct,14,7,0,3
 2025-09-05,Organic Search,29,20,2,10
+2025-09-05,Direct,14,7,0,3
 2025-09-05,Organic Social,2,1,0,0
 2025-09-05,Referral,4,2,0,1
-2025-09-06,Direct,1,0,0,0
 2025-09-06,Organic Search,7,4,2,5
+2025-09-06,Direct,1,0,0,0
 2025-09-07,Organic Search,5,5,0,4
-2025-09-08,Direct,8,8,0,3
 2025-09-08,Organic Search,37,29,1,11
+2025-09-08,Direct,8,8,0,3
 2025-09-08,Organic Social,2,1,0,0
 2025-09-08,Referral,3,2,0,0
-2025-09-09,Direct,11,7,2,2
 2025-09-09,Organic Search,47,37,5,15
+2025-09-09,Direct,11,7,2,2
 2025-09-09,Organic Social,3,1,0,0
 2025-09-09,Referral,2,1,0,0
-2025-09-10,Direct,13,9,0,1
 2025-09-10,Organic Search,33,26,1,8
+2025-09-10,Direct,13,9,0,1
 2025-09-10,Organic Social,1,0,0,0
 2025-09-10,Referral,2,1,0,0
-2025-09-11,Direct,14,10,0,5
 2025-09-11,Organic Search,43,33,2,15
+2025-09-11,Direct,14,10,0,5
 2025-09-11,Organic Social,1,0,0,0
 2025-09-11,Referral,6,2,0,2
 2025-09-12,Direct,10,8,0,2
@@ -919,25 +913,25 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-09-13,Organic Search,5,4,0,3
 2025-09-14,Direct,1,0,0,0
 2025-09-14,Organic Search,5,5,0,4
-2025-09-15,Direct,17,11,1,3
 2025-09-15,Organic Search,34,26,4,17
+2025-09-15,Direct,17,11,1,3
 2025-09-15,Organic Social,4,1,0,0
 2025-09-15,Referral,7,3,0,1
-2025-09-16,Direct,16,10,1,3
 2025-09-16,Organic Search,30,20,4,6
+2025-09-16,Direct,16,10,1,3
 2025-09-16,Organic Social,3,1,0,0
 2025-09-16,Referral,1,1,0,0
-2025-09-17,Direct,11,5,0,4
 2025-09-17,Organic Search,38,30,3,14
+2025-09-17,Direct,11,5,0,4
 2025-09-17,Organic Social,1,0,0,0
 2025-09-17,Referral,2,0,0,0
-2025-09-18,Direct,20,13,0,3
 2025-09-18,Organic Search,42,29,2,8
+2025-09-18,Direct,20,13,0,3
 2025-09-18,Organic Social,3,2,0,0
 2025-09-18,Referral,3,1,0,1
 2025-09-18,Unassigned,1,0,0,0
-2025-09-19,Direct,11,5,0,2
 2025-09-19,Organic Search,33,20,2,10
+2025-09-19,Direct,11,5,0,2
 2025-09-19,Organic Social,1,0,0,0
 2025-09-19,Referral,6,5,0,3
 2025-09-19,Unassigned,1,0,0,0
@@ -949,44 +943,44 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-09-22,Organic Search,31,19,2,8
 2025-09-22,Organic Social,3,2,0,0
 2025-09-22,Unassigned,1,0,0,0
-2025-09-23,Direct,18,6,0,4
 2025-09-23,Organic Search,38,32,1,10
+2025-09-23,Direct,18,6,0,4
 2025-09-23,Organic Social,5,2,0,0
 2025-09-23,Referral,3,3,0,2
 2025-09-23,Unassigned,2,1,0,2
-2025-09-24,Direct,16,9,0,7
 2025-09-24,Organic Search,36,24,2,10
+2025-09-24,Direct,16,9,0,7
 2025-09-24,Organic Social,3,0,0,0
 2025-09-24,Unassigned,1,0,0,0
-2025-09-25,Direct,13,9,0,3
 2025-09-25,Organic Search,32,19,2,6
+2025-09-25,Direct,13,9,0,3
 2025-09-25,Organic Social,3,2,0,0
 2025-09-25,Referral,5,4,0,2
 2025-09-25,Unassigned,1,0,0,0
-2025-09-26,Direct,9,4,0,2
 2025-09-26,Organic Search,36,26,3,11
+2025-09-26,Direct,9,4,0,2
 2025-09-26,Organic Social,5,1,0,0
 2025-09-26,Referral,2,2,0,0
 2025-09-26,Unassigned,1,0,0,0
 2025-09-27,Organic Search,2,2,0,1
 2025-09-28,Direct,1,1,0,0
 2025-09-28,Organic Search,3,2,0,3
-2025-09-29,Direct,9,6,0,1
 2025-09-29,Organic Search,38,26,3,15
+2025-09-29,Direct,9,6,0,1
 2025-09-29,Organic Social,3,0,0,0
-2025-09-30,Direct,20,12,0,3
 2025-09-30,Organic Search,62,44,3,18
+2025-09-30,Direct,20,12,0,3
 2025-09-30,Organic Social,3,2,0,0
 2025-09-30,Referral,1,1,0,1
 2025-10-01,Direct,13,7,0,6
 2025-10-01,Organic Search,25,17,0,9
 2025-10-01,Organic Social,1,0,0,0
-2025-10-02,Direct,16,10,0,3
 2025-10-02,Organic Search,34,28,1,11
+2025-10-02,Direct,16,10,0,3
 2025-10-02,Organic Social,1,0,0,0
 2025-10-02,Referral,3,2,0,2
-2025-10-03,Direct,5,3,0,2
 2025-10-03,Organic Search,30,21,1,15
+2025-10-03,Direct,5,3,0,2
 2025-10-03,Organic Social,3,1,0,0
 2025-10-03,Referral,3,1,0,2
 2025-10-04,Organic Search,3,1,0,3
@@ -994,25 +988,25 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-10-05,Direct,2,1,0,1
 2025-10-05,Organic Search,10,5,0,8
 2025-10-05,Referral,2,1,0,1
-2025-10-06,Direct,25,16,1,7
 2025-10-06,Organic Search,53,37,3,11
+2025-10-06,Direct,25,16,1,7
 2025-10-06,Organic Social,1,0,0,0
 2025-10-06,Referral,3,2,0,1
-2025-10-07,Direct,15,10,1,4
 2025-10-07,Organic Search,41,27,3,10
+2025-10-07,Direct,15,10,1,4
 2025-10-07,Organic Social,1,0,0,0
 2025-10-07,Referral,1,0,0,0
 2025-10-08,Direct,10,7,0,0
 2025-10-08,Organic Search,36,26,0,7
 2025-10-08,Organic Social,2,0,0,0
 2025-10-08,Referral,4,1,0,0
-2025-10-09,Direct,15,7,1,5
 2025-10-09,Organic Search,42,29,3,11
+2025-10-09,Direct,15,7,1,5
 2025-10-09,Organic Social,3,1,0,0
 2025-10-09,Referral,3,2,0,1
 2025-10-09,Unassigned,1,0,0,1
-2025-10-10,Direct,8,6,0,4
 2025-10-10,Organic Search,26,17,1,11
+2025-10-10,Direct,8,6,0,4
 2025-10-10,Organic Social,4,1,0,1
 2025-10-10,Referral,1,1,0,1
 2025-10-10,Unassigned,1,0,0,0
@@ -1020,43 +1014,43 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-10-11,Unassigned,1,0,0,1
 2025-10-12,Direct,3,3,0,1
 2025-10-12,Organic Search,6,5,0,2
-2025-10-13,Direct,10,7,0,2
 2025-10-13,Organic Search,33,23,1,8
+2025-10-13,Direct,10,7,0,2
 2025-10-13,Organic Social,1,0,0,0
 2025-10-13,Referral,1,1,0,1
-2025-10-14,Direct,18,11,0,5
 2025-10-14,Organic Search,40,28,4,9
 2025-10-14,Referral,4,4,1,2
+2025-10-14,Direct,18,11,0,5
 2025-10-14,Unassigned,1,0,0,0
-2025-10-15,Direct,7,5,0,2
 2025-10-15,Organic Search,33,23,1,10
 2025-10-15,Referral,5,3,1,2
-2025-10-16,Direct,11,6,0,2
+2025-10-15,Direct,7,5,0,2
 2025-10-16,Organic Search,36,25,3,7
+2025-10-16,Direct,11,6,0,2
 2025-10-16,Referral,1,1,0,0
 2025-10-16,Unassigned,1,0,0,0
-2025-10-17,Direct,18,14,2,3
 2025-10-17,Organic Search,21,14,3,6
+2025-10-17,Direct,18,14,2,3
 2025-10-17,Unassigned,1,0,0,1
 2025-10-18,Direct,2,1,0,2
 2025-10-18,Organic Search,5,0,0,0
 2025-10-19,Direct,1,1,0,0
 2025-10-19,Organic Search,6,2,0,3
 2025-10-20,Direct,25,18,7,7
+2025-10-20,Referral,3,3,3,1
 2025-10-20,Organic Search,35,25,1,11
 2025-10-20,Organic Social,1,1,0,1
-2025-10-20,Referral,3,3,3,1
 2025-10-21,Direct,24,17,1,8
 2025-10-21,Organic Search,55,40,1,13
 2025-10-21,Referral,10,8,0,2
-2025-10-22,Direct,24,18,1,4
 2025-10-22,Organic Search,50,33,3,11
+2025-10-22,Direct,24,18,1,4
 2025-10-22,Referral,9,4,0,1
-2025-10-23,Direct,22,13,0,3
 2025-10-23,Organic Search,35,26,5,11
 2025-10-23,Referral,3,1,1,0
-2025-10-24,Direct,14,9,1,6
+2025-10-23,Direct,22,13,0,3
 2025-10-24,Organic Search,33,23,3,13
+2025-10-24,Direct,14,9,1,6
 2025-10-24,Unassigned,1,1,0,1
 2025-10-25,Direct,2,1,0,1
 2025-10-25,Organic Search,5,4,0,3
@@ -1066,66 +1060,66 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-10-27,Organic Search,54,37,1,19
 2025-10-27,Referral,2,1,0,1
 2025-10-27,Unassigned,1,0,0,0
-2025-10-28,Direct,10,6,0,3
 2025-10-28,Organic Search,44,34,6,11
+2025-10-28,Direct,10,6,0,3
 2025-10-29,Direct,16,11,4,4
 2025-10-29,Organic Search,51,33,2,14
 2025-10-29,Referral,4,3,0,1
-2025-10-30,Direct,5,1,0,2
 2025-10-30,Organic Search,45,29,3,12
+2025-10-30,Direct,5,1,0,2
 2025-10-30,Referral,3,2,0,0
-2025-10-31,Direct,22,16,0,15
 2025-10-31,Organic Search,36,25,4,6
+2025-10-31,Direct,22,16,0,15
 2025-10-31,Referral,2,2,0,0
-2025-11-01,Direct,1,1,0,1
 2025-11-01,Organic Search,8,7,1,4
+2025-11-01,Direct,1,1,0,1
 2025-11-01,Referral,1,1,0,0
 2025-11-02,Organic Search,6,3,1,2
 2025-11-02,Referral,1,0,0,0
-2025-11-03,Direct,11,8,0,7
 2025-11-03,Organic Search,44,26,7,15
+2025-11-03,Direct,11,8,0,7
 2025-11-03,Referral,1,1,0,1
 2025-11-03,Unassigned,1,1,0,1
-2025-11-04,Direct,14,5,0,11
 2025-11-04,Organic Search,44,32,1,9
+2025-11-04,Direct,14,5,0,11
 2025-11-04,Referral,2,1,0,0
-2025-11-05,Direct,18,9,0,9
 2025-11-05,Organic Search,39,32,7,17
+2025-11-05,Direct,18,9,0,9
 2025-11-05,Referral,3,2,0,1
 2025-11-06,Direct,20,11,4,7
 2025-11-06,Organic Search,53,33,2,23
 2025-11-06,Referral,5,3,0,1
-2025-11-07,Direct,23,17,0,16
 2025-11-07,Organic Search,33,20,2,8
+2025-11-07,Direct,23,17,0,16
 2025-11-07,Referral,2,0,0,1
 2025-11-08,Direct,1,0,0,0
 2025-11-08,Organic Search,5,3,0,4
-2025-11-09,Direct,3,1,0,2
 2025-11-09,Organic Search,8,4,1,5
+2025-11-09,Direct,3,1,0,2
 2025-11-09,Organic Social,1,1,0,1
-2025-11-10,Direct,28,18,0,6
 2025-11-10,Organic Search,42,22,1,9
+2025-11-10,Direct,28,18,0,6
 2025-11-10,Referral,1,1,0,0
-2025-11-11,Direct,15,8,0,4
 2025-11-11,Organic Search,46,29,1,13
+2025-11-11,Direct,15,8,0,4
 2025-11-11,Referral,6,4,0,2
 2025-11-11,Unassigned,1,0,0,0
-2025-11-12,Direct,15,8,0,6
 2025-11-12,Organic Search,46,31,3,10
+2025-11-12,Direct,15,8,0,6
 2025-11-12,Referral,1,1,0,0
-2025-11-13,Direct,18,12,1,6
 2025-11-13,Organic Search,41,27,3,18
+2025-11-13,Direct,18,12,1,6
 2025-11-13,Referral,9,8,0,2
-2025-11-14,Direct,8,5,0,3
 2025-11-14,Organic Search,40,30,1,16
+2025-11-14,Direct,8,5,0,3
 2025-11-15,Organic Search,3,2,0,3
 2025-11-16,Direct,1,1,0,1
 2025-11-16,Organic Search,5,3,0,3
-2025-11-17,Direct,19,14,1,8
 2025-11-17,Organic Search,52,36,8,16
+2025-11-17,Direct,19,14,1,8
 2025-11-17,Referral,5,3,0,2
-2025-11-18,Direct,17,14,0,8
 2025-11-18,Organic Search,36,25,1,10
+2025-11-18,Direct,17,14,0,8
 2025-11-18,Referral,7,2,0,3
 2025-11-19,Direct,25,22,0,20
 2025-11-19,Organic Search,36,24,0,9
@@ -1133,24 +1127,24 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-11-20,Direct,19,15,2,7
 2025-11-20,Organic Search,37,25,1,5
 2025-11-20,Referral,3,2,0,1
-2025-11-21,Direct,8,3,0,3
 2025-11-21,Organic Search,38,23,1,13
+2025-11-21,Direct,8,3,0,3
 2025-11-21,Referral,3,3,0,1
 2025-11-22,Direct,1,1,1,1
 2025-11-22,Organic Search,3,1,1,2
 2025-11-22,Referral,1,0,0,0
 2025-11-23,Direct,2,1,0,2
 2025-11-23,Organic Search,7,5,0,5
-2025-11-24,Direct,12,8,0,4
 2025-11-24,Organic Search,44,33,1,12
-2025-11-25,Direct,10,7,0,3
+2025-11-24,Direct,12,8,0,4
 2025-11-25,Organic Search,33,22,1,7
+2025-11-25,Direct,10,7,0,3
 2025-11-25,Referral,1,1,0,0
-2025-11-26,Direct,11,7,0,3
 2025-11-26,Organic Search,36,25,1,11
+2025-11-26,Direct,11,7,0,3
 2025-11-26,Referral,2,0,0,0
-2025-11-27,Direct,28,19,0,13
 2025-11-27,Organic Search,48,31,4,14
+2025-11-27,Direct,28,19,0,13
 2025-11-27,Organic Social,5,4,0,3
 2025-11-27,Referral,5,2,0,2
 2025-11-27,Unassigned,1,0,0,0
@@ -1162,62 +1156,62 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-11-29,Organic Search,1,1,0,1
 2025-11-30,Direct,3,1,0,2
 2025-11-30,Organic Search,6,2,0,5
-2025-12-01,Direct,12,8,0,3
 2025-12-01,Organic Search,42,32,5,11
+2025-12-01,Direct,12,8,0,3
 2025-12-01,Referral,4,3,0,0
 2025-12-02,Direct,17,11,3,7
 2025-12-02,Organic Search,32,21,1,9
 2025-12-02,Referral,4,3,0,2
-2025-12-03,Direct,26,13,0,8
 2025-12-03,Organic Search,41,28,2,8
+2025-12-03,Direct,26,13,0,8
 2025-12-03,Referral,3,2,0,2
-2025-12-04,Direct,13,9,0,3
 2025-12-04,Organic Search,49,34,5,14
+2025-12-04,Direct,13,9,0,3
 2025-12-04,Referral,3,1,0,2
-2025-12-05,Direct,18,5,0,8
 2025-12-05,Organic Search,31,20,9,7
+2025-12-05,Direct,18,5,0,8
 2025-12-05,Referral,4,4,0,2
 2025-12-06,Direct,1,1,0,1
 2025-12-06,Organic Search,3,2,0,2
-2025-12-07,Direct,4,3,0,2
 2025-12-07,Organic Search,3,2,1,1
+2025-12-07,Direct,4,3,0,2
 2025-12-08,Direct,8,8,2,5
 2025-12-08,Organic Search,37,27,2,14
-2025-12-09,Direct,13,6,0,3
 2025-12-09,Organic Search,47,32,2,15
-2025-12-10,Direct,18,11,4,2
+2025-12-09,Direct,13,6,0,3
 2025-12-10,Organic Search,57,34,5,17
+2025-12-10,Direct,18,11,4,2
 2025-12-10,Referral,3,2,1,1
-2025-12-11,Direct,13,9,1,4
 2025-12-11,Organic Search,41,27,4,10
+2025-12-11,Direct,13,9,1,4
 2025-12-12,Direct,12,5,0,4
 2025-12-12,Organic Search,17,13,0,4
 2025-12-12,Organic Social,1,1,0,1
 2025-12-13,Organic Search,3,3,0,2
-2025-12-14,Direct,1,0,0,0
 2025-12-14,Organic Search,6,2,1,5
-2025-12-15,Direct,9,5,0,3
+2025-12-14,Direct,1,0,0,0
 2025-12-15,Organic Search,35,26,11,10
-2025-12-16,Direct,17,9,0,5
+2025-12-15,Direct,9,5,0,3
 2025-12-16,Organic Search,37,28,4,7
+2025-12-16,Direct,17,9,0,5
 2025-12-16,Unassigned,2,0,0,0
 2025-12-17,Direct,8,4,1,2
 2025-12-17,Organic Search,21,12,0,3
 2025-12-17,Referral,2,1,0,1
-2025-12-18,Direct,18,6,0,6
 2025-12-18,Organic Search,36,25,1,10
-2025-12-18,Referral,2,1,0,0
 2025-12-18,Unassigned,1,0,1,0
-2025-12-19,Direct,9,5,0,0
+2025-12-18,Direct,18,6,0,6
+2025-12-18,Referral,2,1,0,0
 2025-12-19,Organic Search,36,27,2,13
+2025-12-19,Direct,9,5,0,0
 2025-12-19,Referral,3,1,0,0
 2025-12-20,Organic Search,6,2,1,4
 2025-12-20,Referral,1,1,1,1
 2025-12-21,Direct,9,6,0,6
 2025-12-21,Organic Search,7,7,0,7
 2025-12-21,Organic Social,1,1,0,1
-2025-12-22,Direct,7,4,0,0
 2025-12-22,Organic Search,22,10,2,4
+2025-12-22,Direct,7,4,0,0
 2025-12-23,Direct,5,3,0,0
 2025-12-23,Organic Search,7,5,0,1
 2025-12-23,Referral,1,1,0,1
@@ -1227,14 +1221,14 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2025-12-26,Organic Search,3,3,0,3
 2025-12-26,Referral,1,1,0,1
 2025-12-27,Organic Search,1,1,0,1
-2025-12-28,Direct,1,0,0,1
 2025-12-28,Organic Search,5,3,2,4
+2025-12-28,Direct,1,0,0,1
 2025-12-28,Referral,2,2,0,2
 2025-12-29,Direct,2,2,0,1
 2025-12-29,Organic Search,5,3,0,3
 2025-12-29,Referral,1,1,0,1
-2025-12-30,Direct,2,0,0,0
 2025-12-30,Organic Search,6,4,1,1
+2025-12-30,Direct,2,0,0,0
 2025-12-31,Direct,3,2,0,3
 2025-12-31,Organic Search,1,0,0,1
 2026-01-01,Organic Search,2,1,0,2
@@ -1244,8 +1238,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-01-03,Organic Search,8,3,0,7
 2026-01-04,Direct,1,1,0,1
 2026-01-04,Organic Search,3,2,0,2
-2026-01-05,Direct,3,2,0,2
 2026-01-05,Organic Search,11,8,7,7
+2026-01-05,Direct,3,2,0,2
 2026-01-06,Direct,3,0,0,2
 2026-01-06,Organic Search,10,3,0,8
 2026-01-07,Direct,9,5,0,5
@@ -1254,8 +1248,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-01-08,Direct,26,19,1,14
 2026-01-08,Organic Search,44,31,0,22
 2026-01-08,Referral,5,2,0,0
-2026-01-09,Direct,22,15,0,4
 2026-01-09,Organic Search,30,23,2,9
+2026-01-09,Direct,22,15,0,4
 2026-01-09,Referral,6,2,0,0
 2026-01-10,Direct,1,0,0,1
 2026-01-10,Organic Search,3,1,0,2
@@ -1264,88 +1258,88 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-01-12,Direct,12,8,1,2
 2026-01-12,Organic Search,32,21,0,13
 2026-01-12,Referral,2,2,0,1
-2026-01-13,Direct,13,9,0,4
 2026-01-13,Organic Search,34,21,5,9
+2026-01-13,Direct,13,9,0,4
 2026-01-13,Referral,4,2,0,0
 2026-01-13,Unassigned,1,0,0,0
 2026-01-14,Direct,19,12,5,4
 2026-01-14,Organic Search,37,24,3,10
-2026-01-14,Organic Social,1,1,0,1
 2026-01-14,Referral,6,4,1,2
-2026-01-15,Direct,20,14,0,2
+2026-01-14,Organic Social,1,1,0,1
 2026-01-15,Organic Search,42,34,5,14
 2026-01-15,Referral,5,2,2,0
+2026-01-15,Direct,20,14,0,2
 2026-01-15,Unassigned,1,0,0,0
 2026-01-16,Direct,32,12,1,18
 2026-01-16,Organic Search,16,10,1,2
 2026-01-16,Organic Social,1,0,0,0
 2026-01-16,Referral,4,1,0,0
-2026-01-17,Direct,3,1,0,1
 2026-01-17,Organic Search,5,4,1,3
+2026-01-17,Direct,3,1,0,1
 2026-01-17,Referral,1,1,0,1
 2026-01-18,Direct,1,0,0,1
 2026-01-18,Organic Search,6,5,0,4
-2026-01-19,Direct,12,9,0,3
 2026-01-19,Organic Search,33,25,9,10
+2026-01-19,Direct,12,9,0,3
 2026-01-19,Organic Social,1,0,0,0
 2026-01-19,Referral,7,5,0,3
-2026-01-20,Direct,17,10,0,7
 2026-01-20,Organic Search,30,22,4,13
+2026-01-20,Direct,17,10,0,7
 2026-01-20,Organic Social,1,0,0,0
 2026-01-20,Referral,2,1,0,1
+2026-01-21,Referral,6,5,1,0
 2026-01-21,Direct,11,8,0,1
 2026-01-21,Organic Search,41,28,0,15
 2026-01-21,Organic Social,1,0,0,0
-2026-01-21,Referral,6,5,1,0
-2026-01-22,Direct,17,10,0,7
 2026-01-22,Organic Search,32,20,1,11
+2026-01-22,Direct,17,10,0,7
 2026-01-22,Organic Social,1,0,0,0
 2026-01-22,Referral,11,8,0,0
-2026-01-23,Direct,14,8,1,4
 2026-01-23,Organic Search,28,20,4,4
+2026-01-23,Direct,14,8,1,4
 2026-01-23,Referral,8,7,0,0
-2026-01-24,Direct,2,2,0,1
 2026-01-24,Organic Search,6,4,2,3
+2026-01-24,Direct,2,2,0,1
 2026-01-25,Organic Search,9,5,1,5
 2026-01-25,Organic Social,1,0,0,0
 2026-01-25,Unassigned,1,1,0,1
-2026-01-26,Direct,15,7,0,1
 2026-01-26,Organic Search,29,20,1,12
+2026-01-26,Direct,15,7,0,1
 2026-01-26,Organic Social,6,2,0,0
 2026-01-26,Referral,7,7,0,1
-2026-01-27,Direct,12,6,0,2
 2026-01-27,Organic Search,39,20,2,14
+2026-01-27,Direct,12,6,0,2
 2026-01-27,Organic Social,2,0,0,0
 2026-01-27,Referral,6,5,0,1
-2026-01-28,Direct,8,8,0,4
 2026-01-28,Organic Search,35,22,1,12
+2026-01-28,Direct,8,8,0,4
 2026-01-28,Organic Social,1,0,0,0
 2026-01-28,Referral,8,7,0,0
-2026-01-29,Direct,11,8,0,4
 2026-01-29,Organic Search,20,14,1,5
+2026-01-29,Direct,11,8,0,4
 2026-01-29,Organic Social,1,0,0,0
-2026-01-30,Direct,5,3,0,1
 2026-01-30,Organic Search,29,17,1,10
+2026-01-30,Direct,5,3,0,1
 2026-01-30,Organic Social,2,0,0,0
 2026-01-30,Referral,2,2,0,0
-2026-01-31,Direct,4,1,0,3
 2026-01-31,Organic Search,6,3,4,2
-2026-02-01,Direct,5,5,0,3
+2026-01-31,Direct,4,1,0,3
 2026-02-01,Organic Search,4,4,1,3
+2026-02-01,Direct,5,5,0,3
+2026-02-02,Referral,2,1,2,1
 2026-02-02,Direct,18,11,0,3
 2026-02-02,Organic Search,30,21,0,13
 2026-02-02,Organic Social,1,0,0,0
-2026-02-02,Referral,2,1,2,1
 2026-02-03,Direct,21,15,2,9
 2026-02-03,Organic Search,30,22,1,8
-2026-02-03,Organic Social,1,0,0,0
 2026-02-03,Referral,1,1,1,0
+2026-02-03,Organic Social,1,0,0,0
 2026-02-04,Direct,26,18,2,5
 2026-02-04,Organic Search,32,20,1,5
 2026-02-04,Organic Social,1,0,0,0
 2026-02-04,Referral,2,1,0,1
-2026-02-05,Direct,28,19,0,15
 2026-02-05,Organic Search,39,24,4,14
+2026-02-05,Direct,28,19,0,15
 2026-02-05,Organic Social,2,0,0,0
 2026-02-05,Referral,2,0,0,0
 2026-02-06,Direct,31,20,3,13
@@ -1353,45 +1347,45 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-02-06,Organic Social,1,0,0,0
 2026-02-06,Referral,1,0,0,0
 2026-02-06,Unassigned,1,0,0,0
-2026-02-07,Direct,2,1,0,0
 2026-02-07,Organic Search,1,1,7,1
+2026-02-07,Direct,2,1,0,0
 2026-02-08,Direct,3,1,0,1
 2026-02-08,Organic Search,3,3,0,3
-2026-02-09,Direct,21,13,1,6
 2026-02-09,Organic Search,38,28,2,13
+2026-02-09,Direct,21,13,1,6
 2026-02-09,Organic Social,1,0,0,0
 2026-02-10,Direct,14,7,0,5
 2026-02-10,Organic Search,26,18,0,8
 2026-02-10,Organic Social,4,0,0,0
-2026-02-11,Direct,22,13,1,4
 2026-02-11,Organic Search,42,31,3,13
+2026-02-11,Direct,22,13,1,4
 2026-02-11,Organic Social,1,0,0,0
 2026-02-11,Referral,2,2,0,1
-2026-02-12,Direct,13,9,1,3
 2026-02-12,Organic Search,42,27,4,12
+2026-02-12,Direct,13,9,1,3
 2026-02-12,Organic Social,1,0,0,0
 2026-02-12,Referral,2,2,0,0
 2026-02-13,Direct,13,6,1,1
 2026-02-13,Organic Search,26,15,1,5
-2026-02-13,Organic Social,2,0,0,0
 2026-02-13,Referral,2,2,1,0
+2026-02-13,Organic Social,2,0,0,0
 2026-02-13,Unassigned,1,0,0,0
 2026-02-15,Direct,5,3,0,3
 2026-02-15,Organic Search,2,1,0,1
 2026-02-15,Referral,1,1,0,1
-2026-02-16,Direct,14,10,0,5
 2026-02-16,Organic Search,40,27,3,15
+2026-02-16,Direct,14,10,0,5
 2026-02-16,Organic Social,2,0,0,0
 2026-02-16,Referral,3,0,0,1
-2026-02-17,Direct,15,12,0,7
 2026-02-17,Organic Search,30,21,4,7
+2026-02-17,Direct,15,12,0,7
 2026-02-17,Organic Social,1,0,0,0
-2026-02-18,Direct,8,5,1,3
 2026-02-18,Organic Search,41,28,5,7
-2026-02-18,Organic Social,2,0,0,0
 2026-02-18,Referral,3,2,2,1
-2026-02-19,Direct,22,11,0,6
+2026-02-18,Direct,8,5,1,3
+2026-02-18,Organic Social,2,0,0,0
 2026-02-19,Organic Search,49,29,1,14
+2026-02-19,Direct,22,11,0,6
 2026-02-19,Organic Social,1,0,0,0
 2026-02-19,Referral,8,6,0,1
 2026-02-20,Direct,16,12,0,5
@@ -1409,39 +1403,39 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-02-23,Organic Search,27,20,1,8
 2026-02-23,Organic Social,3,1,0,0
 2026-02-23,Referral,6,3,0,2
-2026-02-24,Direct,19,12,3,2
 2026-02-24,Organic Search,38,25,5,8
+2026-02-24,Direct,19,12,3,2
 2026-02-24,Organic Social,2,0,0,0
 2026-02-24,Referral,5,3,0,2
-2026-02-25,Direct,10,7,0,2
 2026-02-25,Organic Search,37,26,2,12
+2026-02-25,Direct,10,7,0,2
 2026-02-25,Organic Social,1,0,0,0
 2026-02-25,Unassigned,1,0,0,0
-2026-02-26,Direct,12,10,0,2
 2026-02-26,Organic Search,25,20,5,16
+2026-02-26,Direct,12,10,0,2
 2026-02-26,Referral,2,1,0,1
-2026-02-27,Direct,12,8,0,3
 2026-02-27,Organic Search,22,15,4,7
+2026-02-27,Direct,12,8,0,3
 2026-02-27,Organic Social,1,0,0,0
 2026-02-27,Referral,2,1,0,0
 2026-02-28,Direct,8,8,0,6
 2026-02-28,Organic Search,7,4,0,3
 2026-03-01,Direct,1,1,0,0
 2026-03-01,Organic Search,4,2,0,3
-2026-03-02,Direct,9,3,0,1
 2026-03-02,Organic Search,24,15,2,7
+2026-03-02,Direct,9,3,0,1
 2026-03-02,Referral,1,0,0,0
 2026-03-02,Unassigned,1,1,0,1
-2026-03-03,Direct,16,13,0,2
 2026-03-03,Organic Search,29,24,1,11
 2026-03-03,Referral,4,3,1,2
-2026-03-04,Direct,16,10,0,3
+2026-03-03,Direct,16,13,0,2
 2026-03-04,Organic Search,35,24,3,11
+2026-03-04,Direct,16,10,0,3
 2026-03-04,Referral,1,0,0,0
-2026-03-05,Direct,4,2,0,0
 2026-03-05,Organic Search,36,23,2,5
-2026-03-05,Organic Social,4,2,0,0
 2026-03-05,Referral,2,2,2,0
+2026-03-05,Direct,4,2,0,0
+2026-03-05,Organic Social,4,2,0,0
 2026-03-06,Direct,11,9,1,5
 2026-03-06,Organic Search,24,18,1,5
 2026-03-06,Organic Social,1,0,0,0
@@ -1450,16 +1444,16 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-03-07,Organic Search,1,1,0,1
 2026-03-08,Organic Search,5,4,1,1
 2026-03-08,Referral,2,1,0,0
-2026-03-09,Direct,14,9,0,5
 2026-03-09,Organic Search,27,22,2,10
 2026-03-09,Organic Social,4,3,1,2
+2026-03-09,Direct,14,9,0,5
 2026-03-09,Referral,3,0,0,0
-2026-03-10,Direct,12,7,0,3
 2026-03-10,Organic Search,33,21,3,13
+2026-03-10,Direct,12,7,0,3
 2026-03-10,Organic Social,2,1,0,1
 2026-03-10,Referral,1,1,0,1
-2026-03-11,Direct,19,13,0,4
 2026-03-11,Organic Search,25,14,2,9
+2026-03-11,Direct,19,13,0,4
 2026-03-11,Organic Social,4,0,0,0
 2026-03-11,Referral,2,1,0,0
 2026-03-12,Direct,24,15,2,1
@@ -1475,37 +1469,37 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-03-15,Direct,6,3,1,4
 2026-03-15,Organic Search,2,2,0,2
 2026-03-15,Referral,1,0,0,0
-2026-03-16,Direct,15,10,1,4
 2026-03-16,Organic Search,30,20,5,4
+2026-03-16,Direct,15,10,1,4
 2026-03-16,Organic Social,1,0,0,0
 2026-03-16,Referral,1,0,0,0
+2026-03-17,Referral,5,3,2,3
 2026-03-17,Direct,13,7,0,4
 2026-03-17,Organic Search,22,15,0,6
 2026-03-17,Organic Social,3,1,0,0
-2026-03-17,Referral,5,3,2,3
-2026-03-18,Direct,17,12,0,5
 2026-03-18,Organic Search,34,24,2,12
+2026-03-18,Direct,17,12,0,5
 2026-03-18,Organic Social,1,0,0,0
 2026-03-18,Referral,2,1,0,2
-2026-03-19,Direct,20,11,0,4
 2026-03-19,Organic Search,27,22,2,9
+2026-03-19,Direct,20,11,0,4
 2026-03-19,Organic Social,3,0,0,1
 2026-03-19,Referral,1,0,0,0
-2026-03-20,Direct,14,9,0,1
 2026-03-20,Organic Search,32,20,3,14
+2026-03-20,Direct,14,9,0,1
 2026-03-20,Organic Social,3,0,0,0
 2026-03-20,Referral,3,2,0,1
 2026-03-20,Unassigned,1,0,0,0
 2026-03-21,Direct,5,5,1,5
 2026-03-21,Organic Search,6,5,0,3
 2026-03-22,Organic Search,6,1,0,1
-2026-03-23,Direct,24,14,2,3
 2026-03-23,Organic Search,36,31,5,15
+2026-03-23,Direct,24,14,2,3
 2026-03-23,Referral,5,0,0,0
-2026-03-24,Direct,23,17,1,7
-2026-03-24,Organic Search,45,37,2,17
-2026-03-24,Organic Social,1,0,0,0
 2026-03-24,Referral,8,4,4,0
+2026-03-24,Organic Search,45,37,2,17
+2026-03-24,Direct,23,17,1,7
+2026-03-24,Organic Social,1,0,0,0
 2026-03-25,Direct,16,11,1,4
 2026-03-25,Organic Search,31,20,1,5
 2026-03-25,Organic Social,1,0,0,0
@@ -1514,21 +1508,21 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-03-26,Organic Search,25,18,0,10
 2026-03-26,Organic Social,3,0,0,0
 2026-03-26,Referral,1,0,0,0
+2026-03-27,Referral,5,3,2,1
 2026-03-27,Direct,11,9,0,3
 2026-03-27,Organic Search,18,13,0,8
 2026-03-27,Organic Social,2,1,0,0
-2026-03-27,Referral,5,3,2,1
 2026-03-28,Organic Search,7,4,0,3
 2026-03-29,Organic Search,3,3,0,2
-2026-03-30,Direct,9,6,0,1
 2026-03-30,Organic Search,22,16,4,11
 2026-03-30,Organic Social,5,3,1,0
+2026-03-30,Direct,9,6,0,1
 2026-03-30,Referral,4,0,0,0
-2026-03-31,Direct,10,7,0,2
 2026-03-31,Organic Search,27,18,2,8
+2026-03-31,Direct,10,7,0,2
 2026-03-31,Referral,3,1,0,0
-2026-04-01,Direct,26,20,0,13
 2026-04-01,Organic Search,24,15,2,4
+2026-04-01,Direct,26,20,0,13
 2026-04-01,Organic Social,2,0,0,0
 2026-04-01,Referral,3,3,0,1
 2026-04-01,Unassigned,1,1,0,1
@@ -1547,18 +1541,18 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-04-06,Direct,1,1,0,0
 2026-04-06,Organic Search,7,5,0,4
 2026-04-06,Referral,2,1,0,1
-2026-04-07,Direct,9,6,1,4
 2026-04-07,Organic Search,27,19,2,10
+2026-04-07,Direct,9,6,1,4
 2026-04-07,Organic Social,1,1,0,1
 2026-04-07,Referral,2,1,0,0
-2026-04-08,Direct,4,4,0,2
 2026-04-08,Organic Search,32,21,4,7
+2026-04-08,Direct,4,4,0,2
 2026-04-08,Referral,4,2,0,0
-2026-04-09,Direct,10,6,2,1
 2026-04-09,Organic Search,27,19,5,13
+2026-04-09,Direct,10,6,2,1
 2026-04-09,Referral,3,2,0,0
-2026-04-10,Direct,7,4,0,0
 2026-04-10,Organic Search,26,22,3,5
+2026-04-10,Direct,7,4,0,0
 2026-04-10,Referral,1,0,0,0
 2026-04-11,Organic Search,2,1,0,2
 2026-04-12,Direct,3,3,0,3
@@ -1568,21 +1562,21 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-04-13,Organic Search,38,24,0,13
 2026-04-13,Organic Social,1,0,0,0
 2026-04-13,Referral,2,0,0,0
-2026-04-14,Direct,6,4,1,1
 2026-04-14,Organic Search,41,28,3,12
+2026-04-14,Direct,6,4,1,1
 2026-04-14,Organic Social,3,1,0,0
 2026-04-14,Referral,3,1,0,1
-2026-04-15,Direct,12,8,0,5
 2026-04-15,Organic Search,43,30,6,17
-2026-04-15,Organic Social,2,1,0,0
 2026-04-15,Referral,9,3,2,1
+2026-04-15,Direct,12,8,0,5
+2026-04-15,Organic Social,2,1,0,0
 2026-04-16,Direct,16,8,3,2
 2026-04-16,Organic Search,35,27,0,5
 2026-04-16,Organic Social,1,0,0,0
 2026-04-16,Referral,3,2,0,0
-2026-04-17,Direct,4,2,0,2
-2026-04-17,Organic Search,32,24,2,8
 2026-04-17,Referral,10,6,3,2
+2026-04-17,Organic Search,32,24,2,8
+2026-04-17,Direct,4,2,0,2
 2026-04-18,Organic Search,5,3,0,1
 2026-04-19,Organic Search,6,3,1,3
 2026-04-19,Unassigned,1,0,0,1
@@ -1592,36 +1586,36 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-04-21,Direct,23,19,1,15
 2026-04-21,Organic Search,37,25,0,7
 2026-04-21,Referral,5,3,0,1
+2026-04-22,Referral,4,3,1,0
 2026-04-22,Direct,15,9,0,6
 2026-04-22,Organic Search,31,22,0,12
-2026-04-22,Referral,4,3,1,0
 2026-04-23,Direct,6,3,4,3
 2026-04-23,Organic Search,27,15,3,7
 2026-04-23,Referral,1,1,0,0
-2026-04-24,Direct,10,5,0,4
 2026-04-24,Organic Search,22,14,1,6
 2026-04-24,Referral,6,5,1,1
+2026-04-24,Direct,10,5,0,4
+2026-04-25,Referral,1,1,1,1
 2026-04-25,Direct,6,6,0,6
 2026-04-25,Organic Search,3,3,0,3
-2026-04-25,Referral,1,1,1,1
 2026-04-26,Direct,1,1,0,1
 2026-04-26,Organic Search,3,2,0,3
 2026-04-26,Referral,1,1,0,1
-2026-04-27,Direct,10,7,0,2
 2026-04-27,Organic Search,27,17,4,9
+2026-04-27,Direct,10,7,0,2
 2026-04-27,Referral,3,1,0,1
-2026-04-28,Direct,16,9,0,7
 2026-04-28,Organic Search,27,20,1,12
+2026-04-28,Direct,16,9,0,7
 2026-04-28,Referral,2,1,0,0
 2026-04-28,Unassigned,1,0,0,0
-2026-04-29,Direct,17,12,2,3
 2026-04-29,Organic Search,35,27,5,12
+2026-04-29,Direct,17,12,2,3
 2026-04-29,Referral,2,0,0,0
 2026-04-30,Direct,15,12,2,6
 2026-04-30,Organic Search,36,23,1,13
 2026-04-30,Referral,4,2,0,1
-2026-05-01,Direct,1,0,0,0
 2026-05-01,Organic Search,3,2,2,2
+2026-05-01,Direct,1,0,0,0
 2026-05-01,Referral,1,1,0,1
 2026-05-02,Direct,3,2,0,3
 2026-05-02,Organic Search,6,3,0,3
@@ -1637,17 +1631,17 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-05-06,Direct,7,3,2,3
 2026-05-06,Organic Search,26,21,0,3
 2026-05-06,Referral,4,3,0,1
-2026-05-07,Direct,14,13,1,5
 2026-05-07,Organic Search,39,34,5,11
+2026-05-07,Direct,14,13,1,5
 2026-05-07,Referral,7,4,0,1
-2026-05-08,Direct,13,10,0,6
 2026-05-08,Organic Search,28,15,1,5
+2026-05-08,Direct,13,10,0,6
 2026-05-08,Referral,6,4,0,1
 2026-05-09,Organic Search,5,4,0,4
 2026-05-09,Referral,3,1,0,1
 2026-05-10,Organic Search,9,6,0,4
-2026-05-11,Direct,11,6,0,5
 2026-05-11,Organic Search,38,29,9,8
+2026-05-11,Direct,11,6,0,5
 2026-05-11,Referral,7,5,0,1
 2026-05-12,Direct,15,12,2,4
 2026-05-12,Organic Search,22,15,1,3
@@ -1655,47 +1649,47 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-05-13,Direct,12,7,2,6
 2026-05-13,Organic Search,38,27,1,13
 2026-05-13,Referral,4,3,0,0
-2026-05-14,Direct,5,3,0,0
 2026-05-14,Organic Search,13,11,3,8
+2026-05-14,Direct,5,3,0,0
 2026-05-14,Referral,1,0,0,0
-2026-05-15,Direct,2,0,0,1
 2026-05-15,Organic Search,5,5,1,2
+2026-05-15,Direct,2,0,0,1
 2026-05-15,Referral,2,0,0,0
 2026-05-16,Direct,1,1,0,1
 2026-05-16,Organic Search,6,2,0,3
 2026-05-17,Organic Search,3,2,2,2
-2026-05-18,Direct,9,8,0,5
 2026-05-18,Organic Search,38,25,11,15
+2026-05-18,Direct,9,8,0,5
 2026-05-18,Referral,1,0,0,0
 2026-05-19,Direct,27,15,2,16
 2026-05-19,Organic Search,37,25,1,13
 2026-05-19,Referral,12,7,0,1
-2026-05-20,Direct,17,9,0,5
 2026-05-20,Organic Search,19,14,1,4
+2026-05-20,Direct,17,9,0,5
 2026-05-20,Referral,6,4,0,1
 2026-05-21,Direct,26,17,0,14
 2026-05-21,Organic Search,34,24,0,11
 2026-05-21,Referral,2,2,0,0
 2026-05-21,Unassigned,2,0,0,0
-2026-05-22,Direct,15,8,0,5
 2026-05-22,Organic Search,23,20,1,12
+2026-05-22,Direct,15,8,0,5
 2026-05-23,Direct,4,4,0,4
-2026-05-24,Direct,2,1,0,1
 2026-05-24,Organic Search,3,2,1,3
-2026-05-25,Direct,6,4,1,0
+2026-05-24,Direct,2,1,0,1
 2026-05-25,Organic Search,36,27,2,12
+2026-05-25,Direct,6,4,1,0
 2026-05-25,Referral,1,1,0,0
-2026-05-26,Direct,4,2,0,2
 2026-05-26,Organic Search,43,26,6,12
+2026-05-26,Direct,4,2,0,2
 2026-05-26,Referral,7,5,0,2
-2026-05-27,Direct,14,6,1,1
 2026-05-27,Organic Search,37,27,2,9
+2026-05-27,Direct,14,6,1,1
 2026-05-27,Referral,4,3,0,1
-2026-05-28,Direct,11,6,0,4
 2026-05-28,Organic Search,41,32,2,9
+2026-05-28,Direct,11,6,0,4
 2026-05-28,Referral,3,3,0,1
-2026-05-29,Direct,6,4,1,3
 2026-05-29,Organic Search,28,20,2,8
+2026-05-29,Direct,6,4,1,3
 2026-05-29,Referral,1,0,0,0
 2026-05-30,Organic Search,3,2,0,2
 2026-05-31,Direct,1,1,0,1
@@ -1703,72 +1697,72 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-06-01,Direct,6,4,0,2
 2026-06-01,Organic Search,32,21,0,5
 2026-06-01,Referral,4,3,0,1
-2026-06-02,Direct,13,7,0,4
 2026-06-02,Organic Search,31,22,1,7
+2026-06-02,Direct,13,7,0,4
 2026-06-02,Referral,1,1,0,1
-2026-06-03,Direct,11,9,2,4
 2026-06-03,Organic Search,36,30,4,11
+2026-06-03,Direct,11,9,2,4
+2026-06-03,Unassigned,1,0,1,0
 2026-06-03,Organic Social,2,0,0,1
 2026-06-03,Referral,1,1,0,0
-2026-06-03,Unassigned,1,0,1,0
 2026-06-04,Direct,17,13,0,6
 2026-06-04,Organic Search,18,14,0,9
 2026-06-04,Referral,3,2,0,1
-2026-06-05,Direct,7,5,1,2
 2026-06-05,Organic Search,20,15,2,12
+2026-06-05,Direct,7,5,1,2
 2026-06-05,Referral,1,0,0,0
 2026-06-05,Unassigned,1,0,0,0
 2026-06-06,Organic Search,4,3,0,3
 2026-06-07,Organic Search,6,5,0,5
-2026-06-08,AI Assistant,1,1,0,1
-2026-06-08,Direct,6,4,1,3
 2026-06-08,Organic Search,20,15,2,10
+2026-06-08,Direct,6,4,1,3
+2026-06-08,AI Assistant,1,1,0,1
 2026-06-08,Referral,5,4,0,3
-2026-06-09,Direct,6,4,2,1
 2026-06-09,Organic Search,36,28,3,13
-2026-06-09,Organic Social,1,0,0,0
+2026-06-09,Direct,6,4,2,1
 2026-06-09,Referral,3,3,1,3
+2026-06-09,Organic Social,1,0,0,0
+2026-06-10,Organic Search,23,18,1,5
 2026-06-10,AI Assistant,2,0,0,0
 2026-06-10,Direct,10,6,0,2
-2026-06-10,Organic Search,23,18,1,5
-2026-06-11,AI Assistant,1,0,0,0
-2026-06-11,Direct,10,5,0,4
 2026-06-11,Organic Search,41,22,3,13
 2026-06-11,Referral,9,7,1,3
+2026-06-11,AI Assistant,1,0,0,0
+2026-06-11,Direct,10,5,0,4
 2026-06-12,Direct,12,6,4,6
 2026-06-12,Organic Search,20,13,0,4
 2026-06-12,Referral,6,5,0,2
 2026-06-13,Direct,2,1,0,1
 2026-06-13,Organic Search,1,1,0,1
 2026-06-14,Organic Search,6,6,0,5
+2026-06-15,Organic Search,31,22,2,9
 2026-06-15,AI Assistant,1,0,0,0
 2026-06-15,Direct,11,9,0,4
-2026-06-15,Organic Search,31,22,2,9
 2026-06-15,Referral,7,2,0,0
 2026-06-16,Direct,9,6,2,3
+2026-06-16,Referral,7,4,1,1
 2026-06-16,Organic Search,32,22,0,6
 2026-06-16,Organic Social,1,1,0,1
-2026-06-16,Referral,7,4,1,1
 2026-06-17,Direct,14,10,0,4
 2026-06-17,Organic Search,30,21,0,6
 2026-06-17,Referral,6,2,0,1
-2026-06-18,Direct,6,4,0,4
 2026-06-18,Organic Search,33,26,2,11
+2026-06-18,Direct,6,4,0,4
 2026-06-18,Referral,4,1,0,0
 2026-06-19,Direct,2,2,0,1
 2026-06-19,Organic Search,4,1,0,2
 2026-06-20,Direct,6,6,0,6
 2026-06-20,Organic Search,1,1,0,1
 2026-06-21,Organic Search,7,5,0,5
-2026-06-22,Direct,6,5,0,1
 2026-06-22,Organic Search,29,19,1,9
+2026-06-22,Direct,6,5,0,1
 2026-06-22,Referral,1,1,0,0
 2026-06-23,Direct,11,5,1,5
 2026-06-23,Organic Search,25,14,1,7
 2026-06-23,Referral,3,2,0,1
-2026-06-24,Direct,8,3,0,3
 2026-06-24,Organic Search,19,14,4,4
 2026-06-24,Unassigned,1,0,1,0
+2026-06-24,Direct,8,3,0,3
 2026-06-25,AI Assistant,2,0,0,1
 2026-06-25,Direct,6,4,0,3
 2026-06-25,Organic Search,14,13,0,6
@@ -1776,36 +1770,36 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-06-26,Organic Search,13,9,0,2
 2026-06-27,Organic Search,5,4,0,4
 2026-06-28,Organic Search,5,3,0,4
-2026-06-29,Direct,25,17,0,15
 2026-06-29,Organic Search,25,18,1,11
-2026-06-29,Referral,3,1,0,0
 2026-06-29,Unassigned,1,0,1,0
+2026-06-29,Direct,25,17,0,15
+2026-06-29,Referral,3,1,0,0
 2026-06-30,Direct,5,4,0,4
 2026-06-30,Organic Search,10,7,0,5
 2026-06-30,Referral,5,3,0,1
-2026-07-01,Direct,9,7,0,3
 2026-07-01,Organic Search,13,13,2,3
 2026-07-01,Referral,4,1,1,0
-2026-07-02,Direct,8,5,0,1
+2026-07-01,Direct,9,7,0,3
 2026-07-02,Organic Search,33,22,2,10
+2026-07-02,Direct,8,5,0,1
 2026-07-02,Referral,2,1,0,1
-2026-07-03,Direct,9,8,0,5
 2026-07-03,Organic Search,17,9,1,8
+2026-07-03,Direct,9,8,0,5
 2026-07-04,Organic Search,3,1,0,2
 2026-07-05,Organic Search,5,5,0,5
+2026-07-06,Organic Search,16,8,1,7
 2026-07-06,AI Assistant,1,0,0,1
 2026-07-06,Direct,2,0,0,0
-2026-07-06,Organic Search,16,8,1,7
 2026-07-06,Referral,1,1,0,1
-2026-07-07,Direct,1,0,0,1
 2026-07-07,Organic Search,13,8,1,6
+2026-07-07,Direct,1,0,0,1
 2026-07-07,Referral,1,0,0,0
-2026-07-08,AI Assistant,1,1,0,1
-2026-07-08,Direct,7,3,0,4
 2026-07-08,Organic Search,14,11,1,5
 2026-07-08,Referral,3,2,1,1
-2026-07-09,Direct,2,1,0,0
+2026-07-08,AI Assistant,1,1,0,1
+2026-07-08,Direct,7,3,0,4
 2026-07-09,Organic Search,11,6,2,3
+2026-07-09,Direct,2,1,0,0
 2026-07-09,Referral,3,1,0,0
 2026-07-10,Direct,1,1,0,1
 2026-07-10,Organic Search,6,3,0,2
@@ -1817,8 +1811,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-07-13,Direct,2,1,0,1
 2026-07-13,Organic Search,6,5,0,3
 2026-07-13,Referral,1,0,0,0
-2026-07-14,Direct,6,5,0,4
 2026-07-14,Organic Search,6,6,1,4
+2026-07-14,Direct,6,5,0,4
 2026-07-15,Direct,3,0,0,0
 2026-07-15,Organic Search,4,2,0,3
 2026-07-15,Referral,2,2,0,1
@@ -1827,8 +1821,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-07-16,Referral,1,0,0,0
 2026-07-17,Direct,1,1,0,1
 2026-07-17,Organic Search,7,4,0,5
-2026-07-18,Direct,1,0,0,1
 2026-07-18,Organic Search,8,4,1,7
+2026-07-18,Direct,1,0,0,1
 2026-07-18,Referral,1,1,0,1
 2026-07-19,Direct,1,1,2,1
 2026-07-19,Organic Search,8,3,0,5
@@ -1850,11 +1844,11 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-07-27,Direct,5,2,0,1
 2026-07-27,Organic Search,7,4,0,4
 2026-07-27,Referral,1,1,0,1
-2026-07-28,Direct,4,3,0,0
 2026-07-28,Organic Search,7,4,1,4
+2026-07-28,Direct,4,3,0,0
 2026-07-28,Unassigned,1,0,0,0
-2026-07-29,Direct,5,4,0,3
 2026-07-29,Organic Search,13,9,4,8
+2026-07-29,Direct,5,4,0,3
 2026-07-29,Referral,1,1,0,1
 2026-07-30,Direct,3,1,0,1
 2026-07-30,Organic Search,9,6,0,3
@@ -1865,15 +1859,15 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-08-02,Organic Search,5,3,0,4
 2026-08-03,Direct,25,17,3,7
 2026-08-03,Organic Search,16,16,1,9
+2026-08-04,Organic Search,13,11,1,8
 2026-08-04,AI Assistant,1,1,0,1
 2026-08-04,Direct,11,9,0,4
-2026-08-04,Organic Search,13,11,1,8
 2026-08-04,Referral,1,1,0,1
 2026-08-05,Direct,8,7,1,4
 2026-08-05,Organic Search,21,13,0,12
 2026-08-05,Referral,2,2,0,1
-2026-08-06,Direct,7,5,0,0
 2026-08-06,Organic Search,25,11,1,15
+2026-08-06,Direct,7,5,0,0
 2026-08-06,Referral,3,1,0,1
 2026-08-07,Direct,7,4,1,2
 2026-08-07,Organic Search,15,12,0,6
@@ -1881,17 +1875,17 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-08-08,Organic Search,6,3,0,4
 2026-08-09,AI Assistant,1,0,0,1
 2026-08-09,Organic Search,4,3,0,3
-2026-08-10,Direct,15,9,0,7
 2026-08-10,Organic Search,17,16,5,8
+2026-08-10,Direct,15,9,0,7
 2026-08-10,Organic Social,1,1,0,0
 2026-08-10,Referral,1,1,0,0
-2026-08-11,Direct,9,3,0,2
 2026-08-11,Organic Search,20,14,2,6
-2026-08-12,Direct,12,8,0,4
+2026-08-11,Direct,9,3,0,2
 2026-08-12,Organic Search,53,39,4,17
+2026-08-12,Direct,12,8,0,4
 2026-08-12,Referral,3,2,0,1
-2026-08-13,Direct,1,1,0,0
 2026-08-13,Organic Search,28,20,1,7
+2026-08-13,Direct,1,1,0,0
 2026-08-13,Referral,2,2,0,2
 2026-08-14,Direct,6,6,2,1
 2026-08-14,Organic Search,19,14,1,7
@@ -1900,20 +1894,20 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-08-15,Referral,1,0,0,0
 2026-08-16,Direct,1,0,0,1
 2026-08-16,Organic Search,7,6,0,6
-2026-08-17,Direct,9,7,0,1
 2026-08-17,Organic Search,22,16,1,7
 2026-08-17,Referral,1,1,1,0
-2026-08-18,Direct,16,12,0,6
+2026-08-17,Direct,9,7,0,1
 2026-08-18,Organic Search,26,22,1,5
-2026-08-19,Direct,7,7,0,1
+2026-08-18,Direct,16,12,0,6
 2026-08-19,Organic Search,20,14,1,7
+2026-08-19,Direct,7,7,0,1
 2026-08-19,Referral,5,3,0,2
 2026-08-19,Unassigned,1,0,0,0
-2026-08-20,Direct,23,17,0,9
 2026-08-20,Organic Search,20,16,2,9
+2026-08-20,Direct,23,17,0,9
 2026-08-20,Referral,1,1,0,0
-2026-08-21,Direct,10,8,0,4
 2026-08-21,Organic Search,13,10,1,5
+2026-08-21,Direct,10,8,0,4
 2026-08-21,Referral,4,3,0,0
 2026-08-21,Unassigned,1,0,0,0
 2026-08-22,Direct,1,0,0,0
@@ -1932,24 +1926,24 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-08-26,Unassigned,1,0,0,0
 2026-08-27,Direct,26,17,1,11
 2026-08-27,Organic Search,22,18,0,6
-2026-08-28,AI Assistant,1,1,0,1
-2026-08-28,Direct,19,12,1,7
 2026-08-28,Organic Search,16,9,3,6
 2026-08-28,Referral,3,3,2,1
+2026-08-28,Direct,19,12,1,7
+2026-08-28,AI Assistant,1,1,0,1
 2026-08-29,Direct,2,0,0,1
 2026-08-29,Organic Search,4,2,0,2
 2026-08-30,AI Assistant,1,1,0,1
 2026-08-30,Direct,1,1,0,0
 2026-08-30,Organic Search,7,4,0,6
+2026-08-31,Organic Search,33,21,1,10
 2026-08-31,AI Assistant,1,0,0,1
 2026-08-31,Direct,16,9,0,4
-2026-08-31,Organic Search,33,21,1,10
 2026-08-31,Referral,4,4,0,1
-2026-09-01,Direct,19,13,0,3
 2026-09-01,Organic Search,26,22,4,12
+2026-09-01,Direct,19,13,0,3
 2026-09-01,Referral,2,0,0,0
-2026-09-02,Direct,18,11,0,0
 2026-09-02,Organic Search,35,24,3,15
+2026-09-02,Direct,18,11,0,0
 2026-09-02,Referral,5,3,0,0
 2026-09-02,Unassigned,1,0,0,0
 2026-09-03,Direct,26,21,3,3
@@ -1964,17 +1958,17 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-09-06,AI Assistant,1,1,0,1
 2026-09-06,Direct,2,1,0,1
 2026-09-06,Organic Search,2,2,0,2
-2026-09-07,Direct,18,12,0,3
 2026-09-07,Organic Search,17,13,3,11
+2026-09-07,Direct,18,12,0,3
 2026-09-07,Referral,2,1,0,1
-2026-09-08,Direct,21,18,0,4
 2026-09-08,Organic Search,30,21,1,12
+2026-09-08,Direct,21,18,0,4
 2026-09-08,Referral,4,2,0,0
 2026-09-09,Direct,17,9,0,1
 2026-09-09,Organic Search,41,19,0,12
 2026-09-09,Referral,5,3,0,2
-2026-09-10,Direct,15,10,0,2
 2026-09-10,Organic Search,38,22,2,17
+2026-09-10,Direct,15,10,0,2
 2026-09-10,Referral,11,10,0,0
 2026-09-11,Direct,27,13,1,7
 2026-09-11,Organic Search,27,17,1,6
@@ -1983,40 +1977,40 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-09-12,Organic Search,5,4,0,3
 2026-09-13,AI Assistant,1,0,0,1
 2026-09-13,Organic Search,2,0,0,1
-2026-09-14,Direct,11,8,0,3
 2026-09-14,Organic Search,25,20,3,11
+2026-09-14,Direct,11,8,0,3
 2026-09-14,Referral,11,9,0,4
-2026-09-15,AI Assistant,1,0,0,1
 2026-09-15,Direct,13,10,2,5
+2026-09-15,AI Assistant,1,0,0,1
 2026-09-15,Organic Search,20,14,0,3
 2026-09-15,Referral,5,4,0,0
-2026-09-16,Direct,23,15,0,4
 2026-09-16,Organic Search,26,21,1,7
+2026-09-16,Direct,23,15,0,4
 2026-09-16,Referral,6,5,0,2
-2026-09-17,Direct,18,11,0,4
 2026-09-17,Organic Search,14,12,3,6
+2026-09-17,Direct,18,11,0,4
 2026-09-17,Referral,11,8,0,1
-2026-09-18,Direct,13,10,0,4
 2026-09-18,Organic Search,16,13,1,5
+2026-09-18,Direct,13,10,0,4
 2026-09-18,Referral,19,14,0,1
 2026-09-18,Unassigned,2,0,0,0
 2026-09-19,Direct,8,8,0,4
 2026-09-19,Organic Search,8,6,0,7
 2026-09-20,Direct,1,0,0,1
 2026-09-20,Organic Search,8,6,0,5
-2026-09-21,AI Assistant,3,1,0,1
-2026-09-21,Direct,20,15,2,4
 2026-09-21,Organic Search,33,25,4,11
+2026-09-21,Direct,20,15,2,4
+2026-09-21,AI Assistant,3,1,0,1
 2026-09-21,Referral,14,10,0,1
 2026-09-22,Direct,18,11,16,0
-2026-09-22,Organic Search,33,26,0,10
 2026-09-22,Referral,8,5,1,0
+2026-09-22,Organic Search,33,26,0,10
 2026-09-23,Direct,5,3,0,1
 2026-09-23,Organic Search,30,22,0,10
 2026-09-23,Organic Social,8,4,0,4
 2026-09-23,Referral,14,8,0,0
-2026-09-24,AI Assistant,2,2,0,2
 2026-09-24,Direct,9,6,1,3
+2026-09-24,AI Assistant,2,2,0,2
 2026-09-24,Organic Search,21,11,0,10
 2026-09-24,Referral,13,12,0,0
 2026-09-24,Unassigned,1,0,0,0
@@ -2031,19 +2025,19 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-09-27,Organic Search,4,3,0,4
 2026-09-27,Referral,1,1,0,1
 2026-09-28,AI Assistant,1,1,1,1
+2026-09-28,Referral,11,8,1,1
 2026-09-28,Direct,8,4,0,3
 2026-09-28,Organic Search,31,23,0,10
 2026-09-28,Organic Social,1,1,0,0
-2026-09-28,Referral,11,8,1,1
-2026-09-29,Direct,10,5,1,3
 2026-09-29,Organic Search,37,27,2,11
+2026-09-29,Direct,10,5,1,3
 2026-09-29,Organic Social,1,1,0,0
 2026-09-29,Referral,11,8,0,1
-2026-09-30,Direct,12,6,0,5
 2026-09-30,Organic Search,27,17,2,11
 2026-09-30,Referral,7,5,1,0
-2026-10-01,Direct,7,4,2,3
+2026-09-30,Direct,12,6,0,5
 2026-10-01,Organic Search,27,21,4,11
+2026-10-01,Direct,7,4,2,3
 2026-10-01,Organic Social,1,1,1,0
 2026-10-01,Referral,4,3,0,0
 2026-10-01,Unassigned,1,0,0,0
@@ -2056,43 +2050,43 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-10-03,Organic Search,4,2,0,4
 2026-10-04,Direct,4,1,0,4
 2026-10-04,Organic Search,2,1,0,1
-2026-10-05,AI Assistant,1,1,0,1
-2026-10-05,Direct,17,10,2,4
 2026-10-05,Organic Search,31,19,3,13
+2026-10-05,Direct,17,10,2,4
+2026-10-05,AI Assistant,1,1,0,1
 2026-10-05,Referral,10,5,0,1
-2026-10-06,AI Assistant,2,2,0,2
-2026-10-06,Direct,24,17,1,7
 2026-10-06,Organic Search,38,28,4,9
+2026-10-06,Direct,24,17,1,7
+2026-10-06,AI Assistant,2,2,0,2
 2026-10-06,Organic Social,2,1,0,0
 2026-10-06,Referral,18,15,0,0
-2026-10-07,Direct,18,10,0,11
 2026-10-07,Organic Search,38,24,3,11
+2026-10-07,Direct,18,10,0,11
 2026-10-07,Referral,12,6,0,0
-2026-10-08,AI Assistant,1,1,0,1
 2026-10-08,Direct,22,12,1,10
-2026-10-08,Organic Search,14,9,0,4
 2026-10-08,Referral,11,10,1,0
-2026-10-09,Direct,14,6,0,9
+2026-10-08,AI Assistant,1,1,0,1
+2026-10-08,Organic Search,14,9,0,4
 2026-10-09,Organic Search,8,7,2,4
+2026-10-09,Direct,14,6,0,9
 2026-10-09,Referral,11,7,0,1
 2026-10-10,Direct,13,6,0,5
 2026-10-10,Organic Search,4,3,0,3
 2026-10-10,Referral,8,7,0,0
-2026-10-11,Direct,4,0,0,4
 2026-10-11,Organic Search,6,3,2,5
+2026-10-11,Direct,4,0,0,4
 2026-10-11,Referral,3,3,0,0
 2026-10-12,Direct,21,11,4,10
 2026-10-12,Organic Search,26,16,2,8
 2026-10-12,Referral,25,18,2,0
-2026-10-13,AI Assistant,1,1,0,1
-2026-10-13,Direct,17,13,0,8
 2026-10-13,Organic Search,35,23,3,16
 2026-10-13,Referral,18,13,2,1
+2026-10-13,AI Assistant,1,1,0,1
+2026-10-13,Direct,17,13,0,8
 2026-10-14,Direct,20,12,1,8
 2026-10-14,Organic Search,24,11,0,9
 2026-10-14,Referral,17,12,0,1
-2026-10-15,Direct,17,10,0,9
 2026-10-15,Organic Search,22,15,1,5
+2026-10-15,Direct,17,10,0,9
 2026-10-15,Referral,10,6,0,0
 2026-10-15,Unassigned,1,1,0,1
 2026-10-16,Direct,10,5,1,2
@@ -2102,46 +2096,46 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-10-17,Direct,4,0,0,3
 2026-10-17,Organic Search,2,2,0,1
 2026-10-17,Referral,2,0,0,1
+2026-10-18,Organic Search,3,3,2,3
 2026-10-18,AI Assistant,1,1,0,1
 2026-10-18,Direct,1,1,0,1
-2026-10-18,Organic Search,3,3,2,3
 2026-10-18,Referral,1,0,0,0
-2026-10-19,Direct,18,7,0,9
 2026-10-19,Organic Search,26,16,1,9
+2026-10-19,Direct,18,7,0,9
 2026-10-19,Referral,6,5,0,2
-2026-10-20,Direct,30,12,0,19
 2026-10-20,Organic Search,29,19,4,11
+2026-10-20,Direct,30,12,0,19
 2026-10-20,Referral,14,8,0,1
 2026-10-21,Direct,23,6,0,20
 2026-10-21,Organic Search,23,12,0,11
 2026-10-21,Referral,11,6,0,0
-2026-10-22,AI Assistant,4,2,0,4
-2026-10-22,Direct,17,9,1,11
 2026-10-22,Organic Search,34,24,5,12
+2026-10-22,Direct,17,9,1,11
+2026-10-22,AI Assistant,4,2,0,4
 2026-10-22,Paid Search,1,1,0,1
 2026-10-22,Referral,4,3,0,0
-2026-10-23,Direct,18,7,0,12
 2026-10-23,Organic Search,23,17,5,10
+2026-10-23,Direct,18,7,0,12
 2026-10-23,Referral,5,4,0,0
 2026-10-24,AI Assistant,1,0,0,1
 2026-10-24,Direct,1,0,0,0
 2026-10-24,Organic Search,4,3,0,3
 2026-10-24,Referral,1,1,0,0
-2026-10-25,Direct,4,1,0,4
 2026-10-25,Organic Search,7,4,3,3
-2026-10-26,Direct,12,5,0,9
+2026-10-25,Direct,4,1,0,4
 2026-10-26,Organic Search,31,19,2,8
+2026-10-26,Direct,12,5,0,9
 2026-10-26,Referral,8,4,0,0
 2026-10-27,Direct,23,18,0,12
 2026-10-27,Organic Search,31,20,0,13
 2026-10-27,Referral,15,13,0,0
-2026-10-28,AI Assistant,1,1,0,1
 2026-10-28,Direct,19,8,2,9
+2026-10-28,AI Assistant,1,1,0,1
 2026-10-28,Email,1,1,0,1
 2026-10-28,Organic Search,34,26,0,11
 2026-10-28,Referral,11,10,0,1
-2026-10-29,Direct,14,6,0,9
 2026-10-29,Organic Search,17,12,1,5
+2026-10-29,Direct,14,6,0,9
 2026-10-29,Referral,5,4,0,1
 2026-10-29,Unassigned,1,0,0,0
 2026-10-30,AI Assistant,1,1,0,1
@@ -2150,10 +2144,18 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-10-30,Referral,2,2,0,0
 2026-10-31,Direct,21,3,0,21
 2026-10-31,Organic Search,4,2,0,2
+2026-11-01,Organic Search,2,1,1,1
 2026-11-01,AI Assistant,1,1,0,1
 2026-11-01,Direct,50,0,0,50
-2026-11-01,Organic Search,2,1,1,1
-2026-11-02,Direct,55,13,0,43
 2026-11-02,Organic Search,31,22,2,10
+2026-11-02,Direct,55,13,0,43
 2026-11-02,Referral,8,5,0,4
 2026-11-02,Unassigned,1,0,0,0
+2026-11-03,Organic Search,36,22,1,9
+2026-11-03,Direct,94,8,0,81
+2026-11-03,Referral,9,7,0,1
+2026-11-03,Unassigned,1,0,0,0
+2026-11-04,Organic Search,40,24,4,11
+2026-11-04,Direct,22,16,1,13
+2026-11-04,AI Assistant,1,1,0,1
+2026-11-04,Referral,9,4,0,1
