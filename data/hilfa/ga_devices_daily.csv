@@ -1,7 +1,4 @@
 date,device,sessions,engaged_sessions
-2024-11-05,desktop,49,32
-2024-11-05,mobile,3,3
-2024-11-05,tablet,1,1
 2024-11-06,desktop,36,27
 2024-11-06,mobile,6,4
 2024-11-07,desktop,36,26
@@ -1485,3 +1482,5 @@ date,device,sessions,engaged_sessions
 2026-11-03,desktop,58,32
 2026-11-04,desktop,56,37
 2026-11-04,mobile,16,8
+2026-11-05,desktop,41,31
+2026-11-05,mobile,7,2

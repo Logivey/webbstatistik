@@ -1,7 +1,4 @@
 date,channel,sessions,engaged_sessions,conversions,new_users
-2024-11-05,Direct,24,18,14,7
-2024-11-05,Organic Search,26,16,7,9
-2024-11-05,Referral,3,2,0,1
 2024-11-06,Organic Search,19,15,15,13
 2024-11-06,Direct,20,14,4,4
 2024-11-06,Referral,3,2,0,3
@@ -2159,3 +2156,8 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-11-04,Direct,22,16,1,13
 2026-11-04,AI Assistant,1,1,0,1
 2026-11-04,Referral,9,4,0,1
+2026-11-05,AI Assistant,1,1,3,1
+2026-11-05,Direct,12,7,0,3
+2026-11-05,Organic Search,28,21,0,14
+2026-11-05,Referral,7,4,0,1
+2026-11-05,Unassigned,2,0,0,0
