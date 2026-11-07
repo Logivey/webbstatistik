@@ -1,10 +1,4 @@
 date,channel,sessions,engaged_sessions,conversions,new_users
-2024-11-06,Organic Search,140,85,9,44
-2024-11-06,Direct,60,36,1,19
-2024-11-06,Paid Search,34,25,1,20
-2024-11-06,Display,1,1,0,0
-2024-11-06,Organic Social,2,1,0,1
-2024-11-06,Referral,12,9,0,3
 2024-11-07,Organic Search,111,79,7,39
 2024-11-07,Direct,41,24,1,9
 2024-11-07,Paid Search,36,22,1,22
@@ -4207,4 +4201,10 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-11-05,Direct,40,22,1,13
 2026-11-05,AI Assistant,8,5,0,7
 2026-11-05,Organic Social,1,1,0,0
-2026-11-05,Unassigned,4,0,0,0
+2026-11-05,Unassigned,3,0,0,0
+2026-11-06,Organic Search,69,44,4,21
+2026-11-06,Direct,21,10,3,5
+2026-11-06,AI Assistant,4,4,2,4
+2026-11-06,Unassigned,34,1,2,0
+2026-11-06,Referral,18,6,1,11
+2026-11-06,Cross-network,10,6,0,10

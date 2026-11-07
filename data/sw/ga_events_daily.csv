@@ -1,8 +1,4 @@
 date,event,conversions
-2024-11-06,mailto_klick,5
-2024-11-06,tel_klick,3
-2024-11-06,Skapa konto genomförd,2
-2024-11-06,3D ritning hemladdad,1
 2024-11-07,mailto_klick,5
 2024-11-07,3D ritning hemladdad,3
 2024-11-07,tel_klick,1
@@ -1560,3 +1556,5 @@ date,event,conversions
 2026-11-05,mailto_klick,8
 2026-11-05,3D ritning hemladdad,1
 2026-11-05,request_more_info,1
+2026-11-06,Spara som PDF,11
+2026-11-06,request_more_info,1
