@@ -1,7 +1,4 @@
 date,channel,sessions,engaged_sessions,conversions,new_users
-2024-11-08,Organic Search,21,14,14,8
-2024-11-08,Direct,21,11,0,6
-2024-11-08,Referral,3,2,0,1
 2024-11-09,Direct,8,3,5,2
 2024-11-09,Organic Search,4,4,1,4
 2024-11-09,Referral,2,2,0,0
@@ -2160,3 +2157,6 @@ date,channel,sessions,engaged_sessions,conversions,new_users
 2026-11-06,Referral,6,2,0,3
 2026-11-07,Direct,42,0,0,42
 2026-11-07,Organic Search,6,4,0,4
+2026-11-08,Organic Search,7,4,3,5
+2026-11-08,Direct,3,2,0,3
+2026-11-08,Referral,1,0,0,1
